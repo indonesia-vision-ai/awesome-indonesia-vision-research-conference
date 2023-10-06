@@ -8,6 +8,20 @@ A curated list of resources dedicated to research paper published by Indonesian 
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/chrysts">
+            <img src="https://avatars.githubusercontent.com/u/1657925?v=4" width="100;" alt="chrysts"/>
+            <br />
+            <sub><b>Christian Simon</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/joshuajano">
+            <img src="https://avatars.githubusercontent.com/u/34101139?v=4" width="100;" alt="joshuajano"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/williem-scientist">
             <img src="https://avatars.githubusercontent.com/u/23333483?v=4" width="100;" alt="williem-scientist"/>
             <br />
