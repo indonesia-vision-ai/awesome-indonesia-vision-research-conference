@@ -81,6 +81,8 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 ## CVPR 2015
 * **Christian Simon**, In Kyu Park, *Reflection Removal for In-Vehicle Black Box Videos* [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Simon_Reflection_Removal_for_2015_CVPR_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2015/supplemental/Simon_Reflection_Removal_for_2015_CVPR_supplemental.zip)]
 
+## ICCV 2003
+D. Miyazaki, **Robby T. Tan, K**. Hara, K. Ikeuchi, *Polarization-based Inverse Rendering from a single view* [[Paper](https://www.dropbox.com/s/fq0sxtqr42i5azf/2003_iccv_miyazaki.pdf?dl=0)]
 ## CVPR 2003
-* Robby T. Tan, Ko Nishino, Katsushi Ikeuchi, *Illumination Chromaticity Estimation using Inverse-Intensity Chromaticity Space* [[Paper](https://www.dropbox.com/s/d38rcbbdz8uj5gp/2003_cvpr.pdf?dl=0)] 
+* **Robby T. Tan**, Ko Nishino, Katsushi Ikeuchi, *Illumination Chromaticity Estimation using Inverse-Intensity Chromaticity Space* [[Paper](https://www.dropbox.com/s/d38rcbbdz8uj5gp/2003_cvpr.pdf?dl=0)] 
 Maintainers - [Williem](https://github.com/williem-scientist), [Christian Simon](https://github.com/chrysts)
