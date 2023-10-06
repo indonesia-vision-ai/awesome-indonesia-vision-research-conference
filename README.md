@@ -5,7 +5,7 @@ A curated list of resources dedicated to research paper published by Indonesian 
 Maintainers - [Williem](https://github.com/williem-scientist), [Christian Simon](https://github.com/chrysts), [Joshua Santoso](https://github.com/joshuajano)
 
 ## Contributing
-Please feel free to [pull requests](https://github.com/indonesia-vision-ai/awesome-indonsia-vision-research/pulls) or join our chats to add papers. If you have published paper in the selective conferences, we encourage you to update the information here. 
+Please feel free to [pull requests](https://github.com/indonesia-vision-ai/awesome-indonsia-vision-research/pulls) or join our chats ([https://img.shields.io/discord/698610475432411196.svg?logo=discord)](https://discord.gg/aTsC6AbVRw)) to add papers or authors. If you have published paper in the selective conferences, we encourage you to update the information here. 
 
 
 ## Conferences
