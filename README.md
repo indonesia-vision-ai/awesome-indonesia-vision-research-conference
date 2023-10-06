@@ -1,4 +1,4 @@
-# Awesome Indonesia Computer Vision Research (Conference Publication)
+# Awesome Indonesia Computer Vision Research - Conference Publication
 
 A curated list of resources dedicated to research paper published by Indonesian in top international conferences. We only select the conferences that have rank A and A* in [CORE Conference Portal](http://portal.core.edu.au/conf-ranks/?search=vision&by=all&source=CORE2023&sort=arank&page=1). Indonesian means a native or inhabitant of Indonesia, or a person of Indonesian descent. This repository is to promote and support the research from fellow Indonesians in the top conference. It is often for Indonsians attending conference but have no idea whether there is any Indonesian presenting the paper or not.
 
@@ -42,3 +42,13 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 
 
 ### WACV 2023
+
+
+## CVPR 2016
+* **Williem**, In Kyu Park, *Robust Light Field Depth Estimation for Noisy Scene With Occlusion* [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Williem_Robust_Light_Field_CVPR_2016_paper.pdf)]
+
+## ICCV 2015
+* **Williem**, Ramesh Raskar, In Kyu Park, *Depth Map Estimation and Colorization of Anaglyph Images Using Local Color Prior and Reverse Intensity Distribution* [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Williem_Depth_Map_Estimation_ICCV_2015_paper.pdf)]
+
+## CVPR 2015
+* **Christian Simon**, In Kyu Park, *Reflection Removal for In-Vehicle Black Box Videos* [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Simon_Reflection_Removal_for_2015_CVPR_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2015/supplemental/Simon_Reflection_Removal_for_2015_CVPR_supplemental.zip)]
