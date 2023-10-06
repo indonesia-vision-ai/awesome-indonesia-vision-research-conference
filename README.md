@@ -26,9 +26,6 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 ### CVPR 2023
 
 
-### BMVC 2023
-
-
 ### WACV 2023
 
 
@@ -36,13 +33,23 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 
 
 ### CVPR 2022
+* **Christian Simon**, Masoud Faraki, Yi-Hsuan Tsai, Xiang Yu, Samuel Schulter, Yumin Suh, Mehrtash Harandi, Manmohan Chandraker, *On Generalizing Beyond Domains in Cross-Domain Continual Learning*, [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Simon_On_Generalizing_Beyond_Domains_in_Cross-Domain_Continual_Learning_CVPR_2022_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Simon_On_Generalizing_Beyond_CVPR_2022_supplemental.pdf)]
+
+### WACV 2022
+* **Christian Simon**, Piotr Koniusz, Mehrtash Harandi, *Meta-Learning for Multi-Label Few-Shot Classification*, [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Simon_Meta-Learning_for_Multi-Label_Few-Shot_Classification_WACV_2022_paper.pdf)]
+* **Christian Simon**, Piotr Koniusz, Mehrtash Harandi, *Towards a Robust Differentiable Architecture Search under Label Noise*, [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Simon_Towards_a_Robust_Differentiable_Architecture_Search_Under_Label_Noise_WACV_2022_paper.pdf)]
+
+## CVPR 2021
+* **Christian Simon**, Piotr Koniusz, Mehrtash Harandi, *On Learning the Geodesic Path for Incremental Learning*, [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Simon_On_Learning_the_Geodesic_Path_for_Incremental_Learning_CVPR_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Simon_On_Learning_the_CVPR_2021_supplemental.pdf)]
+* Jie Hong, Pengfei Fang, Weihao Li, Tong Zhang, **Christian Simon**, Mehrtash Harandi, Lars Petersson, *Reinforced Attention for Few-Shot Learning and Beyond*, [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_Reinforced_Attention_for_Few-Shot_Learning_and_Beyond_CVPR_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Hong_Reinforced_Attention_for_CVPR_2021_supplemental.pdf)]
 
 
-### BMVC 2022
+## ECCV 2020
+* **Christian Simon**, Piotr Koniusz, Richard Nock, Mehrtash Harandi, *Adaptive Subspaces for Few-Shot Learning*, [[Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545.pdf)] [[Supp](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545-supp.pdf)]
 
-
-### WACV 2023
-
+  
+## CVPR 2020
+* **Christian Simon**, Piotr Koniusz, Richard Nock, Mehrtash Harandi, *Adaptive Subspaces for Few-Shot Learning*, [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Simon_Adaptive_Subspaces_for_Few-Shot_Learning_CVPR_2020_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Simon_Adaptive_Subspaces_for_CVPR_2020_supplemental.pdf)]
 
 ## CVPR 2016
 * **Williem**, In Kyu Park, *Robust Light Field Depth Estimation for Noisy Scene With Occlusion* [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Williem_Robust_Light_Field_CVPR_2016_paper.pdf)]
