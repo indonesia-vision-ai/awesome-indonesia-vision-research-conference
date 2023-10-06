@@ -37,8 +37,8 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * Weilong Yan, **Robby T. Tan**, Bing Zeng, Shuaicheng Liu, *Deep Homography Mixture for Single Image Rolling Shutter Correction* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_Deep_Homography_Mixture_for_Single_Image_Rolling_Shutter_Correction_ICCV_2023_paper.pdf)]
 
 ### CVPR 2023
-* Mikhail Kennerley, Jian-Gang Wang, Bharadwaj Veeravalli, **Robby T. Tan**, *2PCNet: Two-Phase Consistency Training for Day-to-Night Unsupervised Domain Adaptive Object Detection*[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Kennerley_2PCNet_Two-Phase_Consistency_Training_for_Day-to-Night_Unsupervised_Domain_Adaptive_Object_CVPR_2023_paper.pdf)]
-
+* Mikhail Kennerley, Jian-Gang Wang, Bharadwaj Veeravalli, **Robby T. Tan**, *2PCNet: Two-Phase Consistency Training for Day-to-Night Unsupervised Domain Adaptive Object Detection* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Kennerley_2PCNet_Two-Phase_Consistency_Training_for_Day-to-Night_Unsupervised_Domain_Adaptive_Object_CVPR_2023_paper.pdf)]
+* Heyuan Li, Bo Wang, Yu Cheng, Mohan Kankanhalli, **Robby T. Tan**, *DSFNet: Dual Space Fusion Network for Occlusion-Robust 3D Dense Face Alignment*
 ### WACV 2023
 
 
