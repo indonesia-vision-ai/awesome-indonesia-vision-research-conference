@@ -5,6 +5,16 @@ A curated list of resources dedicated to research paper published by Indonesian 
 ## Contributors
 
 <!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/williem-scientist">
+            <img src="https://avatars.githubusercontent.com/u/23333483?v=4" width="100;" alt="williem-scientist"/>
+            <br />
+            <sub><b>Williem</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: contributors -end -->
 
 ## Contributing
