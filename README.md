@@ -1,17 +1,10 @@
-# Awesome Indonesia Computer Vision Research - Conference Publication
+o# Awesome Indonesia Computer Vision Research - Conference Publication
 
 A curated list of resources dedicated to research paper published by Indonesian in top international conferences. We only select the conferences that have rank A and A* in [CORE Conference Portal](http://portal.core.edu.au/conf-ranks/?search=vision&by=all&source=CORE2023&sort=arank&page=1). Indonesian means a native or inhabitant of Indonesia, or a person of Indonesian descent. This repository is to promote and support the research from fellow Indonesians in the top conference. It is often for Indonsians attending conference but have no idea whether there is any Indonesian presenting the paper or not.
 
 ## Contributors
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+[<img src="https://github.com/{{ contributor }}.png" width="60px;"/><br /><sub><ahref="https://github.com/{{ contributor }}">{{ contributor }}</a></sub>](https://github.com/{{ contributor }}/{{ repository }}
 
 
 ## Contributing
