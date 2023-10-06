@@ -38,7 +38,8 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 
 ### CVPR 2023
 * Mikhail Kennerley, Jian-Gang Wang, Bharadwaj Veeravalli, **Robby T. Tan**, *2PCNet: Two-Phase Consistency Training for Day-to-Night Unsupervised Domain Adaptive Object Detection* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Kennerley_2PCNet_Two-Phase_Consistency_Training_for_Day-to-Night_Unsupervised_Domain_Adaptive_Object_CVPR_2023_paper.pdf)]
-* Heyuan Li, Bo Wang, Yu Cheng, Mohan Kankanhalli, **Robby T. Tan**, *DSFNet: Dual Space Fusion Network for Occlusion-Robust 3D Dense Face Alignment*
+* Heyuan Li, Bo Wang, Yu Cheng, Mohan Kankanhalli, **Robby T. Tan**, *DSFNet: Dual Space Fusion Network for Occlusion-Robust 3D Dense Face Alignment* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DSFNet_Dual_Space_Fusion_Network_for_Occlusion-Robust_3D_Dense_Face_CVPR_2023_paper.pdf)]
+* Jiadong Wang, Xinyuan Qian, Malu Zhang, **Robby T. Tan**, Haizhou Li, *Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Seeing_What_You_Said_Talking_Face_Generation_Guided_by_a_CVPR_2023_paper.pdf)]
 ### WACV 2023
 
 
