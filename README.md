@@ -55,6 +55,9 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 ## WACV 2020
 * **Julius Surya Sumantri**, In Kyu Park, *360 Panorama Synthesis from a Sparse Set of Images with Unknown Field of View* [[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Sumantri_360_Panorama_Synthesis_from_a_Sparse_Set_of_Images_with_WACV_2020_paper.pdf)]
 
+## ICCV 2019
+* **Muhamad Risqi U. Saputra**, Pedro P. B. de Gusmao, Yasin Almalioglu, Andrew Markham, Niki Trigoni, *Distilling Knowledge From a Deep Pose Regressor Network* [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Saputra_Distilling_Knowledge_From_a_Deep_Pose_Regressor_Network_ICCV_2019_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Saputra_Distilling_Knowledge_From_ICCV_2019_supplemental.pdf)]
+
 ## CVPR 2016
 * **Williem**, In Kyu Park, *Robust Light Field Depth Estimation for Noisy Scene With Occlusion* [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Williem_Robust_Light_Field_CVPR_2016_paper.pdf)]
 
