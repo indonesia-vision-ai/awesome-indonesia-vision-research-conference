@@ -68,7 +68,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
    
 ### ECCV 2020
 * **Christian Simon**, Piotr Koniusz, Richard Nock, Mehrtash Harandi, *Adaptive Subspaces for Few-Shot Learning* [[Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545.pdf)] [[Supp](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545-supp.pdf)]
-* Yuan Liu, Ruoteng Li, Yu Cheng, Robby T. Tan, X. Sui, *Object Tracking using Spatio-Temporal Networks for Future Prediction Location* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670001.pdf)]
+* Yuan Liu, Ruoteng Li, Yu Cheng, **Robby T. Tan**, X. Sui, *Object Tracking using Spatio-Temporal Networks for Future Prediction Location* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670001.pdf)]
 * Wending Yan, **Robby T. Tan**, Dengxin Dai, *Nighttime Defogging Using High-Low Frequency Decomposition and Grayscale-Color Networks* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570460.pdf)]
   
 ### CVPR 2020
