@@ -81,6 +81,18 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 ## CVPR 2015
 * **Christian Simon**, In Kyu Park, *Reflection Removal for In-Vehicle Black Box Videos* [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Simon_Reflection_Removal_for_2015_CVPR_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2015/supplemental/Simon_Reflection_Removal_for_2015_CVPR_supplemental.zip)]
 
+## ECCV 2014
+* Yu Li, G. Fangfang, **Robby T. Tan**, Michael Brown, *A Contrast Enhancement Framework with JPEG Artifacts Suppression* [[Paper](https://www.dropbox.com/s/gd0vzj2epp07ler/2014_eccv_liyu.pdf?dl=0)]
+
+## CVPR 2013
+* Shaodi You, **Robby T. Tan**, Rei Kawakami, Katsushi Ikeuchi, *Adherent Raindrop Detection and Removal in Video*, [[Paper](https://www.dropbox.com/s/70zo85zjaaelvdf/2013_cvpr_shaodi.pdf?dl=0)]
+
+## CVPR 2010
+* T. Morimoto, **Robby T. Tan**, R. Kawakami, and K. Ikeuchi, *Estimating Optical Properties of Layered Surfaces Using the Spider Model* [[Paper](https://www.dropbox.com/s/zcarsgvz770gjoz/2010_cvpr_morimoto.pdf?dl=0)]
+
+## CVPR 2008
+* **Robby T. Tan**, *Visibility in Bad Weather from A Single Image* [[Paper](https://www.dropbox.com/s/y0t300rxaim7cnf/2008_cvpr.pdf?dl=0)]
+
 ## ICCV 2005
 * Rei Kawakami, **Robby T. Tan**, Katsushi Ikeuchi, *Consistent Surface Color for Texturing Large Objects in Outdoor Scenes* [[Paper](https://www.dropbox.com/s/99voq8bungyz0gs/2005_iccv_rei.pdf?dl=0)]
 
