@@ -4,7 +4,6 @@ A curated list of resources dedicated to research paper published by Indonesian 
 
 ## Contributors
 
-[<img src="https://github.com/{{ contributor }}.png" width="60px;"/><br /><sub><ahref="https://github.com/{{ contributor }}">{{ contributor }}</a></sub>](https://github.com/{{ contributor }}/{{ repository }}
 
 
 ## Contributing
