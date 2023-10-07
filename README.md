@@ -70,6 +70,9 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * **Christian Simon**, Piotr Koniusz, Mehrtash Harandi, *Meta-Learning for Multi-Label Few-Shot Classification* [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Simon_Meta-Learning_for_Multi-Label_Few-Shot_Classification_WACV_2022_paper.pdf)]
 * **Christian Simon**, Piotr Koniusz, Mehrtash Harandi, *Towards a Robust Differentiable Architecture Search under Label Noise* [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Simon_Towards_a_Robust_Differentiable_Architecture_Search_Under_Label_Noise_WACV_2022_paper.pdf)]
 
+### BMVC 2021
+* **Marcella Astrid**, Muhammad Zaigham Zaheer, Jae-Yeong Lee, Seung-Ik Lee, *Learning Not to Reconstruct Anomalies* [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0711.pdf)]
+
 ### ICCV 2021
 * Jin Yeying, Aashish Sharma, **Robby T. Tan**, *DC-ShadowNet: Single-Image Hard and Soft Shadow Removal Using Unsupervised Domain-Classifier Guided Network* [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jin_DC-ShadowNet_Single-Image_Hard_and_Soft_Shadow_Removal_Using_Unsupervised_Domain-Classifier_ICCV_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Jin_DC-ShadowNet_Single-Image_Hard_ICCV_2021_supplemental.pdf)]
 
@@ -84,12 +87,14 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * **Christian Simon**, Piotr Koniusz, Richard Nock, Mehrtash Harandi, *Adaptive Subspaces for Few-Shot Learning* [[Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545.pdf)] [[Supp](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545-supp.pdf)]
 * Yuan Liu, Ruoteng Li, Yu Cheng, **Robby T. Tan**, X. Sui, *Object Tracking using Spatio-Temporal Networks for Future Prediction Location* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670001.pdf)]
 * Wending Yan, **Robby T. Tan**, Dengxin Dai, *Nighttime Defogging Using High-Low Frequency Decomposition and Grayscale-Color Networks* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570460.pdf)]
+* Muhammad Zaigham Zaheer, Arif Mahmood, **Marcella Astrid**, Seung-Ik Lee, *CLAWS: Clustering assisted weakly supervised learning with normalcy suppression for anomalous event detection* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670358.pdf)]
   
 ### CVPR 2020
 * **Christian Simon**, Piotr Koniusz, Richard Nock, Mehrtash Harandi, *Adaptive Subspaces for Few-Shot Learning* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Simon_Adaptive_Subspaces_for_Few-Shot_Learning_CVPR_2020_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Simon_Adaptive_Subspaces_for_CVPR_2020_supplemental.pdf)]
 * Wenhan Yang, **Robby T. Tan**, Shiqi Wang, Jiaying Liu, *Self-Learned Video Rain Streak Removal: When Cyclic Consistency Meets Temporal Correspondence* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Self-Learning_Video_Rain_Streak_Removal_When_Cyclic_Consistency_Meets_Temporal_CVPR_2020_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yang_Self-Learning_Video_Rain_CVPR_2020_supplemental.pdf)]
 * Ruoteng Li, **Robby T. Tan**, Cheong Loong Fah, *All in One Bad Weather Removal using Architectural Search* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.pdf)]
 * Wending Yan, Aashish Sharma, **Robby T. Tan**, *Optical Flow in Dense Foggy Scenes using Semi-Supervised Learning* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Optical_Flow_in_Dense_Foggy_Scenes_Using_Semi-Supervised_Learning_CVPR_2020_paper.pdf)]
+* Muhammad Zaigham Zaheer, Jin-Ha Lee, **Marcella Astrid**, Seung-Ik Lee, *Old Is Gold: Redefining the Adversarially Learned One-Class Classifier Training Paradigm* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zaheer_Old_Is_Gold_Redefining_the_Adversarially_Learned_One-Class_Classifier_Training_CVPR_2020_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Zaheer_Old_Is_Gold_CVPR_2020_supplemental.zip)]
   
 ### WACV 2020
 * **Julius Surya Sumantri**, In Kyu Park, *360 Panorama Synthesis from a Sparse Set of Images with Unknown Field of View* [[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Sumantri_360_Panorama_Synthesis_from_a_Sparse_Set_of_Images_with_WACV_2020_paper.pdf)]
