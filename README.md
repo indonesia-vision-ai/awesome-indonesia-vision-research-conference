@@ -59,6 +59,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 ### ECCV 2022
 * Yeying Jin, Wenhan Yang, **Robby T. Tan**, *Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light Effects Suppression* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970396.pdf)]
 * Sara Romiti, Christopher Inskip, Viktoriia Sharmanska, **Novi Quadrianto**, *RealPatch: A Statistical Matching Framework for Model Patching with Real Samples* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850144.pdf)]
+
     
 ### CVPR 2022
 * **Christian Simon**, Masoud Faraki, Yi-Hsuan Tsai, Xiang Yu, Samuel Schulter, Yumin Suh, Mehrtash Harandi, Manmohan Chandraker, *On Generalizing Beyond Domains in Cross-Domain Continual Learning* [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Simon_On_Generalizing_Beyond_Domains_in_Cross-Domain_Continual_Learning_CVPR_2022_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Simon_On_Generalizing_Beyond_CVPR_2022_supplemental.pdf)]
@@ -88,7 +89,8 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * Wending Yan, **Robby T. Tan**, Dengxin Dai, *Nighttime Defogging Using High-Low Frequency Decomposition and Grayscale-Color Networks* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570460.pdf)]
 * Muhammad Zaigham Zaheer, Arif Mahmood, **Marcella Astrid**, Seung-Ik Lee, *CLAWS: Clustering assisted weakly supervised learning with normalcy suppression for anomalous event detection* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670358.pdf)]
 * Thomas Kehrenberg, Myles Bartlett, Oliver Thomas, **Novi Quadrianto**, *Null-sampling for Interpretable and Fair Representations* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710562.pdf)]
-* **Rizard Renanda Adhi Pramono**, Yie Tarng Chen, Wen Hsien Fang, *Empowering Relational Network by Self-Attention Augmented Conditional Random Fields for Group Activity Recognition* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460069.pdf)]
+* **Rizard Renanda Adhi Pramono**, Yie-Tarng Chen, Wen-Hsien Fang, *Empowering Relational Network by Self-attention Augmented Conditional Random Fields for Group Activity Recognition* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460069.pdf)]
+
   
 ### CVPR 2020
 * **Christian Simon**, Piotr Koniusz, Richard Nock, Mehrtash Harandi, *Adaptive Subspaces for Few-Shot Learning* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Simon_Adaptive_Subspaces_for_Few-Shot_Learning_CVPR_2020_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Simon_Adaptive_Subspaces_for_CVPR_2020_supplemental.pdf)]
@@ -106,7 +108,8 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * Li Ruoteng, **Robby T. Tan**, A. Aviles-Rivero, Q. Fan, C. Schoenlieb, L.F. Cheong, *RainFlow: Optical Flow under Rain Streaks and Rain Veiling Effect* [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_RainFlow_Optical_Flow_Under_Rain_Streaks_and_Rain_Veiling_Effect_ICCV_2019_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Li_RainFlow_Optical_Flow_ICCV_2019_supplemental.pdf)]
 * Cheng Yu, Bo Yang, Bo Wang, Wending Yan, **Robby T. Tan**, *Occlusion-Aware Networks for 3D Human Pose Estimation in Video* [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cheng_Occlusion-Aware_Networks_for_3D_Human_Pose_Estimation_in_Video_ICCV_2019_paper.pdf)]
 * **Rey Reza Wiyatno**, Anqi Xu, *Physical Adversarial Textures That Fool Visual Object Tracking* [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wiyatno_Physical_Adversarial_Textures_That_Fool_Visual_Object_Tracking_ICCV_2019_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Wiyatno_Physical_Adversarial_Textures_ICCV_2019_supplemental.zip)]
-* **Rizard Renanda Adhi Pramono**, Yie-Tarng Chen, Wen-Hsien Fang, *Hierarchical Self-Attention Network for Action Localization in Videos* [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Pramono_Hierarchical_Self-Attention_Network_for_Action_Localization_in_Videos_ICCV_2019_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Pramono_Hierarchical_Self-Attention_Network_ICCV_2019_supplemental.zip)]
+* **Didik Purwanto**, **Rizard Renanda Adhi Pramono**, Yie-Tarng Chen, Wen-Hsien Fang, *Extreme low resolution action recognition with spatial-temporal multi-head self-attention and knowledge distillation* [[Paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/RLQ/Purwanto_Extreme_Low_Resolution_Action_Recognition_with_Spatial-Temporal_Multi-Head_Self-Attention_and_ICCVW_2019_paper.pdf)]
+
 
 ### CVPR 2019
 * Li Ruoteng, Cheong Loong Fah, **Robby T. Tan**, *Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning* [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Heavy_Rain_Image_Restoration_Integrating_Physics_Model_and_Conditional_Adversarial_CVPR_2019_paper.pdf)]
