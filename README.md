@@ -56,11 +56,9 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * Jiadong Wang, Xinyuan Qian, Malu Zhang, **Robby T. Tan**, Haizhou Li, *Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Seeing_What_You_Said_Talking_Face_Generation_Guided_by_a_CVPR_2023_paper.pdf)]
 * Chenxin Xu, **Robby T. Tan**, Y. Tan, S. Chen, Y. Wang, X. Wang, Y. Wang, *EqMotion: Equivariant Multi-agent Motion Prediction with Invariant Interaction Reasoning* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_EqMotion_Equivariant_Multi-Agent_Motion_Prediction_With_Invariant_Interaction_Reasoning_CVPR_2023_paper.pdf)]
 
-### WACV 2023
-
-
 ### ECCV 2022
 * Yeying Jin, Wenhan Yang, **Robby T. Tan**, *Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light Effects Suppression* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970396.pdf)]
+* Sara Romiti, Christopher Inskip, Viktoriia Sharmanska, **Novi Quadrianto**, *RealPatch: A Statistical Matching Framework for Model Patching with Real Samples* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850144.pdf)]
     
 ### CVPR 2022
 * **Christian Simon**, Masoud Faraki, Yi-Hsuan Tsai, Xiang Yu, Samuel Schulter, Yumin Suh, Mehrtash Harandi, Manmohan Chandraker, *On Generalizing Beyond Domains in Cross-Domain Continual Learning* [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Simon_On_Generalizing_Beyond_Domains_in_Cross-Domain_Continual_Learning_CVPR_2022_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Simon_On_Generalizing_Beyond_CVPR_2022_supplemental.pdf)]
@@ -88,6 +86,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * Yuan Liu, Ruoteng Li, Yu Cheng, **Robby T. Tan**, X. Sui, *Object Tracking using Spatio-Temporal Networks for Future Prediction Location* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670001.pdf)]
 * Wending Yan, **Robby T. Tan**, Dengxin Dai, *Nighttime Defogging Using High-Low Frequency Decomposition and Grayscale-Color Networks* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570460.pdf)]
 * Muhammad Zaigham Zaheer, Arif Mahmood, **Marcella Astrid**, Seung-Ik Lee, *CLAWS: Clustering assisted weakly supervised learning with normalcy suppression for anomalous event detection* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670358.pdf)]
+* Thomas Kehrenberg, Myles Bartlett, Oliver Thomas, **Novi Quadrianto**, *Null-sampling for Interpretable and Fair Representations* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710562.pdf)]
   
 ### CVPR 2020
 * **Christian Simon**, Piotr Koniusz, Richard Nock, Mehrtash Harandi, *Adaptive Subspaces for Few-Shot Learning* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Simon_Adaptive_Subspaces_for_Few-Shot_Learning_CVPR_2020_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Simon_Adaptive_Subspaces_for_CVPR_2020_supplemental.pdf)]
@@ -108,6 +107,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 ### CVPR 2019
 * Li Ruoteng, Cheong Loong Fah, **Robby T. Tan**, *Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning* [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Heavy_Rain_Image_Restoration_Integrating_Physics_Model_and_Conditional_Adversarial_CVPR_2019_paper.pdf)]
 * **Muhammad Haris**, Gregory Shakhnarovich, Norimichi Ukita, *Recurrent Back-Projection Network for Video Super-Resolution* [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Haris_Recurrent_Back-Projection_Network_for_Video_Super-Resolution_CVPR_2019_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2019/supplemental/Haris_Recurrent_Back-Projection_Network_CVPR_2019_supplemental.pdf)]
+* **Novi Quadrianto**, Viktoriia Sharmanska, Oliver Thomas, *Discovering Fair Representations in the Data Domain* [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Quadrianto_Discovering_Fair_Representations_in_the_Data_Domain_CVPR_2019_paper.pdf)]
 
 ### ECCV 2018
 * Li Ruoteng, **Robby T. Tan**, Cheong Loong Fah, *Robust Optical Flow in Rainy Scenes* [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ruoteng_Li_Robust_Optical_Flow_ECCV_2018_paper.pdf)]
@@ -126,6 +126,8 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * **Williem**, In Kyu Park, *Robust Light Field Depth Estimation for Noisy Scene With Occlusion* [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Williem_Robust_Light_Field_CVPR_2016_paper.pdf)]
 * Yu Li, **Robby T. Tan**, X. Guo, J. Lu, Michael S. Brown, *Rain Streak Removal Using Layer Priors* [[Paper](http://yu-li.github.io/paper/li_cvpr16_rain.pdf)] 
 * Jiaolong Yang, Hongdong Li, Yuchao Dai, **Robby T. Tan**, *Robust Optical Flow Estimation of Double-Layer Images under Transparency or Reflection* [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Yang_Robust_Optical_Flow_CVPR_2016_paper.pdf)]
+* Viktoriia Sharmanska, **Novi Quadrianto**, *Learning From the Mistakes of Others: Matching Errors in Cross-Dataset Learning*, [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Sharmanska_Learning_From_the_CVPR_2016_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2016/supplemental/Sharmanska_Learning_From_the_2016_CVPR_supplemental.pdf)]
+* Viktoriia Sharmanska, Daniel Hernandez-Lobato, Jose Miguel Hernandez-Lobato, **Novi Quadrianto**, *Ambiguity Helps: Classification With Disagreements in Crowdsourced Annotations* [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Sharmanska_Ambiguity_Helps_Classification_CVPR_2016_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2016/supplemental/Sharmanska_Ambiguity_Helps_Classification_2016_CVPR_supplemental.pdf)]
 
 ### ICCV 2015
 * **Williem**, Ramesh Raskar, In Kyu Park, *Depth Map Estimation and Colorization of Anaglyph Images Using Local Color Prior and Reverse Intensity Distribution* [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Williem_Depth_Map_Estimation_ICCV_2015_paper.pdf)]
@@ -138,13 +140,24 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 
 ### ECCV 2014
 * Yu Li, G. Fangfang, **Robby T. Tan**, Michael Brown, *A Contrast Enhancement Framework with JPEG Artifacts Suppression* [[Paper](https://www.dropbox.com/s/gd0vzj2epp07ler/2014_eccv_liyu.pdf?dl=0)]
+
+### CVPR 2014
 * **Novi Patricia**, Barbara Caputo, *Learning to Learn, from Transfer Learning to Domain Adaptation: A Unifying Perspective* [[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Patricia_Learning_to_Learn_2014_CVPR_paper.pdf)]
+
+## ICCV 2013
+* Viktoriia Sharmanska, **Novi Quadrianto**, Christoph H. Lampert, *Learning to Rank Using Privileged Information*, [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Sharmanska_Learning_to_Rank_2013_ICCV_paper.pdf)]
 
 ### CVPR 2013
 * Shaodi You, **Robby T. Tan**, Rei Kawakami, Katsushi Ikeuchi, *Adherent Raindrop Detection and Removal in Video* [[Paper](https://www.dropbox.com/s/70zo85zjaaelvdf/2013_cvpr_shaodi.pdf?dl=0)]
 
+### ECCV 2012
+* Viktoriia Sharmanska, **Novi Quadrianto**, Christoph H. Lampert, *Augmented Attribute Representations* [[Paper](https://link.springer.com/content/pdf/10.1007/978-3-642-33715-4_18)]
+
 ### CVPR 2010
 * T. Morimoto, **Robby T. Tan**, R. Kawakami, and K. Ikeuchi, *Estimating Optical Properties of Layered Surfaces Using the Spider Model* [[Paper](https://www.dropbox.com/s/zcarsgvz770gjoz/2010_cvpr_morimoto.pdf?dl=0)]
+
+### CVPR 2009
+* Akshay Asthana, Roland Goecke, **Novi Quadrianto**, Tom Gedeon, *Learning based automatic face annotation for arbitrary poses and expressions from frontal images only* [[Paper](http://sro.sussex.ac.uk/id/eprint/47606/1/AstGoeQuaGed09.pdf)]
 
 ### CVPR 2008
 * **Robby T. Tan**, *Visibility in Bad Weather from A Single Image* [[Paper](https://www.dropbox.com/s/y0t300rxaim7cnf/2008_cvpr.pdf?dl=0)]
