@@ -89,6 +89,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * Muhammad Zaigham Zaheer, Arif Mahmood, **Marcella Astrid**, Seung-Ik Lee, *CLAWS: Clustering assisted weakly supervised learning with normalcy suppression for anomalous event detection* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670358.pdf)]
 * Thomas Kehrenberg, Myles Bartlett, Oliver Thomas, **Novi Quadrianto**, *Null-sampling for Interpretable and Fair Representations* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710562.pdf)]
 * **Rizard Renanda Adhi Pramono**, Yie-Tarng Chen, Wen-Hsien Fang, *Empowering Relational Network by Self-attention Augmented Conditional Random Fields for Group Activity Recognition* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460069.pdf)]
+
   
 ### CVPR 2020
 * **Christian Simon**, Piotr Koniusz, Richard Nock, Mehrtash Harandi, *Adaptive Subspaces for Few-Shot Learning* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Simon_Adaptive_Subspaces_for_Few-Shot_Learning_CVPR_2020_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Simon_Adaptive_Subspaces_for_CVPR_2020_supplemental.pdf)]
@@ -108,6 +109,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * **Rey Reza Wiyatno**, Anqi Xu, *Physical Adversarial Textures That Fool Visual Object Tracking* [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wiyatno_Physical_Adversarial_Textures_That_Fool_Visual_Object_Tracking_ICCV_2019_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Wiyatno_Physical_Adversarial_Textures_ICCV_2019_supplemental.zip)]
 * **Didik Purwanto**, **Rizard Renanda Adhi Pramono**, Yie-Tarng Chen, Wen-Hsien Fang, *Extreme low resolution action recognition with spatial-temporal multi-head self-attention and knowledge distillation* [[Paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/RLQ/Purwanto_Extreme_Low_Resolution_Action_Recognition_with_Spatial-Temporal_Multi-Head_Self-Attention_and_ICCVW_2019_paper.pdf)]
 
+
 ### CVPR 2019
 * Li Ruoteng, Cheong Loong Fah, **Robby T. Tan**, *Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning* [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Heavy_Rain_Image_Restoration_Integrating_Physics_Model_and_Conditional_Adversarial_CVPR_2019_paper.pdf)]
 * **Muhammad Haris**, Gregory Shakhnarovich, Norimichi Ukita, *Recurrent Back-Projection Network for Video Super-Resolution* [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Haris_Recurrent_Back-Projection_Network_for_Video_Super-Resolution_CVPR_2019_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2019/supplemental/Haris_Recurrent_Back-Projection_Network_CVPR_2019_supplemental.pdf)]
@@ -119,6 +121,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 ### CVPR 2018
 * Rui Qian, **Robby T. Tan**, Wenhan Yang, Jiajun Su, Jiaying Liu, *Attentive Generative Adversarial Network for Raindrop Removal from a Single Image* [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf)]
 * **Muhammad Haris**, Gregory Shakhnarovich, *Norimichi Ukita, Deep Back-Projection Networks for Super-Resolution* [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Haris_Deep_Back-Projection_Networks_CVPR_2018_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2018/Supplemental/3606-supp.pdf)]
+* Siqi Yang, **Arnold Wiliem**, Shaokang Chen, Brian C Lovell, *Using LIP to Gloss Over Faces in Single-Stage Face Detection Networks* [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Siqi_Yang_Using_LIP_to_ECCV_2018_paper.pdf)]
 
 ### CVPR 2017
 * W. Yang, **Robby T. Tan**, J. Feng, J. Liu, Z. Guo, S. Yan, *Deep Joint Rain Detection and Removal From a Single Image* [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2017/supplemental/Yang_Deep_Joint_Rain_2017_CVPR_supplemental.pdf)]
@@ -132,6 +135,10 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * Jiaolong Yang, Hongdong Li, Yuchao Dai, **Robby T. Tan**, *Robust Optical Flow Estimation of Double-Layer Images under Transparency or Reflection* [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Yang_Robust_Optical_Flow_CVPR_2016_paper.pdf)]
 * Viktoriia Sharmanska, **Novi Quadrianto**, *Learning From the Mistakes of Others: Matching Errors in Cross-Dataset Learning*, [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Sharmanska_Learning_From_the_CVPR_2016_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2016/supplemental/Sharmanska_Learning_From_the_2016_CVPR_supplemental.pdf)]
 * Viktoriia Sharmanska, Daniel Hernandez-Lobato, Jose Miguel Hernandez-Lobato, **Novi Quadrianto**, *Ambiguity Helps: Classification With Disagreements in Crowdsourced Annotations* [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Sharmanska_Ambiguity_Helps_Classification_CVPR_2016_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2016/supplemental/Sharmanska_Ambiguity_Helps_Classification_2016_CVPR_supplemental.pdf)]
+
+### WACV 2016
+* Liangchen Liu, **Arnold Wiliem**, Shaokang Chen, Brian C Lovell, *Automatic and quantitative evaluation of attribute discovery methods* [[Paper](https://browse.arxiv.org/pdf/1602.01940.pdf)]
+* Teng Zhang, Liangchen Liu, **Arnold Wiliem**, Brian Lovell, *Is Alice chasing or being chased?: determining subject and object of activities in videos* [[Paper](https://ieeexplore.ieee.org/document/7477710)]
 
 ### ICCV 2015
 * **Williem**, Ramesh Raskar, In Kyu Park, *Depth Map Estimation and Colorization of Anaglyph Images Using Local Color Prior and Reverse Intensity Distribution* [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Williem_Depth_Map_Estimation_ICCV_2015_paper.pdf)]
@@ -148,15 +155,26 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 ### CVPR 2014
 * **Novi Patricia**, Barbara Caputo, *Learning to Learn, from Transfer Learning to Domain Adaptation: A Unifying Perspective* [[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Patricia_Learning_to_Learn_2014_CVPR_paper.pdf)]
 
-## ICCV 2013
+### WACV 2014
+* Azadeh Alavi, **Arnold Wiliem**, Kun Zhao, Brian C Lovell, Conrad Sanderson, *Random projections on manifolds of symmetric positive definite matrices for image classification* [[Paper](http://arxiv.org/pdf/1403.0700v1)]
+* Shaokang Chen, **Arnold Wiliem**, Conrad Sanderson, Brian C Lovell, *Matching image sets via adaptive multi convex hull* [[Paper](http://arxiv.org/pdf/1403.0320v1)]
+* **Arnold Wiliem**, Peter Hobson, Brian C. Lovell, *Discovering Discriminative Cell Attributes for HEp-2 Specimen Image Classification* [[Paper](https://www.uq.id.au/a.wiliem/papers/wiliem_wacv2014.pdf)]
+
+### ICCV 2013
 * Viktoriia Sharmanska, **Novi Quadrianto**, Christoph H. Lampert, *Learning to Rank Using Privileged Information*, [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Sharmanska_Learning_to_Rank_2013_ICCV_paper.pdf)]
 
 ### CVPR 2013
 * Shaodi You, **Robby T. Tan**, Rei Kawakami, Katsushi Ikeuchi, *Adherent Raindrop Detection and Removal in Video* [[Paper](https://www.dropbox.com/s/70zo85zjaaelvdf/2013_cvpr_shaodi.pdf?dl=0)]
 
+### WACV 2013
+* **Arnold Wiliem**, Yongkang Wong, Conrad Sanderson, Peter Hobson, Shaokang Chen, Brian C Lovell, *Classification of human epithelial type 2 cell indirect immunofluoresence images via codebook based descriptors* [[Paper](https://www.uq.id.au/a.wiliem/papers/wiliem_wacv2013.pdf)]
+
 ### ECCV 2012
 * Viktoriia Sharmanska, **Novi Quadrianto**, Christoph H. Lampert, *Augmented Attribute Representations* [[Paper](https://link.springer.com/content/pdf/10.1007/978-3-642-33715-4_18)]
 
+### WACV 2012
+* Mehrtash T. Harandi, Conrad Sanderson, **Arnold Wiliem**, Brian C. Lovell, *Kernel analysis over Riemannian manifolds for visual recognition of actions, pedestrians and textures* [[Paper](https://www.uq.id.au/a.wiliem/papers/harandi_wacv2012.pdf)]
+  
 ### CVPR 2010
 * T. Morimoto, **Robby T. Tan**, R. Kawakami, and K. Ikeuchi, *Estimating Optical Properties of Layered Surfaces Using the Spider Model* [[Paper](https://www.dropbox.com/s/zcarsgvz770gjoz/2010_cvpr_morimoto.pdf?dl=0)]
 
