@@ -95,6 +95,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * Ruoteng Li, **Robby T. Tan**, Cheong Loong Fah, *All in One Bad Weather Removal using Architectural Search* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.pdf)]
 * Wending Yan, Aashish Sharma, **Robby T. Tan**, *Optical Flow in Dense Foggy Scenes using Semi-Supervised Learning* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Optical_Flow_in_Dense_Foggy_Scenes_Using_Semi-Supervised_Learning_CVPR_2020_paper.pdf)]
 * Muhammad Zaigham Zaheer, Jin-Ha Lee, **Marcella Astrid**, Seung-Ik Lee, *Old Is Gold: Redefining the Adversarially Learned One-Class Classifier Training Paradigm* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zaheer_Old_Is_Gold_Redefining_the_Adversarially_Learned_One-Class_Classifier_Training_CVPR_2020_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Zaheer_Old_Is_Gold_CVPR_2020_supplemental.zip)]
+* **Muhammad Haris**, Greg Shakhnarovich, Norimichi Ukita, *Space-Time-Aware Multi-Resolution Video Enhancement* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Haris_Space-Time-Aware_Multi-Resolution_Video_Enhancement_CVPR_2020_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Haris_Space-Time-Aware_Multi-Resolution_Video_CVPR_2020_supplemental.pdf)]
   
 ### WACV 2020
 * **Julius Surya Sumantri**, In Kyu Park, *360 Panorama Synthesis from a Sparse Set of Images with Unknown Field of View* [[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Sumantri_360_Panorama_Synthesis_from_a_Sparse_Set_of_Images_with_WACV_2020_paper.pdf)]
@@ -106,12 +107,14 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 
 ### CVPR 2019
 * Li Ruoteng, Cheong Loong Fah, **Robby T. Tan**, *Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning* [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Heavy_Rain_Image_Restoration_Integrating_Physics_Model_and_Conditional_Adversarial_CVPR_2019_paper.pdf)]
+* **Muhammad Haris**, Gregory Shakhnarovich, Norimichi Ukita, *Recurrent Back-Projection Network for Video Super-Resolution* [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Haris_Recurrent_Back-Projection_Network_for_Video_Super-Resolution_CVPR_2019_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2019/supplemental/Haris_Recurrent_Back-Projection_Network_CVPR_2019_supplemental.pdf)]
 
 ### ECCV 2018
 * Li Ruoteng, **Robby T. Tan**, Cheong Loong Fah, *Robust Optical Flow in Rainy Scenes* [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ruoteng_Li_Robust_Optical_Flow_ECCV_2018_paper.pdf)]
 
 ### CVPR 2018
 * Rui Qian, **Robby T. Tan**, Wenhan Yang, Jiajun Su, Jiaying Liu, *Attentive Generative Adversarial Network for Raindrop Removal from a Single Image* [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf)]
+* **Muhammad Haris**, Gregory Shakhnarovich, *Norimichi Ukita, Deep Back-Projection Networks for Super-Resolution* [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Haris_Deep_Back-Projection_Networks_CVPR_2018_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2018/Supplemental/3606-supp.pdf)]
 
 ### CVPR 2017
 * W. Yang, **Robby T. Tan**, J. Feng, J. Liu, Z. Guo, S. Yan, *Deep Joint Rain Detection and Removal From a Single Image* [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2017/supplemental/Yang_Deep_Joint_Rain_2017_CVPR_supplemental.pdf)]
