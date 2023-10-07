@@ -116,6 +116,9 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 ### CVPR 2017
 * W. Yang, **Robby T. Tan**, J. Feng, J. Liu, Z. Guo, S. Yan, *Deep Joint Rain Detection and Removal From a Single Image* [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2017/supplemental/Yang_Deep_Joint_Rain_2017_CVPR_supplemental.pdf)]
 
+### ECCV 2016
+* **Muhammad Ghifary**, W. Bastiaan Kleijn, Mengjie Zhang, David Balduzzi, Wen Li, *Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation* [[Paper](https://arxiv.org/pdf/1607.03516.pdf)]
+
 ### CVPR 2016
 * **Williem**, In Kyu Park, *Robust Light Field Depth Estimation for Noisy Scene With Occlusion* [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Williem_Robust_Light_Field_CVPR_2016_paper.pdf)]
 * Yu Li, **Robby T. Tan**, X. Guo, J. Lu, Michael S. Brown, *Rain Streak Removal Using Layer Priors* [[Paper](http://yu-li.github.io/paper/li_cvpr16_rain.pdf)] 
@@ -124,6 +127,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 ### ICCV 2015
 * **Williem**, Ramesh Raskar, In Kyu Park, *Depth Map Estimation and Colorization of Anaglyph Images Using Local Color Prior and Reverse Intensity Distribution* [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Williem_Depth_Map_Estimation_ICCV_2015_paper.pdf)]
 * Yu Li, **Robby T. Tan**, Michael S. Brown, *Nighttime Haze Removal with Glow and Multiple Light Colors* [[Paper](https://www.dropbox.com/s/b7l89f31erqmjr0/2015_iccv_nightdehazing.pdf?dl=0)]
+* **Muhammad Ghifary**, W. Bastiaan Kleijn, Mengjie Zhang, David Balduzzi, *Domain Generalization for Object Recognition With Multi-Task Autoencoders* [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Ghifary_Domain_Generalization_for_ICCV_2015_paper.pdf)]
  
 ### CVPR 2015
 * **Christian Simon**, In Kyu Park, *Reflection Removal for In-Vehicle Black Box Videos* [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Simon_Reflection_Removal_for_2015_CVPR_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2015/supplemental/Simon_Reflection_Removal_for_2015_CVPR_supplemental.zip)]
