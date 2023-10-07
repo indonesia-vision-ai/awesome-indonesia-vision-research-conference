@@ -126,6 +126,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 
 ### ECCV 2014
 * Yu Li, G. Fangfang, **Robby T. Tan**, Michael Brown, *A Contrast Enhancement Framework with JPEG Artifacts Suppression* [[Paper](https://www.dropbox.com/s/gd0vzj2epp07ler/2014_eccv_liyu.pdf?dl=0)]
+* **Novi Patricia**, Barbara Caputo, *Learning to Learn, from Transfer Learning to Domain Adaptation: A Unifying Perspective* [[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Patricia_Learning_to_Learn_2014_CVPR_paper.pdf)]
 
 ### CVPR 2013
 * Shaodi You, **Robby T. Tan**, Rei Kawakami, Katsushi Ikeuchi, *Adherent Raindrop Detection and Removal in Video* [[Paper](https://www.dropbox.com/s/70zo85zjaaelvdf/2013_cvpr_shaodi.pdf?dl=0)]
