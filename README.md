@@ -177,6 +177,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 
 ### WACV 2013
 * **Arnold Wiliem**, Yongkang Wong, Conrad Sanderson, Peter Hobson, Shaokang Chen, Brian C Lovell, *Classification of human epithelial type 2 cell indirect immunofluoresence images via codebook based descriptors* [[Paper](https://www.uq.id.au/a.wiliem/papers/wiliem_wacv2013.pdf)]
+* **Moh Edi Wibowo**, **Dian Tjondronegoro**, Ligang Zhang, **Ivan Himawan**, *Heteroscedastic probabilistic linear discriminant analysis for manifold learning in video-based face recognition* [[Paper](https://www.academia.edu/download/57338915/wacv.2013.647499820180910-4992-gkzsy.pdf)]
 
 ### ECCV 2012
 * Viktoriia Sharmanska, **Novi Quadrianto**, Christoph H. Lampert, *Augmented Attribute Representations* [[Paper](https://link.springer.com/content/pdf/10.1007/978-3-642-33715-4_18)]
