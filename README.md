@@ -18,7 +18,7 @@ A curated list of resources dedicated to research paper published by Indonesian 
         <a href="https://github.com/joshuajano">
             <img src="https://avatars.githubusercontent.com/u/34101139?v=4" width="100;" alt="joshuajano"/>
             <br />
-            <sub><b>Joshua santoso</b></sub>
+            <sub><b>Joshua Santoso</b></sub>
         </a>
     </td>
     <td align="center">
