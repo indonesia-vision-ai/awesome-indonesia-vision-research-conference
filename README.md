@@ -85,6 +85,9 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * Yan Wending, Yang Wenhang, Dai Dengxin, **Robby T. Tan**, *Self-Aligned Video Deraining with Transmission-Depth Consistency* [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Self-Aligned_Video_Deraining_With_Transmission-Depth_Consistency_CVPR_2021_paper.pdf)]
 * Aashish Sharma, **Robby T. Tan**, *Nighttime Visibility Enhancement by Increasing the Dynamic Range and Suppression of Light Effects* [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Nighttime_Visibility_Enhancement_by_Increasing_the_Dynamic_Range_and_Suppression_CVPR_2021_paper.pdf)]
 * Yuxiao Zhou, Marc Habermann, **Ikhsanul Habibie**, Ayush Tewari, Christian Theobalt, Feng Xu, *Monocular Real-Time Full Body Capture With Inter-Part Correlations* [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Monocular_Real-Time_Full_Body_Capture_With_Inter-Part_Correlations_CVPR_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Zhou_Monocular_Real-Time_Full_CVPR_2021_supplemental.pdf)]
+
+### WACV 2021
+* **Stefan Lionar**, Daniil Emtsev, Dusan Svilarkovic, Songyou Peng, *Dynamic Plane Convolutional Occupancy Networks*, [[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Lionar_Dynamic_Plane_Convolutional_Occupancy_Networks_WACV_2021_paper.pdf)]
    
 ### ECCV 2020
 * **Christian Simon**, Piotr Koniusz, Richard Nock, Mehrtash Harandi, *On Modulating the Gradient for Meta-Learning* [[Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545.pdf)] [[Supp](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545-supp.pdf)]
