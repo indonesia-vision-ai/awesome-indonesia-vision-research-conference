@@ -58,8 +58,9 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * Chenxin Xu, **Robby T. Tan**, Y. Tan, S. Chen, Y. Wang, X. Wang, Y. Wang, *EqMotion: Equivariant Multi-agent Motion Prediction with Invariant Interaction Reasoning* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_EqMotion_Equivariant_Multi-Agent_Motion_Prediction_With_Invariant_Interaction_Reasoning_CVPR_2023_paper.pdf)]
 
 ### ECCV 2022
-* Yeying Jin, Wenhan Yang, **Robby T. Tan**, *Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light Effects Suppression* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970396.pdf)]
-* Sara Romiti, Christopher Inskip, Viktoriia Sharmanska, **Novi Quadrianto**, *RealPatch: A Statistical Matching Framework for Model Patching with Real Samples* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850144.pdf)]
+* Yeying Jin, Wenhan Yang, **Robby T. Tan**, *Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light Effects Suppression* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970396.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970396-supp.pdf)]
+* Sara Romiti, Christopher Inskip, Viktoriia Sharmanska, **Novi Quadrianto**, *RealPatch: A Statistical Matching Framework for Model Patching with Real Samples* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850144.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850144-supp.pdf)]
+* **Ardian Umam**, Cheng-Kun Yang, Yung-Yu Chuang, Jen-Hui Chuang, Yen-Yu Lin, *Point MixSwap: Attentional Point Cloud Mixing via Swapping Matched Structural Divisions*, [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890587.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890587-supp.zip)]
 
     
 ### CVPR 2022
@@ -86,12 +87,12 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * Yuxiao Zhou, Marc Habermann, **Ikhsanul Habibie**, Ayush Tewari, Christian Theobalt, Feng Xu, *Monocular Real-Time Full Body Capture With Inter-Part Correlations* [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Monocular_Real-Time_Full_Body_Capture_With_Inter-Part_Correlations_CVPR_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Zhou_Monocular_Real-Time_Full_CVPR_2021_supplemental.pdf)]
    
 ### ECCV 2020
-* **Christian Simon**, Piotr Koniusz, Richard Nock, Mehrtash Harandi, *Adaptive Subspaces for Few-Shot Learning* [[Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545.pdf)] [[Supp](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545-supp.pdf)]
+* **Christian Simon**, Piotr Koniusz, Richard Nock, Mehrtash Harandi, *On Modulating the Gradient for Meta-Learning* [[Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545.pdf)] [[Supp](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545-supp.pdf)]
 * Yuan Liu, Ruoteng Li, Yu Cheng, **Robby T. Tan**, X. Sui, *Object Tracking using Spatio-Temporal Networks for Future Prediction Location* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670001.pdf)]
 * Wending Yan, **Robby T. Tan**, Dengxin Dai, *Nighttime Defogging Using High-Low Frequency Decomposition and Grayscale-Color Networks* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570460.pdf)]
-* Muhammad Zaigham Zaheer, Arif Mahmood, **Marcella Astrid**, Seung-Ik Lee, *CLAWS: Clustering assisted weakly supervised learning with normalcy suppression for anomalous event detection* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670358.pdf)]
-* Thomas Kehrenberg, Myles Bartlett, Oliver Thomas, **Novi Quadrianto**, *Null-sampling for Interpretable and Fair Representations* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710562.pdf)]
-* **Rizard Renanda Adhi Pramono**, Yie-Tarng Chen, Wen-Hsien Fang, *Empowering Relational Network by Self-attention Augmented Conditional Random Fields for Group Activity Recognition* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460069.pdf)]
+* Muhammad Zaigham Zaheer, Arif Mahmood, **Marcella Astrid**, Seung-Ik Lee, *CLAWS: Clustering assisted weakly supervised learning with normalcy suppression for anomalous event detection* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670358.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670358-supp.zip)]
+* Thomas Kehrenberg, Myles Bartlett, Oliver Thomas, **Novi Quadrianto**, *Null-sampling for Interpretable and Fair Representations* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710562.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710562-supp.pdf)]
+* **Rizard Renanda Adhi Pramono**, Yie-Tarng Chen, Wen-Hsien Fang, *Empowering Relational Network by Self-attention Augmented Conditional Random Fields for Group Activity Recognition* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460069.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460069-supp.pdf)]
 
   
 ### CVPR 2020
