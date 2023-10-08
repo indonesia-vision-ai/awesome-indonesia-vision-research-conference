@@ -1,6 +1,6 @@
 # Awesome Indonesia Computer Vision Research - Conference Publication
 
-A curated list of resources dedicated to research paper published by Indonesian in top international conferences. We only select the conferences that have rank A and A* in [CORE Conference Portal](http://portal.core.edu.au/conf-ranks/?search=vision&by=all&source=CORE2023&sort=arank&page=1). Indonesian means a native or inhabitant of Indonesia, or a person of Indonesian descent. This repository is to promote and support the research from fellow Indonesians in the top conference. It is often for Indonsians attending conference but have no idea whether there is any Indonesian presenting the paper or not.
+A curated list of resources dedicated to research paper published by Indonesian in top international conferences. We only select the conferences that have rank A and A* in [CORE Conference Portal](http://portal.core.edu.au/conf-ranks/?search=vision&by=all&source=CORE2023&sort=arank&page=1). Indonesian means a native or inhabitant of Indonesia, or a person of Indonesian descent, or a person that speaks Indonesian as first or second language. This repository is to promote and support the research from fellow Indonesians in the top conference. It is often for Indonsians attending conference but have no idea whether there is any Indonesian presenting the paper or not.
 
 ## Contributors
 
@@ -178,13 +178,17 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 ### WACV 2013
 * **Arnold Wiliem**, Yongkang Wong, Conrad Sanderson, Peter Hobson, Shaokang Chen, Brian C Lovell, *Classification of human epithelial type 2 cell indirect immunofluoresence images via codebook based descriptors* [[Paper](https://www.uq.id.au/a.wiliem/papers/wiliem_wacv2013.pdf)]
 * **Moh Edi Wibowo**, **Dian Tjondronegoro**, Ligang Zhang, **Ivan Himawan**, *Heteroscedastic probabilistic linear discriminant analysis for manifold learning in video-based face recognition* [[Paper](https://www.academia.edu/download/57338915/wacv.2013.647499820180910-4992-gkzsy.pdf)]
+* **Ivan Himawan**, Wei Song, **Dian Tjondronegoro**, *Automatic region-of-interest detection and prioritisation for visually optimised coding of low bit rate videos* [[Paper](https://eprints.qut.edu.au/54284/7/54284.pdf)]
 
 ### ECCV 2012
 * Viktoriia Sharmanska, **Novi Quadrianto**, Christoph H. Lampert, *Augmented Attribute Representations* [[Paper](https://link.springer.com/content/pdf/10.1007/978-3-642-33715-4_18)]
 
 ### WACV 2012
 * Mehrtash T. Harandi, Conrad Sanderson, **Arnold Wiliem**, Brian C. Lovell, *Kernel analysis over Riemannian manifolds for visual recognition of actions, pedestrians and textures* [[Paper](https://www.uq.id.au/a.wiliem/papers/harandi_wacv2012.pdf)]
-  
+
+### WACV 2011
+* **Ivan Himawan**, Wei Song, **Dian Tjondronegoro**, User-driven saliency maps for evaluating Region-of-Interest detection, [[Paper](https://ieeexplore.ieee.org/abstract/document/5711530/)] 
+
 ### CVPR 2010
 * T. Morimoto, **Robby T. Tan**, R. Kawakami, and K. Ikeuchi, *Estimating Optical Properties of Layered Surfaces Using the Spider Model* [[Paper](https://www.dropbox.com/s/zcarsgvz770gjoz/2010_cvpr_morimoto.pdf?dl=0)]
 
