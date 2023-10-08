@@ -57,6 +57,9 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * Jiadong Wang, Xinyuan Qian, Malu Zhang, **Robby T. Tan**, Haizhou Li, *Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Seeing_What_You_Said_Talking_Face_Generation_Guided_by_a_CVPR_2023_paper.pdf)]
 * Chenxin Xu, **Robby T. Tan**, Y. Tan, S. Chen, Y. Wang, X. Wang, Y. Wang, *EqMotion: Equivariant Multi-agent Motion Prediction with Invariant Interaction Reasoning* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_EqMotion_Equivariant_Multi-Agent_Motion_Prediction_With_Invariant_Interaction_Reasoning_CVPR_2023_paper.pdf)]
 
+### WACV 2023
+* Sumin Lee, Sangmin Woo, Yeonju Park, **Muhammad Adi Nugroho**, Changick Kim, *Modality Mixer for Multi-Modal Action Recognition* [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Lee_Modality_Mixer_for_Multi-Modal_Action_Recognition_WACV_2023_paper.pdf)]
+
 ### ECCV 2022
 * Yeying Jin, Wenhan Yang, **Robby T. Tan**, *Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light Effects Suppression* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970396.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970396-supp.pdf)]
 * Sara Romiti, Christopher Inskip, Viktoriia Sharmanska, **Novi Quadrianto**, *RealPatch: A Statistical Matching Framework for Model Patching with Real Samples* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850144.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850144-supp.pdf)]
