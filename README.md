@@ -135,6 +135,9 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 ### CVPR 2017
 * W. Yang, **Robby T. Tan**, J. Feng, J. Liu, Z. Guo, S. Yan, *Deep Joint Rain Detection and Removal From a Single Image* [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Deep_Joint_Rain_CVPR_2017_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2017/supplemental/Yang_Deep_Joint_Rain_2017_CVPR_supplemental.pdf)]
 
+### WACV 2017
+* Henry Bradler, Matthias Ochs, **Nolang Fanani**, Rudolf Mester, *Joint Epipolar Tracking (JET): Simultaneous optimization of epipolar geometry and feature correspondences* [[Paper](https://browse.arxiv.org/pdf/1703.05065.pdf)]
+
 ### ECCV 2016
 * **Muhammad Ghifary**, W. Bastiaan Kleijn, Mengjie Zhang, David Balduzzi, Wen Li, *Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation* [[Paper](https://arxiv.org/pdf/1607.03516.pdf)]
 
