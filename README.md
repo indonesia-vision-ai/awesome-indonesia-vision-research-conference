@@ -129,6 +129,9 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * **Muhammad Haris**, Gregory Shakhnarovich, *Norimichi Ukita, Deep Back-Projection Networks for Super-Resolution* [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Haris_Deep_Back-Projection_Networks_CVPR_2018_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2018/Supplemental/3606-supp.pdf)]
 * Siqi Yang, **Arnold Wiliem**, Shaokang Chen, Brian C Lovell, *Using LIP to Gloss Over Faces in Single-Stage Face Detection Networks* [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Siqi_Yang_Using_LIP_to_ECCV_2018_paper.pdf)]
 
+### WACV 2018
+* **Vanya Valindria**, Nick Pawlowski, Martin Rajchl, Ioannis Lavdas, Eric O. Aboagye, Andrea G. Rockall, Daniel Rueckert, Ben Glocker, *Multi-modal Learning from Unpaired Images: Application to Multi-organ Segmentation in CT and MRI* [[Paper](https://spiral.imperial.ac.uk/bitstream/10044/1/56452/2/multimodal.pdf)]
+
 ### BMVC 2017
 * **Ikhsanul Habibie**, Daniel Holden, Jonathan Schwarz, Joe Yearsley, Taku Komura, *A Recurrent Variational Autoencoder for Human Motion Synthesis*, [[Paper](https://www.ipab.inf.ed.ac.uk/cgvu/0414.pdf)]
 
