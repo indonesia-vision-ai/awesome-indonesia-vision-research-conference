@@ -187,7 +187,8 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * Mehrtash T. Harandi, Conrad Sanderson, **Arnold Wiliem**, Brian C. Lovell, *Kernel analysis over Riemannian manifolds for visual recognition of actions, pedestrians and textures* [[Paper](https://www.uq.id.au/a.wiliem/papers/harandi_wacv2012.pdf)]
 
 ### WACV 2011
-* **Ivan Himawan**, Wei Song, **Dian Tjondronegoro**, User-driven saliency maps for evaluating Region-of-Interest detection, [[Paper](https://ieeexplore.ieee.org/abstract/document/5711530/)] 
+* **Ivan Himawan**, Wei Song, **Dian Tjondronegoro**, *User-driven saliency maps for evaluating Region-of-Interest detection* [[Paper](https://ieeexplore.ieee.org/abstract/document/5711530/)]
+* **Dian Tjondronegoro**, Xiaohui Tao, Johannes Sasongko, Cher Han Lau, *Multi-modal summarization of key events and top players in sports tournament videos* [[Paper](https://eprints.qut.edu.au/43479/1/WACV_266_%281%29.pdf)]
 
 ### CVPR 2010
 * T. Morimoto, **Robby T. Tan**, R. Kawakami, and K. Ikeuchi, *Estimating Optical Properties of Layered Surfaces Using the Spider Model* [[Paper](https://www.dropbox.com/s/zcarsgvz770gjoz/2010_cvpr_morimoto.pdf?dl=0)]
