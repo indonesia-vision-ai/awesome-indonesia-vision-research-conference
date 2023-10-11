@@ -37,9 +37,9 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 
 ## Conferences
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
-- European Conference on Computer Vision
+- European Conference on Computer Vision (ECCV)
 - IEEE International Conference on Computer Vision (ICCV)
-- British Machine Vision Conference
+- British Machine Vision Conference (BMVC)
 - IEEE Winter Conference on Applications of Computer Vision (WACV)
 
 ## Papers
