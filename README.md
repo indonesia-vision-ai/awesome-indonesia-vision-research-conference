@@ -1,6 +1,6 @@
 # Awesome Indonesia Computer Vision Research - Conference Publication
 
-A curated list of resources dedicated to research paper published by Indonesian in top international conferences. We only select the conferences that have rank A and A* in [CORE Conference Portal](http://portal.core.edu.au/conf-ranks/?search=vision&by=all&source=CORE2023&sort=arank&page=1). Indonesian means a native or inhabitant of Indonesia, or a person of Indonesian descent, or a person that speaks Indonesian as first or second language. This repository is to promote and support the research from fellow Indonesians in the top conference. It is often for Indonsians attending conference but have no idea whether there is any Indonesian presenting the paper or not.
+A curated list of resources dedicated to research papers published by Indonesians at top international conferences. We only select the conferences that have rank A and A* in [CORE Conference Portal](http://portal.core.edu.au/conf-ranks/?search=vision&by=all&source=CORE2023&sort=arank&page=1). Indonesian means a native or inhabitant of Indonesia, or a person of Indonesian descent, or a person that speaks Indonesian as a first or second language. This repository is to promote and support the research of fellow Indonesians at the top conference. It is often for Indonesians attending conferences but have no idea whether there is any Indonesian presenting the paper or not.
 
 ## Contributors
 
@@ -37,15 +37,15 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 
 ## Conferences
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
-- European Conference on Computer Vision
+- European Conference on Computer Vision (ECCV)
 - IEEE International Conference on Computer Vision (ICCV)
-- British Machine Vision Conference
+- British Machine Vision Conference (BMVC)
 - IEEE Winter Conference on Applications of Computer Vision (WACV)
 
 ## Papers
 
 ### ICCV 2023
-* **Naufal Suryanto**, Yongsu Kim, *Harashta Tatimma Larasati*, Hyoeun Kang, Thi-Thu-Huong Le, Yoonyoung Hong, Hunmin Yang, Se-Yoon Oh, Howon Kim, *ACTIVE: Towards Highly Transferable 3D Physical Camouflage for Universal and Robust Vehicle Evasion* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Suryanto_ACTIVE_Towards_Highly_Transferable_3D_Physical_Camouflage_for_Universal_and_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Suryanto_ACTIVE_Towards_Highly_ICCV_2023_supplemental.pdf)]
+* **Naufal Suryanto**, Yongsu Kim, **Harashta Tatimma Larasati**, Hyoeun Kang, Thi-Thu-Huong Le, Yoonyoung Hong, Hunmin Yang, Se-Yoon Oh, Howon Kim, *ACTIVE: Towards Highly Transferable 3D Physical Camouflage for Universal and Robust Vehicle Evasion* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Suryanto_ACTIVE_Towards_Highly_Transferable_3D_Physical_Camouflage_for_Universal_and_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Suryanto_ACTIVE_Towards_Highly_ICCV_2023_supplemental.pdf)]
 * **Muhammad Adi Nugroho**, Sangmin Woo, Sumin Lee, Changick Kim, *Audio-Visual Glance Network for Efficient Video Recognition* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Nugroho_Audio-Visual_Glance_Network_for_Efficient_Video_Recognition_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Nugroho_Audio-Visual_Glance_Network_ICCV_2023_supplemental.zip)]
 * Chenxin Xu, **Robby T. Tan**, Yuhong Tan, Siheng Chen, Xinchao Wang, Yanfeng Wang, *Auxiliary Tasks Benefit 3D Skeleton-based Human Motion Prediction* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Auxiliary_Tasks_Benefit_3D_Skeleton-based_Human_Motion_Prediction_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Xu_Auxiliary_Tasks_Benefit_ICCV_2023_supplemental.pdf)]
 * Weilong Yan, **Robby T. Tan**, Bing Zeng, Shuaicheng Liu, *Deep Homography Mixture for Single Image Rolling Shutter Correction* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_Deep_Homography_Mixture_for_Single_Image_Rolling_Shutter_Correction_ICCV_2023_paper.pdf)]
