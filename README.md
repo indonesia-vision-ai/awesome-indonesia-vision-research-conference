@@ -27,6 +27,13 @@ A curated list of resources dedicated to research papers published by Indonesian
             <br />
             <sub><b>Williem</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/naufalso">
+            <img src="https://avatars.githubusercontent.com/u/51362638?v=4" width="100;" alt="naufalso"/>
+            <br />
+            <sub><b>Naufal Suryanto</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
