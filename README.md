@@ -183,6 +183,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 
 ### CVPR 2014
 * **Novi Patricia**, Barbara Caputo, *Learning to Learn, from Transfer Learning to Domain Adaptation: A Unifying Perspective* [[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Patricia_Learning_to_Learn_2014_CVPR_paper.pdf)]
+* Al Mansur, Yasushi Makihara, **Rasyid Aqmar**, Yasushi Yagi, *Gait Recognition under Speed Transition*, [[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Mansur_Gait_Recognition_under_2014_CVPR_paper.pdf)
 
 ### WACV 2014
 * Azadeh Alavi, **Arnold Wiliem**, Kun Zhao, Brian C Lovell, Conrad Sanderson, *Random projections on manifolds of symmetric positive definite matrices for image classification* [[Paper](http://arxiv.org/pdf/1403.0700v1)]
