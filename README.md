@@ -51,6 +51,9 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 
 ## Papers
 
+### WACV 2024
+* **Joshua Santoso**, **Christian Simon**, **Williem**, *On Manipulating Scene Text in the Wild with Diffusion Models*
+
 ### ICCV 2023
 * **Naufal Suryanto**, Yongsu Kim, **Harashta Tatimma Larasati**, Hyoeun Kang, Thi-Thu-Huong Le, Yoonyoung Hong, Hunmin Yang, Se-Yoon Oh, Howon Kim, *ACTIVE: Towards Highly Transferable 3D Physical Camouflage for Universal and Robust Vehicle Evasion* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Suryanto_ACTIVE_Towards_Highly_Transferable_3D_Physical_Camouflage_for_Universal_and_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Suryanto_ACTIVE_Towards_Highly_ICCV_2023_supplemental.pdf)]
 * **Muhammad Adi Nugroho**, Sangmin Woo, Sumin Lee, Changick Kim, *Audio-Visual Glance Network for Efficient Video Recognition* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Nugroho_Audio-Visual_Glance_Network_for_Efficient_Video_Recognition_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Nugroho_Audio-Visual_Glance_Network_ICCV_2023_supplemental.zip)]
