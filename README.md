@@ -39,7 +39,7 @@ A curated list of resources dedicated to research papers published by Indonesian
 <!-- readme: collaborators,contributors -end -->
 
 ## Contributing
-Please feel free to [pull requests](https://github.com/indonesia-vision-ai/awesome-indonsia-vision-research/pulls) or join our chats ([Discord Chat](https://discord.gg/aTsC6AbVRw)) to add papers or authors. If you have published paper in the selective conferences, we encourage you to update the information here. 
+Please feel free to [pull requests](https://github.com/indonesia-vision-ai/awesome-indonesia-vision-research/pulls) or join our chats ([Discord Chat](https://discord.gg/aTsC6AbVRw)) to add papers or authors. If you have published paper in the selective conferences, we encourage you to update the information here. 
 
 
 ## Conferences
