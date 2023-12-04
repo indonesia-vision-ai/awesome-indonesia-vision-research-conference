@@ -68,6 +68,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * Jiadong Wang, Xinyuan Qian, Malu Zhang, **Robby T. Tan**, Haizhou Li, *Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Seeing_What_You_Said_Talking_Face_Generation_Guided_by_a_CVPR_2023_paper.pdf)]
 * Chenxin Xu, **Robby T. Tan**, Y. Tan, S. Chen, Y. Wang, X. Wang, Y. Wang, *EqMotion: Equivariant Multi-agent Motion Prediction with Invariant Interaction Reasoning* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_EqMotion_Equivariant_Multi-Agent_Motion_Prediction_With_Invariant_Interaction_Reasoning_CVPR_2023_paper.pdf)]
 * **Agus Gunawan**, Soo Ye Kim, Hyeonjun Sim, Jae-Ho Lee, Munchurl Kim, *Modernizing Old Photos Using Multiple References via Photorealistic Style Transfer* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gunawan_Modernizing_Old_Photos_Using_Multiple_References_via_Photorealistic_Style_Transfer_CVPR_2023_paper.pdf)]
+* Nhat Le, Thang Pham, Tuong Do, **Erman Tjiputra**, Quang D. Tran, Anh Nguyen *Music-Driven Group Choreography.* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Le_Music-Driven_Group_Choreography_CVPR_2023_paper.pdf)]
 
 ### WACV 2023
 * Sumin Lee, Sangmin Woo, Yeonju Park, **Muhammad Adi Nugroho**, Changick Kim, *Modality Mixer for Multi-Modal Action Recognition* [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Lee_Modality_Mixer_for_Multi-Modal_Action_Recognition_WACV_2023_paper.pdf)]
