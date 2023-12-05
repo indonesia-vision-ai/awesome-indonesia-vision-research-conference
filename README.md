@@ -81,7 +81,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * Yeying Jin, Wenhan Yang, **Robby T. Tan**, *Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light Effects Suppression* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970396.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970396-supp.pdf)]
 * Sara Romiti, Christopher Inskip, Viktoriia Sharmanska, **Novi Quadrianto**, *RealPatch: A Statistical Matching Framework for Model Patching with Real Samples* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850144.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850144-supp.pdf)]
 * **Ardian Umam**, Cheng-Kun Yang, Yung-Yu Chuang, Jen-Hui Chuang, Yen-Yu Lin, *Point MixSwap: Attentional Point Cloud Mixing via Swapping Matched Structural Divisions*, [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890587.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890587-supp.zip)]
-* Kien Do, Haripriya Harikumar, Hung Le, Dung Nguyen, Truyen Tran, Santu Rana, Dang Nguyen, **Willy Susilo**, Svetha Venkatesh, *Towards Effective and Robust Neural Trojan Defenses via Input Filtering.* [[Paper](https://arxiv.org/pdf/2202.12154.pdf)]
+* Kien Do, Haripriya Harikumar, Hung Le, Dung Nguyen, Truyen Tran, Santu Rana, Dang Nguyen, **Willy Susilo**, Svetha Venkatesh, *Towards Effective and Robust Neural Trojan Defenses via Input Filtering.* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650277.pdf)]
 
     
 ### CVPR 2022
