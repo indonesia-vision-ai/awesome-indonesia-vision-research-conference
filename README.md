@@ -62,12 +62,15 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * Weilong Yan, **Robby T. Tan**, Bing Zeng, Shuaicheng Liu, *Deep Homography Mixture for Single Image Rolling Shutter Correction* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_Deep_Homography_Mixture_for_Single_Image_Rolling_Shutter_Correction_ICCV_2023_paper.pdf)]
 * Balamurugan Thambiraja, **Ikhsanul Habibie**, Sadegh Aliakbarian, Darren Cosker, Christian Theobalt, Justus Thies, *Imitator: Personalized Speech-driven 3D Facial Animation* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Thambiraja_Imitator_Personalized_Speech-driven_3D_Facial_Animation_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Thambiraja_Imitator_Personalized_Speech-driven_ICCV_2023_supplemental.pdf)]
 
+
 ### CVPR 2023
 * Mikhail Kennerley, Jian-Gang Wang, Bharadwaj Veeravalli, **Robby T. Tan**, *2PCNet: Two-Phase Consistency Training for Day-to-Night Unsupervised Domain Adaptive Object Detection* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Kennerley_2PCNet_Two-Phase_Consistency_Training_for_Day-to-Night_Unsupervised_Domain_Adaptive_Object_CVPR_2023_paper.pdf)]
 * Heyuan Li, Bo Wang, Yu Cheng, Mohan Kankanhalli, **Robby T. Tan**, *DSFNet: Dual Space Fusion Network for Occlusion-Robust 3D Dense Face Alignment* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DSFNet_Dual_Space_Fusion_Network_for_Occlusion-Robust_3D_Dense_Face_CVPR_2023_paper.pdf)]
 * Jiadong Wang, Xinyuan Qian, Malu Zhang, **Robby T. Tan**, Haizhou Li, *Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Seeing_What_You_Said_Talking_Face_Generation_Guided_by_a_CVPR_2023_paper.pdf)]
 * Chenxin Xu, **Robby T. Tan**, Y. Tan, S. Chen, Y. Wang, X. Wang, Y. Wang, *EqMotion: Equivariant Multi-agent Motion Prediction with Invariant Interaction Reasoning* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_EqMotion_Equivariant_Multi-Agent_Motion_Prediction_With_Invariant_Interaction_Reasoning_CVPR_2023_paper.pdf)]
 * **Agus Gunawan**, Soo Ye Kim, Hyeonjun Sim, Jae-Ho Lee, Munchurl Kim, *Modernizing Old Photos Using Multiple References via Photorealistic Style Transfer* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gunawan_Modernizing_Old_Photos_Using_Multiple_References_via_Photorealistic_Style_Transfer_CVPR_2023_paper.pdf)]
+* Nhat Le, Thang Pham, Tuong Do, **Erman Tjiputra**, Quang D. Tran, Anh Nguyen, *Music-Driven Group Choreography
+*[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Le_Music-Driven_Group_Choreography_CVPR_2023_paper.pdf)]
 
 ### WACV 2023
 * Sumin Lee, Sangmin Woo, Yeonju Park, **Muhammad Adi Nugroho**, Changick Kim, *Modality Mixer for Multi-Modal Action Recognition* [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Lee_Modality_Mixer_for_Multi-Modal_Action_Recognition_WACV_2023_paper.pdf)]
