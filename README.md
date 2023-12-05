@@ -201,6 +201,9 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * Zhuwen Li, Ping Tan, **Robby T. Tan**, Danping Zhou, Steven Zhiying Zhou and Cheong Loong Fah, *Simultaneous Video Defogging and Stereo Reconstruction* [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Li_Simultaneous_Video_Defogging_2015_CVPR_paper.pdf)]
 * Jiaping Zhao, **Christian Siagian**, Laurent Itti, *Fixation bank: Learning to reweight fixation candidates* [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Zhao_Fixation_Bank_Learning_2015_CVPR_paper.pdf)]
 
+### WACV 2015
+* **Indriyati Atmosukarto**, Narendra Ahuja, Bernard Ghanem, *Action Recognition Using Discriminative Structured Trajectory Groups* [[Paper](https://vision.ai.illinois.edu/html-files-to-import/publications/atmosukartocvpr2015.pdf)]
+
 ### ECCV 2014
 * Yu Li, G. Fangfang, **Robby T. Tan**, Michael Brown, *A Contrast Enhancement Framework with JPEG Artifacts Suppression* [[Paper](https://www.dropbox.com/s/gd0vzj2epp07ler/2014_eccv_liyu.pdf?dl=0)]
 
@@ -255,5 +258,6 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 
 ### CVPR 2003
 * **Robby T. Tan**, Ko Nishino, Katsushi Ikeuchi, *Illumination Chromaticity Estimation using Inverse-Intensity Chromaticity Space* [[Paper](https://www.dropbox.com/s/d38rcbbdz8uj5gp/2003_cvpr.pdf?dl=0)]
+* Meng Yu, **Indriyati Atmosukarto**, Wee Kheng Leow, Zhiyong Huang, Rong Xu, *3D Model Retrieval With Morphing-Based Geometric and Topological Feature Maps* [[Paper](https://www.dropbox.com/scl/fi/5nwfotjrkafjl79eik1a7/3D-Model-Retrieval-With-Morphing-Based-Geometric-and-Topological-Feature-Maps.pdf?rlkey=89b3czohpa8ox8039ml9kx0fl&dl=0)]
 
 Maintainers - [Williem](https://github.com/williem-scientist), [Christian Simon](https://github.com/chrysts)
