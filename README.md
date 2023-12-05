@@ -199,6 +199,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 ### CVPR 2015
 * **Christian Simon**, In Kyu Park, *Reflection Removal for In-Vehicle Black Box Videos* [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Simon_Reflection_Removal_for_2015_CVPR_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2015/supplemental/Simon_Reflection_Removal_for_2015_CVPR_supplemental.zip)]
 * Zhuwen Li, Ping Tan, **Robby T. Tan**, Danping Zhou, Steven Zhiying Zhou and Cheong Loong Fah, *Simultaneous Video Defogging and Stereo Reconstruction* [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Li_Simultaneous_Video_Defogging_2015_CVPR_paper.pdf)]
+* Jiaping Zhao, **Christian Siagian**, Laurent Itti, *Fixation bank: Learning to reweight fixation candidates* [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Zhao_Fixation_Bank_Learning_2015_CVPR_paper.pdf)]
 
 ### ECCV 2014
 * Yu Li, G. Fangfang, **Robby T. Tan**, Michael Brown, *A Contrast Enhancement Framework with JPEG Artifacts Suppression* [[Paper](https://www.dropbox.com/s/gd0vzj2epp07ler/2014_eccv_liyu.pdf?dl=0)]
