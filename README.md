@@ -62,20 +62,26 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * Weilong Yan, **Robby T. Tan**, Bing Zeng, Shuaicheng Liu, *Deep Homography Mixture for Single Image Rolling Shutter Correction* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_Deep_Homography_Mixture_for_Single_Image_Rolling_Shutter_Correction_ICCV_2023_paper.pdf)]
 * Balamurugan Thambiraja, **Ikhsanul Habibie**, Sadegh Aliakbarian, Darren Cosker, Christian Theobalt, Justus Thies, *Imitator: Personalized Speech-driven 3D Facial Animation* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Thambiraja_Imitator_Personalized_Speech-driven_3D_Facial_Animation_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Thambiraja_Imitator_Personalized_Speech-driven_ICCV_2023_supplemental.pdf)]
 
+
 ### CVPR 2023
 * Mikhail Kennerley, Jian-Gang Wang, Bharadwaj Veeravalli, **Robby T. Tan**, *2PCNet: Two-Phase Consistency Training for Day-to-Night Unsupervised Domain Adaptive Object Detection* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Kennerley_2PCNet_Two-Phase_Consistency_Training_for_Day-to-Night_Unsupervised_Domain_Adaptive_Object_CVPR_2023_paper.pdf)]
 * Heyuan Li, Bo Wang, Yu Cheng, Mohan Kankanhalli, **Robby T. Tan**, *DSFNet: Dual Space Fusion Network for Occlusion-Robust 3D Dense Face Alignment* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_DSFNet_Dual_Space_Fusion_Network_for_Occlusion-Robust_3D_Dense_Face_CVPR_2023_paper.pdf)]
 * Jiadong Wang, Xinyuan Qian, Malu Zhang, **Robby T. Tan**, Haizhou Li, *Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Seeing_What_You_Said_Talking_Face_Generation_Guided_by_a_CVPR_2023_paper.pdf)]
 * Chenxin Xu, **Robby T. Tan**, Y. Tan, S. Chen, Y. Wang, X. Wang, Y. Wang, *EqMotion: Equivariant Multi-agent Motion Prediction with Invariant Interaction Reasoning* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_EqMotion_Equivariant_Multi-Agent_Motion_Prediction_With_Invariant_Interaction_Reasoning_CVPR_2023_paper.pdf)]
 * **Agus Gunawan**, Soo Ye Kim, Hyeonjun Sim, Jae-Ho Lee, Munchurl Kim, *Modernizing Old Photos Using Multiple References via Photorealistic Style Transfer* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gunawan_Modernizing_Old_Photos_Using_Multiple_References_via_Photorealistic_Style_Transfer_CVPR_2023_paper.pdf)]
+* Nhat Le, Thang Pham, Tuong Do, **Erman Tjiputra**, Quang D. Tran, Anh Nguyen, *Music-Driven Group Choreography*
+*[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Le_Music-Driven_Group_Choreography_CVPR_2023_paper.pdf)]
+* Shen Lin, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, **Willy Susilo**, *ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer.* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_ERM-KTP_Knowledge-Level_Machine_Unlearning_via_Knowledge_Transfer_CVPR_2023_paper.pdf)]
 
 ### WACV 2023
 * Sumin Lee, Sangmin Woo, Yeonju Park, **Muhammad Adi Nugroho**, Changick Kim, *Modality Mixer for Multi-Modal Action Recognition* [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Lee_Modality_Mixer_for_Multi-Modal_Action_Recognition_WACV_2023_paper.pdf)]
+* Nhat Le, Khanh Nguyen, Quang D. Tran, **Erman Tjiputra**, Bac Le, Anh Nguyen, *Uncertainty-aware Label Distribution Learning for Facial Expression Recognition* [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Le_Uncertainty-Aware_Label_Distribution_Learning_for_Facial_Expression_Recognition_WACV_2023_paper.pdf)]
 
 ### ECCV 2022
 * Yeying Jin, Wenhan Yang, **Robby T. Tan**, *Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light Effects Suppression* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970396.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970396-supp.pdf)]
 * Sara Romiti, Christopher Inskip, Viktoriia Sharmanska, **Novi Quadrianto**, *RealPatch: A Statistical Matching Framework for Model Patching with Real Samples* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850144.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850144-supp.pdf)]
 * **Ardian Umam**, Cheng-Kun Yang, Yung-Yu Chuang, Jen-Hui Chuang, Yen-Yu Lin, *Point MixSwap: Attentional Point Cloud Mixing via Swapping Matched Structural Divisions*, [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890587.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890587-supp.zip)]
+* Kien Do, Haripriya Harikumar, Hung Le, Dung Nguyen, Truyen Tran, Santu Rana, Dang Nguyen, **Willy Susilo**, Svetha Venkatesh, *Towards Effective and Robust Neural Trojan Defenses via Input Filtering.* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650277.pdf)]
 
     
 ### CVPR 2022
@@ -85,6 +91,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 ### WACV 2022
 * **Christian Simon**, Piotr Koniusz, Mehrtash Harandi, *Meta-Learning for Multi-Label Few-Shot Classification* [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Simon_Meta-Learning_for_Multi-Label_Few-Shot_Classification_WACV_2022_paper.pdf)]
 * **Christian Simon**, Piotr Koniusz, Mehrtash Harandi, *Towards a Robust Differentiable Architecture Search under Label Noise* [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Simon_Towards_a_Robust_Differentiable_Architecture_Search_Under_Label_Noise_WACV_2022_paper.pdf)]
+
 
 ### BMVC 2021
 * **Marcella Astrid**, Muhammad Zaigham Zaheer, Jae-Yeong Lee, Seung-Ik Lee, *Learning Not to Reconstruct Anomalies* [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0711.pdf)]
@@ -125,13 +132,16 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 ### WACV 2020
 * **Julius Surya Sumantri**, In Kyu Park, *360 Panorama Synthesis from a Sparse Set of Images with Unknown Field of View* [[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Sumantri_360_Panorama_Synthesis_from_a_Sparse_Set_of_Images_with_WACV_2020_paper.pdf)]
 
+### BMCV 2020
+* Binh X. Nguyen, Binh D. Nguyen, Gustavo Carneiro, **Erman Tjiputra**, Quang D. Tran, Thanh-Toan Do, *Deep Metric Learning Meets Deep Clustering: An Novel Unsupervised Approach for Feature Embedding.* [[Paper](https://researchmgt.monash.edu/ws/portalfiles/portal/330167689/330167514_oa.pdf)]
+
 ### ICCV 2019
 * **Muhamad Risqi U. Saputra**, Pedro P. B. de Gusmao, Yasin Almalioglu, Andrew Markham, Niki Trigoni, *Distilling Knowledge From a Deep Pose Regressor Network* [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Saputra_Distilling_Knowledge_From_a_Deep_Pose_Regressor_Network_ICCV_2019_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Saputra_Distilling_Knowledge_From_ICCV_2019_supplemental.pdf)]
 * Li Ruoteng, **Robby T. Tan**, A. Aviles-Rivero, Q. Fan, C. Schoenlieb, L.F. Cheong, *RainFlow: Optical Flow under Rain Streaks and Rain Veiling Effect* [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_RainFlow_Optical_Flow_Under_Rain_Streaks_and_Rain_Veiling_Effect_ICCV_2019_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Li_RainFlow_Optical_Flow_ICCV_2019_supplemental.pdf)]
 * Cheng Yu, Bo Yang, Bo Wang, Wending Yan, **Robby T. Tan**, *Occlusion-Aware Networks for 3D Human Pose Estimation in Video* [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cheng_Occlusion-Aware_Networks_for_3D_Human_Pose_Estimation_in_Video_ICCV_2019_paper.pdf)]
 * **Rey Reza Wiyatno**, Anqi Xu, *Physical Adversarial Textures That Fool Visual Object Tracking* [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wiyatno_Physical_Adversarial_Textures_That_Fool_Visual_Object_Tracking_ICCV_2019_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Wiyatno_Physical_Adversarial_Textures_ICCV_2019_supplemental.zip)]
 * **Didik Purwanto**, **Rizard Renanda Adhi Pramono**, Yie-Tarng Chen, Wen-Hsien Fang, *Extreme low resolution action recognition with spatial-temporal multi-head self-attention and knowledge distillation* [[Paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/RLQ/Purwanto_Extreme_Low_Resolution_Action_Recognition_with_Spatial-Temporal_Multi-Head_Self-Attention_and_ICCVW_2019_paper.pdf)]
-
+* Tuong Do, Huy Tran, Thanh-Toan Do, **Erman Tjiputra**, Quang D. Tran, *Compact Trilinear Interaction for Visual Question Answering.* [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Do_Compact_Trilinear_Interaction_for_Visual_Question_Answering_ICCV_2019_paper.pdf)]
 
 ### CVPR 2019
 * Li Ruoteng, Cheong Loong Fah, **Robby T. Tan**, *Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning* [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Heavy_Rain_Image_Restoration_Integrating_Physics_Model_and_Conditional_Adversarial_CVPR_2019_paper.pdf)]
