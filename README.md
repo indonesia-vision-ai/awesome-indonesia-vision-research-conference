@@ -29,6 +29,13 @@ A curated list of resources dedicated to research papers published by Indonesian
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/ewaldo19">
+            <img src="https://avatars.githubusercontent.com/u/57058557?v=4" width="100;" alt="ewaldo19"/>
+            <br />
+            <sub><b>Ewaldo Samuel</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/naufalso">
             <img src="https://avatars.githubusercontent.com/u/51362638?v=4" width="100;" alt="naufalso"/>
             <br />
