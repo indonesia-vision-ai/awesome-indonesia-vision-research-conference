@@ -71,6 +71,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * **Agus Gunawan**, Soo Ye Kim, Hyeonjun Sim, Jae-Ho Lee, Munchurl Kim, *Modernizing Old Photos Using Multiple References via Photorealistic Style Transfer* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gunawan_Modernizing_Old_Photos_Using_Multiple_References_via_Photorealistic_Style_Transfer_CVPR_2023_paper.pdf)]
 * Nhat Le, Thang Pham, Tuong Do, **Erman Tjiputra**, Quang D. Tran, Anh Nguyen, *Music-Driven Group Choreography*
 *[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Le_Music-Driven_Group_Choreography_CVPR_2023_paper.pdf)]
+* Shen Lin, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, **Willy Susilo**, *ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer.* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_ERM-KTP_Knowledge-Level_Machine_Unlearning_via_Knowledge_Transfer_CVPR_2023_paper.pdf)]
 
 ### WACV 2023
 * Sumin Lee, Sangmin Woo, Yeonju Park, **Muhammad Adi Nugroho**, Changick Kim, *Modality Mixer for Multi-Modal Action Recognition* [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Lee_Modality_Mixer_for_Multi-Modal_Action_Recognition_WACV_2023_paper.pdf)]
@@ -80,6 +81,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * Yeying Jin, Wenhan Yang, **Robby T. Tan**, *Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light Effects Suppression* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970396.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970396-supp.pdf)]
 * Sara Romiti, Christopher Inskip, Viktoriia Sharmanska, **Novi Quadrianto**, *RealPatch: A Statistical Matching Framework for Model Patching with Real Samples* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850144.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850144-supp.pdf)]
 * **Ardian Umam**, Cheng-Kun Yang, Yung-Yu Chuang, Jen-Hui Chuang, Yen-Yu Lin, *Point MixSwap: Attentional Point Cloud Mixing via Swapping Matched Structural Divisions*, [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890587.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890587-supp.zip)]
+* Kien Do, Haripriya Harikumar, Hung Le, Dung Nguyen, Truyen Tran, Santu Rana, Dang Nguyen, **Willy Susilo**, Svetha Venkatesh, *Towards Effective and Robust Neural Trojan Defenses via Input Filtering.* [[Paper](https://arxiv.org/pdf/2202.12154.pdf)]
 
     
 ### CVPR 2022
