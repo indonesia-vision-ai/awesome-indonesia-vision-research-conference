@@ -1,5 +1,5 @@
 ## List authors sorted by publication year
-- Robby T. Tan [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
+- Robby T. Tan [[Profile Page](https://tanrobby.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=MOD0gv4AAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/t/RobbyTTan.html)]
 - Indriyati Atmosukarto [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
 - Novi Quadrianto [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
 - Dian Tjondronegoro [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
