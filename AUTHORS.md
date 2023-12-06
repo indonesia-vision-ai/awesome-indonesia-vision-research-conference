@@ -1,7 +1,7 @@
 ## List authors sorted by publication year
 - Robby T. Tan [[Profile Page](https://tanrobby.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=MOD0gv4AAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/t/RobbyTTan.html)]
-- Indriyati Atmosukarto [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
-- Novi Quadrianto [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
+- Indriyati Atmosukarto [[Profile Page](https://sites.google.com/site/indriatmosukarto/)] [[Google Scholar](https://scholar.google.com.sg/citations?user=rnOSpKcAAAAJ)] [[DBLP](https://dblp.org/pid/55/6132.html)]
+- Novi Quadrianto [[Profile Page](https://profiles.sussex.ac.uk/p335583-novi-quadrianto)] [[Google Scholar](https://scholar.google.com/citations?user=I-rLzGcAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/06/580.html)]
 - Dian Tjondronegoro [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
 - Ivan Himawan [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
 - Arnold Wiliem [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
