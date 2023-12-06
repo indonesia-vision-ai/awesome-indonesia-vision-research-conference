@@ -126,6 +126,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * Muhammad Zaigham Zaheer, Arif Mahmood, **Marcella Astrid**, Seung-Ik Lee, *CLAWS: Clustering assisted weakly supervised learning with normalcy suppression for anomalous event detection* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670358.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670358-supp.zip)]
 * Thomas Kehrenberg, Myles Bartlett, Oliver Thomas, **Novi Quadrianto**, *Null-sampling for Interpretable and Fair Representations* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710562.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710562-supp.pdf)]
 * **Rizard Renanda Adhi Pramono**, Yie-Tarng Chen, Wen-Hsien Fang, *Empowering Relational Network by Self-attention Augmented Conditional Random Fields for Group Activity Recognition* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460069.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460069-supp.pdf)]
+* Andrea Burns, Donghyun Kim, **Derry Wijaya**, Kate Saenko, Bryan A. Plummer, *Learning to Scale Multilingual Representations for Vision-Language Tasks* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490188.pdf)]
 
   
 ### CVPR 2020
