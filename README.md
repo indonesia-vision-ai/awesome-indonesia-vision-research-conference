@@ -2,52 +2,8 @@
 
 A curated list of resources dedicated to research papers published by Indonesians at top international conferences. We only select the conferences that have rank A and A* in [CORE Conference Portal](http://portal.core.edu.au/conf-ranks/?search=vision&by=all&source=CORE2023&sort=arank&page=1). Indonesian means a native or inhabitant of Indonesia, or a person of Indonesian descent, or a person that speaks Indonesian as a first or second language. This repository is to promote and support the research of fellow Indonesians at the top conference. It is often for Indonesians attending conferences but have no idea whether there is any Indonesian presenting the paper or not.
 
-## Contributors
-
-<!-- readme: collaborators,contributors -start -->
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/chrysts">
-            <img src="https://avatars.githubusercontent.com/u/1657925?v=4" width="100;" alt="chrysts"/>
-            <br />
-            <sub><b>Christian Simon</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/joshuajano">
-            <img src="https://avatars.githubusercontent.com/u/34101139?v=4" width="100;" alt="joshuajano"/>
-            <br />
-            <sub><b>Joshua Santoso</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/williem-scientist">
-            <img src="https://avatars.githubusercontent.com/u/23333483?v=4" width="100;" alt="williem-scientist"/>
-            <br />
-            <sub><b>Williem</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ewaldo19">
-            <img src="https://avatars.githubusercontent.com/u/57058557?v=4" width="100;" alt="ewaldo19"/>
-            <br />
-            <sub><b>Ewaldo Samuel</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/naufalso">
-            <img src="https://avatars.githubusercontent.com/u/51362638?v=4" width="100;" alt="naufalso"/>
-            <br />
-            <sub><b>Naufal Suryanto</b></sub>
-        </a>
-    </td></tr>
-</table>
-<!-- readme: collaborators,contributors -end -->
-
 ## Contributing
 Please feel free to [pull requests](https://github.com/indonesia-vision-ai/awesome-indonesia-vision-research/pulls) or join our chats ([Discord Chat](https://discord.gg/aTsC6AbVRw)) to add papers or authors. If you have published paper in the selective conferences, we encourage you to update the information here. 
-
 
 ## Conferences
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
@@ -55,6 +11,10 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 - IEEE International Conference on Computer Vision (ICCV)
 - British Machine Vision Conference (BMVC)
 - IEEE Winter Conference on Applications of Computer Vision (WACV)
+
+## Authors
+
+A compilation of Indonesian authors can be found in the file AUTHORS.md.
 
 ## Papers
 
@@ -284,4 +244,47 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * **Robby T. Tan**, Ko Nishino, Katsushi Ikeuchi, *Illumination Chromaticity Estimation using Inverse-Intensity Chromaticity Space* [[Paper](https://www.dropbox.com/s/d38rcbbdz8uj5gp/2003_cvpr.pdf?dl=0)]
 * Meng Yu, **Indriyati Atmosukarto**, Wee Kheng Leow, Zhiyong Huang, Rong Xu, *3D Model Retrieval With Morphing-Based Geometric and Topological Feature Maps* [[Paper](https://www.dropbox.com/scl/fi/5nwfotjrkafjl79eik1a7/3D-Model-Retrieval-With-Morphing-Based-Geometric-and-Topological-Feature-Maps.pdf?rlkey=89b3czohpa8ox8039ml9kx0fl&dl=0)]
 
-Maintainers - [Williem](https://github.com/williem-scientist), [Christian Simon](https://github.com/chrysts)
+
+## Contributors
+
+<!-- readme: collaborators,contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/chrysts">
+            <img src="https://avatars.githubusercontent.com/u/1657925?v=4" width="100;" alt="chrysts"/>
+            <br />
+            <sub><b>Christian Simon</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/joshuajano">
+            <img src="https://avatars.githubusercontent.com/u/34101139?v=4" width="100;" alt="joshuajano"/>
+            <br />
+            <sub><b>Joshua Santoso</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/williem-scientist">
+            <img src="https://avatars.githubusercontent.com/u/23333483?v=4" width="100;" alt="williem-scientist"/>
+            <br />
+            <sub><b>Williem</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ewaldo19">
+            <img src="https://avatars.githubusercontent.com/u/57058557?v=4" width="100;" alt="ewaldo19"/>
+            <br />
+            <sub><b>Ewaldo Samuel</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/naufalso">
+            <img src="https://avatars.githubusercontent.com/u/51362638?v=4" width="100;" alt="naufalso"/>
+            <br />
+            <sub><b>Naufal Suryanto</b></sub>
+        </a>
+    </td></tr>
+</table>
+<!-- readme: collaborators,contributors -end -->
+
