@@ -1,9 +1,9 @@
 ## List authors sorted by name
 - Agus Gunawan [[Profile Page](https://github.com/agusgun)] [[Google Scholar](https://scholar.google.com/citations?user=WJLA424AAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/311/4599.html)]
-- Arnold Wiliem [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
-- Arridhana Ciptadi [[Profile Page]()] [[Google Scholar](https://scholar.google.com/citations?user=uQefdLAAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/47/849.html)]
-- Christian Siagian [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
-- Christian Simon [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
+- Arnold Wiliem [[Profile Page](https://sites.google.com/view/arnoldwiliem/home)] [[Google Scholar](https://scholar.google.com/citations?user=plbn8HYAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/94/6882.html)]
+- Arridhana Ciptadi [[Google Scholar](https://scholar.google.com/citations?user=uQefdLAAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/47/849.html)]
+- Christian Siagian [[Profile Page](http://ilab.usc.edu/siagian/)] [[Google Scholar](https://scholar.google.com/citations?user=HPbXCwIAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/35/4742.html)]
+- Christian Simon [[Profile Page](https://chrysts.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=eZrRbp4AAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/10/3925.html)]
 - Dian Tjondronegoro [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
 - Dicky Nauli Sihite [[Google Scholar](https://scholar.google.com/citations?user=h-OIAIAAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/116/6482.html)]
 - Didik Purwanto [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
