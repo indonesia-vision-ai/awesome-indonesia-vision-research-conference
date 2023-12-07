@@ -4,6 +4,7 @@
 - Novi Quadrianto [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
 - Dian Tjondronegoro [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
 - Ivan Himawan [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
+- Dicky Nauli Sihite [[Google Scholar](https://scholar.google.com/citations?user=h-OIAIAAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/116/6482.html)]
 - Arnold Wiliem [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
 - Moh Edi Wibowo [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
 - Rasyid Aqmar [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
