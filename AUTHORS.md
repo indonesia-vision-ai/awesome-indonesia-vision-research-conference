@@ -1,6 +1,7 @@
 ## List authors sorted by name
 - Agus Gunawan [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
 - Arnold Wiliem [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
+- Arridhana Ciptadi [[Profile Page]()] [[Google Scholar](https://scholar.google.com/citations?user=uQefdLAAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/47/849.html)]
 - Christian Siagian [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
 - Christian Simon [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
 - Dian Tjondronegoro [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]

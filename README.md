@@ -200,6 +200,8 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * **Williem**, Ramesh Raskar, In Kyu Park, *Depth Map Estimation and Colorization of Anaglyph Images Using Local Color Prior and Reverse Intensity Distribution* [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Williem_Depth_Map_Estimation_ICCV_2015_paper.pdf)]
 * Yu Li, **Robby T. Tan**, Michael S. Brown, *Nighttime Haze Removal with Glow and Multiple Light Colors* [[Paper](https://www.dropbox.com/s/b7l89f31erqmjr0/2015_iccv_nightdehazing.pdf?dl=0)]
 * **Muhammad Ghifary**, W. Bastiaan Kleijn, Mengjie Zhang, David Balduzzi, *Domain Generalization for Object Recognition With Multi-Task Autoencoders* [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Ghifary_Domain_Generalization_for_ICCV_2015_paper.pdf)]
+* Chanho Kim, Fuxin Li, **Arridhana Ciptadi**, James M. Rehg, *Multiple Hypothesis Tracking Revisited* [[Paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kim_Multiple_Hypothesis_Tracking_ICCV_2015_paper.pdf)]
+* **Arridhana Ciptadi**, James M. Rehg, *Minimizing Human Effort in Interactive Tracking by Incremental Learning of Model Parameters* [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Ciptadi_Minimizing_Human_Effort_ICCV_2015_paper.pdf)]
  
 ### CVPR 2015
 * **Christian Simon**, In Kyu Park, *Reflection Removal for In-Vehicle Black Box Videos* [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Simon_Reflection_Removal_for_2015_CVPR_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2015/supplemental/Simon_Reflection_Removal_for_2015_CVPR_supplemental.zip)]
@@ -211,6 +213,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 
 ### ECCV 2014
 * Yu Li, G. Fangfang, **Robby T. Tan**, Michael Brown, *A Contrast Enhancement Framework with JPEG Artifacts Suppression* [[Paper](https://www.dropbox.com/s/gd0vzj2epp07ler/2014_eccv_liyu.pdf?dl=0)]
+* **Arridhana Ciptadi**, Matthew S. Goodwin, James M. Rehg, *Movement Pattern Histogram for Action Recognition and Retrieval* [[Paper](https://link.springer.com/content/pdf/10.1007/978-3-319-10605-2_45.pdf)]
 
 ### CVPR 2014
 * **Novi Patricia**, Barbara Caputo, *Learning to Learn, from Transfer Learning to Domain Adaptation: A Unifying Perspective* [[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Patricia_Learning_to_Learn_2014_CVPR_paper.pdf)]
@@ -227,6 +230,9 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 
 ### CVPR 2013
 * Shaodi You, **Robby T. Tan**, Rei Kawakami, Katsushi Ikeuchi, *Adherent Raindrop Detection and Removal in Video* [[Paper](https://www.dropbox.com/s/70zo85zjaaelvdf/2013_cvpr_shaodi.pdf?dl=0)]
+
+### BMVC 2013
+* **Arridhana Ciptadi**, Tucker Hermans, James M. Rehg, *An In Depth View of Saliency* [[Paper](https://projet.liris.cnrs.fr/imagine/pub/proceedings/BMVC-2013/Papers/paper0113/abstract0113.pdf)]
 
 ### WACV 2013
 * **Arnold Wiliem**, Yongkang Wong, Conrad Sanderson, Peter Hobson, Shaokang Chen, Brian C Lovell, *Classification of human epithelial type 2 cell indirect immunofluoresence images via codebook based descriptors* [[Paper](https://www.uq.id.au/a.wiliem/papers/wiliem_wacv2013.pdf)]
@@ -247,14 +253,18 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 * **Ivan Himawan**, Wei Song, **Dian Tjondronegoro**, *User-driven saliency maps for evaluating Region-of-Interest detection* [[Paper](https://ieeexplore.ieee.org/abstract/document/5711530/)]
 * **Dian Tjondronegoro**, Xiaohui Tao, Johannes Sasongko, Cher Han Lau, *Multi-modal summarization of key events and top players in sports tournament videos* [[Paper](https://eprints.qut.edu.au/43479/1/WACV_266_%281%29.pdf)]
 
-## BMVC 2011
+### BMVC 2011
 * Ali Borji, **Dicky N. Sihite**, Laurent Itti, *Computational Modeling of Top-down Visual Attention in Interactive Environments* [[Paper](https://projet.liris.cnrs.fr/imagine/pub/proceedings/BMVC-2011/Paper_256/abstract_borji.pdf)]
 
 ### CVPR 2010
 * T. Morimoto, **Robby T. Tan**, R. Kawakami, and K. Ikeuchi, *Estimating Optical Properties of Layered Surfaces Using the Spider Model* [[Paper](https://www.dropbox.com/s/zcarsgvz770gjoz/2010_cvpr_morimoto.pdf?dl=0)]
+* Tat-Jen Cham, **Arridhana Ciptadi**, Wei-Chian Tan, Minh-Tri Pham, Liang-Tien Chia, *Estimating camera pose from a single urban ground-view omnidirectional image and a 2D building outline map* [[Paper](https://www.dropbox.com/scl/fi/xqi3rnsjet2i98j7267xm/Estimating_Camera_Pose_from_a_Single_Urban_Ground.pdf?rlkey=watxcnj1881dh1pfzc931vvir&dl=0)]
 
 ### CVPR 2009
 * Akshay Asthana, Roland Goecke, **Novi Quadrianto**, Tom Gedeon, *Learning based automatic face annotation for arbitrary poses and expressions from frontal images only* [[Paper](http://sro.sussex.ac.uk/id/eprint/47606/1/AstGoeQuaGed09.pdf)]
+
+### ICCV 2009
+* **Arridhana Ciptadi**, Cheng Chen, Vitali Zagorodnov, *Component analysis approach to estimation of tissue intensity distributions of 3D images* [[Paper](https://www.dropbox.com/scl/fi/c2jr1qcmrqh3aap2w7knh/Component_analysis_approach_to_estimatio.pdf?rlkey=3hl3svwao8reb5tmnyood0kcm&dl=0)]
 
 ### CVPR 2008
 * **Robby T. Tan**, *Visibility in Bad Weather from A Single Image* [[Paper](https://www.dropbox.com/s/y0t300rxaim7cnf/2008_cvpr.pdf?dl=0)]
