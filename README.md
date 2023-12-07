@@ -223,6 +223,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 
 ### ICCV 2013
 * Viktoriia Sharmanska, **Novi Quadrianto**, Christoph H. Lampert, *Learning to Rank Using Privileged Information*, [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Sharmanska_Learning_to_Rank_2013_ICCV_paper.pdf)]
+* Ali Borji, Hamed Rezazadegan Tavakoli, **Dicky N. Sihite**, Laurent Itti, *Analysis of Scores, Datasets, and Models in Visual Saliency Prediction* [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Borji_Analysis_of_Scores_2013_ICCV_paper.pdf)]
 
 ### CVPR 2013
 * Shaodi You, **Robby T. Tan**, Rei Kawakami, Katsushi Ikeuchi, *Adherent Raindrop Detection and Removal in Video* [[Paper](https://www.dropbox.com/s/70zo85zjaaelvdf/2013_cvpr_shaodi.pdf?dl=0)]
@@ -234,6 +235,10 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 
 ### ECCV 2012
 * Viktoriia Sharmanska, **Novi Quadrianto**, Christoph H. Lampert, *Augmented Attribute Representations* [[Paper](https://link.springer.com/content/pdf/10.1007/978-3-642-33715-4_18)]
+* Ali Borji, **Dicky N. Sihite**, Laurent Itti, *Salient Object Detection: A Benchmark* [[Paper](https://www.dropbox.com/scl/fi/o3gc6qze7cegz6kh4jevd/Salient-Object-Detection-A-Benchmark.pdf?rlkey=0kf5cruic5rj6bvzf6pfxmt58&dl=0)]
+
+### CVPR 2012
+* Ali Borji, **Dicky N. Sihite**, Laurent Itti, *Probabilistic learning of task-specific visual attention* [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6666ffdc35f3b80f291b63e62fdcc29462662c47)]
 
 ### WACV 2012
 * Mehrtash T. Harandi, Conrad Sanderson, **Arnold Wiliem**, Brian C. Lovell, *Kernel analysis over Riemannian manifolds for visual recognition of actions, pedestrians and textures* [[Paper](https://www.uq.id.au/a.wiliem/papers/harandi_wacv2012.pdf)]
@@ -241,6 +246,9 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 ### WACV 2011
 * **Ivan Himawan**, Wei Song, **Dian Tjondronegoro**, *User-driven saliency maps for evaluating Region-of-Interest detection* [[Paper](https://ieeexplore.ieee.org/abstract/document/5711530/)]
 * **Dian Tjondronegoro**, Xiaohui Tao, Johannes Sasongko, Cher Han Lau, *Multi-modal summarization of key events and top players in sports tournament videos* [[Paper](https://eprints.qut.edu.au/43479/1/WACV_266_%281%29.pdf)]
+
+## BMVC 2011
+* Ali Borji, **Dicky N. Sihite**, Laurent Itti, *Computational Modeling of Top-down Visual Attention in Interactive Environments* [[Paper](https://projet.liris.cnrs.fr/imagine/pub/proceedings/BMVC-2011/Paper_256/abstract_borji.pdf)]
 
 ### CVPR 2010
 * T. Morimoto, **Robby T. Tan**, R. Kawakami, and K. Ikeuchi, *Estimating Optical Properties of Layered Surfaces Using the Spider Model* [[Paper](https://www.dropbox.com/s/zcarsgvz770gjoz/2010_cvpr_morimoto.pdf?dl=0)]

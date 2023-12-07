@@ -4,6 +4,7 @@
 - Christian Siagian [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
 - Christian Simon [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
 - Dian Tjondronegoro [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
+- Dicky Nauli Sihite [[Google Scholar](https://scholar.google.com/citations?user=h-OIAIAAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/116/6482.html)]
 - Didik Purwanto [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
 - Erman Tjiputra [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
 - Farchan Hakim Raswa [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
