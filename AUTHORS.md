@@ -29,6 +29,7 @@
 - Rey Reza Wiyatno [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
 - Rizard Renanda Adhi Pramono [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
 - Robby T. Tan [[Profile Page](https://tanrobby.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=MOD0gv4AAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/t/RobbyTTan.html)]
+- Susanto Rahardja [[Profile Page](https://www.singaporetech.edu.sg/directory/faculty/susanto-rahardja)] [[Google Scholar](https://scholar.google.com/citations?user=OdkA4jMAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/98/3034.html)]
 - Vanya Valindria [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
 - Williem [[Profile Page](https://williem.dev)] [[Google Scholar](https://scholar.google.com/citations?user=XS9FjigAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/146/7535.html)]
 - Willy Susilo [[Profile Page]()] [[Google Scholar]()] [[DBLP]()]
