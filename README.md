@@ -14,7 +14,7 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 
 ## Authors
 
-A compilation of Indonesian authors can be found in the file [AUTHORS.md](./AUTHORS.md).
+A compilation of Indonesian authors who have published paper(s) in the selected conferences can be found in the file [AUTHORS.md](./AUTHORS.md).
 
 ## Papers
 
