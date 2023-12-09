@@ -1,3 +1,5 @@
+A compilation of Indonesian authors who have published paper(s) in the selected [conferences](https://github.com/indonesia-vision-ai/awesome-indonesia-vision-research-conference/blob/main/README.md#conferences).
+
 ## List authors sorted by name
 - Agus Gunawan [[Profile Page](https://github.com/agusgun)] [[Google Scholar](https://scholar.google.com/citations?user=WJLA424AAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/311/4599.html)]
 - Arnold Wiliem [[Profile Page](https://sites.google.com/view/arnoldwiliem/home)] [[Google Scholar](https://scholar.google.com/citations?user=plbn8HYAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/94/6882.html)]
