@@ -9,6 +9,7 @@
 - Didik Purwanto [[Profile Page](https://www.didpurwanto.com/)] [[Google Scholar](https://scholar.google.com/citations?hl=en&user=nQsP3hYAAAAJ&view_op=list_works&sortby=pubdate)] [[DBLP](https://dblp.org/pid/205/4059.html)]
 - Erman Tjiputra [[Profile Page](https://ermantjiputra.com/)] [[DBLP](https://dblp.org/pid/249/5414.html)]
 - Farchan Hakim Raswa [[Google Scholar](https://scholar.google.com/citations?user=U5iQ4b0AAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/313/1266.html)]
+- Hanry Ham [[Profile Page](https://github.com/hamhanry)][[Google Scholar](https://scholar.google.com/citations?user=VnQXIfUAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/189/5727.html)]
 - Harashta Tatimma Larasati [[Profile Page](https://www.itb.ac.id/staf/profil/harashta-tatimma-larasati)] [[Google Scholar](https://scholar.google.com/citations?user=S8lwCEUAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/280/6241.html)]
 - Ikhsanul Habibie [[Profile Page](https://www.mpi-inf.mpg.de/~ihabibie/)] [[Google Scholar](https://scholar.google.com/citations?user=RwqryGYAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/159/5555.html)]
 - Indriyati Atmosukarto [[Profile Page](https://sites.google.com/site/indriatmosukarto/)] [[Google Scholar](https://scholar.google.com.sg/citations?user=rnOSpKcAAAAJ)] [[DBLP](https://dblp.org/pid/55/6132.html)]
