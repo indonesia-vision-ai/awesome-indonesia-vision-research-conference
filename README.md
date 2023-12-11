@@ -128,7 +128,6 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Siqi Yang, **Arnold Wiliem**, Shaokang Chen, Brian C Lovell, *Using LIP to Gloss Over Faces in Single-Stage Face Detection Networks* [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Siqi_Yang_Using_LIP_to_ECCV_2018_paper.pdf)]
 * **Gratianus Wesley Putra Data**, Kirjon Ngu, David William Murray, Victor Adrian Prisacariu, *Interpolating Convolutional Neural Networks Using Batch Normalization* [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Gratianus_Wesley_Putra_Data_Interpolating_Convolutional_Neural_ECCV_2018_paper.pdf)]
 
-
 ### CVPR 2018
 * Rui Qian, **Robby T. Tan**, Wenhan Yang, Jiajun Su, Jiaying Liu, *Attentive Generative Adversarial Network for Raindrop Removal from a Single Image* [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf)]
 * **Muhammad Haris**, Gregory Shakhnarovich, *Norimichi Ukita, Deep Back-Projection Networks for Super-Resolution* [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Haris_Deep_Back-Projection_Networks_CVPR_2018_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2018/Supplemental/3606-supp.pdf)]
