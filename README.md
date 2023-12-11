@@ -64,6 +64,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ### BMVC 2021
 * **Marcella Astrid**, Muhammad Zaigham Zaheer, Jae-Yeong Lee, Seung-Ik Lee, *Learning Not to Reconstruct Anomalies* [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0711.pdf)]
+* Yiwen Li, **Gratianus Wesley Putra Data**, Yunguan Fu, Yipeng Hu, Victor Adrian Prisacariu, *Few-shot Semantic Segmentation with Self-supervision from Pseudo-classes* [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0595.pdf)]
 
 ### ICCV 2021
 * Jin Yeying, Aashish Sharma, **Robby T. Tan**, *DC-ShadowNet: Single-Image Hard and Soft Shadow Removal Using Unsupervised Domain-Classifier Guided Network* [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jin_DC-ShadowNet_Single-Image_Hard_and_Soft_Shadow_Removal_Using_Unsupervised_Domain-Classifier_ICCV_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Jin_DC-ShadowNet_Single-Image_Hard_ICCV_2021_supplemental.pdf)]
@@ -125,6 +126,8 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### ECCV 2018
 * Li Ruoteng, **Robby T. Tan**, Cheong Loong Fah, *Robust Optical Flow in Rainy Scenes* [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ruoteng_Li_Robust_Optical_Flow_ECCV_2018_paper.pdf)]
 * Siqi Yang, **Arnold Wiliem**, Shaokang Chen, Brian C Lovell, *Using LIP to Gloss Over Faces in Single-Stage Face Detection Networks* [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Siqi_Yang_Using_LIP_to_ECCV_2018_paper.pdf)]
+* **Gratianus Wesley Putra Data**, Kirjon Ngu, David William Murray, Victor Adrian Prisacariu, *Interpolating Convolutional Neural Networks Using Batch Normalization* [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Gratianus_Wesley_Putra_Data_Interpolating_Convolutional_Neural_ECCV_2018_paper.pdf)]
+
 
 ### CVPR 2018
 * Rui Qian, **Robby T. Tan**, Wenhan Yang, Jiajun Su, Jiaying Liu, *Attentive Generative Adversarial Network for Raindrop Removal from a Single Image* [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf)]
