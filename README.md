@@ -234,6 +234,9 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### ECCV 2008
 * Christian Gosch, **Ketut Fundana**, Anders Heyden, Christoph Schnörr, *View Point Tracking of Rigid Objects Based on Shape Sub-manifolds* [[Paper](https://ipa.iwr.uni-heidelberg.de/dokuwiki/Papers/Gosch-Fundana-Heyden-Schnoerr-2008.pdf)]
 
+### ICCV 2007
+* Luc Florack, Hans C. van Assen, **Avan Suinesiaputra**, *Dense Multiscale Motion Extraction from Cardiac Cine MR Tagging using HARP Technology* [[Paper](https://www.dropbox.com/scl/fi/yr052d59lv7fjb31agrvj/Dense_Multiscale_Motion_Extraction_from_Cardiac_Ci.pdf?rlkey=9xkw4k2soojne2c1rokv2byob&dl=0)]
+
 ### ICCV 2005
 * Rei Kawakami, **Robby T. Tan**, Katsushi Ikeuchi, *Consistent Surface Color for Texturing Large Objects in Outdoor Scenes* [[Paper](https://www.dropbox.com/s/99voq8bungyz0gs/2005_iccv_rei.pdf?dl=0)]
 
