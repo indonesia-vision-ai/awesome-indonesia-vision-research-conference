@@ -226,9 +226,13 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ### ICCV 2009
 * **Arridhana Ciptadi**, Cheng Chen, Vitali Zagorodnov, *Component analysis approach to estimation of tissue intensity distributions of 3D images* [[Paper](https://www.dropbox.com/scl/fi/c2jr1qcmrqh3aap2w7knh/Component_analysis_approach_to_estimatio.pdf?rlkey=3hl3svwao8reb5tmnyood0kcm&dl=0)]
+* Amaël Delaunoy, **Ketut Fundana**, Emmanuel Prados, Anders Heyden, *Convex multi-region segmentation on manifolds* [[Paper](https://inria.hal.science/inria-00435133/PDF/Delaunoy-etal-iccv2009.pdf)]
 
 ### CVPR 2008
 * **Robby T. Tan**, *Visibility in Bad Weather from A Single Image* [[Paper](https://www.dropbox.com/s/y0t300rxaim7cnf/2008_cvpr.pdf?dl=0)]
+
+### ECCV 2008
+* Christian Gosch, **Ketut Fundana**, Anders Heyden, Christoph Schnörr, *View Point Tracking of Rigid Objects Based on Shape Sub-manifolds* [[Paper](https://ipa.iwr.uni-heidelberg.de/dokuwiki/Papers/Gosch-Fundana-Heyden-Schnoerr-2008.pdf)]
 
 ### ICCV 2005
 * Rei Kawakami, **Robby T. Tan**, Katsushi Ikeuchi, *Consistent Surface Color for Texturing Large Objects in Outdoor Scenes* [[Paper](https://www.dropbox.com/s/99voq8bungyz0gs/2005_iccv_rei.pdf?dl=0)]

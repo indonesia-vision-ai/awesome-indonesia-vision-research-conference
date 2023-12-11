@@ -17,6 +17,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 - Ivan Himawan [[Profile Page](https://research.qut.edu.au/saivt/staff/ivan-himawan/)] [[Google Scholar](https://scholar.google.com.au/citations?user=15v1b9kAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/43/3405.html)]
 - Julius Surya Sumantri [[Profile Page](https://github.com/JuliusSuryaS)] [[DBLP](https://dblp.org/pid/239/4189.html)]
 - Joshua Santoso [[Profile Page](https://joshuajano.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=GP2VJk4AAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/286/5533.html)]
+- Ketut Fundana [[Profile Page](https://www.researchgate.net/profile/Ketut-Fundana)] [[Google Scholar](https://scholar.google.com/citations?user=_3zQajsAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/18/40.html)]
 - Marcella Astrid [[Profile Page](https://sites.google.com/view/marcella-astrid)] [[Google Scholar](https://scholar.google.co.kr/citations?user=TXBGJhgAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/194/3058.html)]
 - Moh Edi Wibowo [[Profile Page](https://prisma.simaster.ugm.ac.id/MTk4MTA5MjgyMDA1MDExMDAx)] [[Google Scholar](https://scholar.google.co.id/citations?user=kt9I7zwAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/20/10772.html)]
 - Muhamad Risqi U. Saputra [[Profile Page](https://risqiutama.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=7wZkVT8AAAAJ&hl=id)] [[DBLP](https://dblp.org/pid/172/7604.html)]
