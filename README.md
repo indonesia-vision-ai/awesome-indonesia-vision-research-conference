@@ -238,6 +238,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ### ICCV 2007
 * Luc Florack, Hans C. van Assen, **Avan Suinesiaputra**, *Dense Multiscale Motion Extraction from Cardiac Cine MR Tagging using HARP Technology* [[Paper](https://www.dropbox.com/scl/fi/yr052d59lv7fjb31agrvj/Dense_Multiscale_Motion_Extraction_from_Cardiac_Ci.pdf?rlkey=9xkw4k2soojne2c1rokv2byob&dl=0)]
+* **Siska Fitriani**, Wooi-Boon Goh, *Interacting with Projected Media on Deformable Surfaces* [[Paper](https://www3.ntu.edu.sg/home/aswbgoh/publication/icv2007-extended.pdf)]
 
 ### ICCV 2005
 * Rei Kawakami, **Robby T. Tan**, Katsushi Ikeuchi, *Consistent Surface Color for Texturing Large Objects in Outdoor Scenes* [[Paper](https://www.dropbox.com/s/99voq8bungyz0gs/2005_iccv_rei.pdf?dl=0)]

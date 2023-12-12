@@ -35,6 +35,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 - Rizard Renanda Adhi Pramono [[Google Scholar](https://scholar.google.com/citations?user=W1FtdzYAAAAJ&hl=id)] [[DBLP](https://dblp.org/pid/245/8789.html)]
 - Robby T. Tan [[Profile Page](https://tanrobby.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=MOD0gv4AAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/t/RobbyTTan.html)]
 - Susanto Rahardja [[Profile Page](https://www.singaporetech.edu.sg/directory/faculty/susanto-rahardja)] [[Google Scholar](https://scholar.google.com/citations?user=OdkA4jMAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/98/3034.html)]
+- Siska Fitriani [[DBLP](https://dblp.org/pid/10/43.html)]
 - Vanya Valindria [[Profile Page](https://medtech-imeri.id/peneliti/vanya-valindria-s-t-m-sc-ph-d-dic/)] [[Google Scholar](https://scholar.google.com/citations?user=osNyLIoAAAAJ&hl=id)] [[DBLP](https://dblp.org/pid/120/4518.html)]
 - Williem [[Profile Page](https://williem.dev)] [[Google Scholar](https://scholar.google.com/citations?user=XS9FjigAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/146/7535.html)]
 - Willy Susilo [[Profile Page](https://sites.google.com/view/willy-susilo/)] [[Google Scholar](https://scholar.google.com/citations?user=eNOmOvkAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/12/3447.html)]
