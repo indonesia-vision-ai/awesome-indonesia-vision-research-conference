@@ -16,6 +16,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 - Harashta Tatimma Larasati [[Profile Page](https://www.itb.ac.id/staf/profil/harashta-tatimma-larasati)] [[Google Scholar](https://scholar.google.com/citations?user=S8lwCEUAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/280/6241.html)]
 - Ikhsanul Habibie [[Profile Page](https://www.mpi-inf.mpg.de/~ihabibie/)] [[Google Scholar](https://scholar.google.com/citations?user=RwqryGYAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/159/5555.html)]
 - Indriyati Atmosukarto [[Profile Page](https://sites.google.com/site/indriatmosukarto/)] [[Google Scholar](https://scholar.google.com.sg/citations?user=rnOSpKcAAAAJ)] [[DBLP](https://dblp.org/pid/55/6132.html)]
+- Irwan Prasetya Gunawan [[Profile Page](https://bakrie.ac.id/irwan)] [[Google Scholar](https://scholar.google.com/citations?user=JHCYPcIAAAAJ)] [[DBLP](https://dblp.org/pid/83/4314.html)]
 - Ivan Himawan [[Profile Page](https://research.qut.edu.au/saivt/staff/ivan-himawan/)] [[Google Scholar](https://scholar.google.com.au/citations?user=15v1b9kAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/43/3405.html)]
 - Julius Surya Sumantri [[Profile Page](https://github.com/JuliusSuryaS)] [[DBLP](https://dblp.org/pid/239/4189.html)]
 - Joshua Santoso [[Profile Page](https://joshuajano.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=GP2VJk4AAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/286/5533.html)]
