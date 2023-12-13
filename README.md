@@ -227,6 +227,12 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### CVPR 2009
 * Akshay Asthana, Roland Goecke, **Novi Quadrianto**, Tom Gedeon, *Learning based automatic face annotation for arbitrary poses and expressions from frontal images only* [[Paper](http://sro.sussex.ac.uk/id/eprint/47606/1/AstGoeQuaGed09.pdf)]
 
+### ICCV 2009
+* Bang Zhang, Getian Ye, Yang Wang, Jie Xu, **Gunawan Herman**, *Finding shareable informative patterns and optimal coding matrix for multiclass boosting* [[Paper](http://vigir.missouri.edu/~gdesouza/Research/Conference_CDs/IEEE_ICCV_2009/contents/pdf/iccv2009_008.pdf)]
+
+### WACV 2009
+* **Gunawan Herman**, Getian Ye, Yang Wang, Jie Xu, Bang Zhang, *Multi-instance learning with relational information of instances* [[Paper](https://arxiv.org/pdf/2102.01889.pdf)]
+
 ### BMVC 2009
 * **Ray Hidayat**, Richard D. Green, *Real-time Texture Boundary Detection from Ridges in the Standard Deviation Space* [[Paper](https://www.dropbox.com/scl/fi/dw5dyira06ynlmwsmi1by/Real-time_Texture_Boundary_Detection_from_Ridges_i.pdf?rlkey=6ztjbqcf3qkv27ndo84hprmh6&dl=0)]
 
