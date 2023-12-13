@@ -32,6 +32,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 - Novi Patricia [[DBLP](https://dblp.org/pid/118/4763.html)]
 - Novi Quadrianto [[Profile Page](https://profiles.sussex.ac.uk/p335583-novi-quadrianto)] [[Google Scholar](https://scholar.google.com/citations?user=I-rLzGcAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/06/580.html)]
 - Rasyid Aqmar [[Profile Page](https://mrasyidaqmar.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=JlqSw-MAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/90/8617.html)]
+- Ray Hidayat [[Google Scholar](https://scholar.google.co.nz/citations?user=_IkaBYUAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/44/9514.html)]
 - Rey Reza Wiyatno [[Profile Page](https://rrwiyatn.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=XKSXVPAAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/217/1828.html)]
 - Ricky Sutopo [[Google Scholar](https://scholar.google.com/citations?user=qG_QIXgAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/260/4768.html)]
 - Rizard Renanda Adhi Pramono [[Google Scholar](https://scholar.google.com/citations?user=W1FtdzYAAAAJ&hl=id)] [[DBLP](https://dblp.org/pid/245/8789.html)]
