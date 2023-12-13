@@ -107,7 +107,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### WACV 2020
 * **Julius Surya Sumantri**, In Kyu Park, *360 Panorama Synthesis from a Sparse Set of Images with Unknown Field of View* [[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Sumantri_360_Panorama_Synthesis_from_a_Sparse_Set_of_Images_with_WACV_2020_paper.pdf)]
 
-### BMCV 2020
+### BMVC 2020
 * Binh X. Nguyen, Binh D. Nguyen, Gustavo Carneiro, **Erman Tjiputra**, Quang D. Tran, Thanh-Toan Do, *Deep Metric Learning Meets Deep Clustering: An Novel Unsupervised Approach for Feature Embedding.* [[Paper](https://researchmgt.monash.edu/ws/portalfiles/portal/330167689/330167514_oa.pdf)]
 
 ### ICCV 2019
@@ -240,6 +240,9 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### ICCV 2007
 * Luc Florack, Hans C. van Assen, **Avan Suinesiaputra**, *Dense Multiscale Motion Extraction from Cardiac Cine MR Tagging using HARP Technology* [[Paper](https://www.dropbox.com/scl/fi/yr052d59lv7fjb31agrvj/Dense_Multiscale_Motion_Extraction_from_Cardiac_Ci.pdf?rlkey=9xkw4k2soojne2c1rokv2byob&dl=0)]
 * **Siska Fitriani**, Wooi-Boon Goh, *Interacting with Projected Media on Deformable Surfaces* [[Paper](https://www3.ntu.edu.sg/home/aswbgoh/publication/icv2007-extended.pdf)]
+
+### BMVC 2007
+* W. Paul Cockshott, Sumitha L. Balasuriya, **Irwan Prasetya Gunawan**, J. Paul Siebert, *Image Enhancement Using Vector Quantisation Based Interpolation* [[Paper](https://www.dcs.warwick.ac.uk/bmvc2007/proceedings/CD-ROM/papers/254/bmvc07submit.pdf)]
 
 ### ICCV 2005
 * Rei Kawakami, **Robby T. Tan**, Katsushi Ikeuchi, *Consistent Surface Color for Texturing Large Objects in Outdoor Scenes* [[Paper](https://www.dropbox.com/s/99voq8bungyz0gs/2005_iccv_rei.pdf?dl=0)]
