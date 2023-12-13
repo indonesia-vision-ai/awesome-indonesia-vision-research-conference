@@ -227,6 +227,9 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### CVPR 2009
 * Akshay Asthana, Roland Goecke, **Novi Quadrianto**, Tom Gedeon, *Learning based automatic face annotation for arbitrary poses and expressions from frontal images only* [[Paper](http://sro.sussex.ac.uk/id/eprint/47606/1/AstGoeQuaGed09.pdf)]
 
+### BMVC 2009
+* **Ray Hidayat**, Richard D. Green, *Real-time Texture Boundary Detection from Ridges in the Standard Deviation Space* [[Paper](https://www.dropbox.com/scl/fi/dw5dyira06ynlmwsmi1by/Real-time_Texture_Boundary_Detection_from_Ridges_i.pdf?rlkey=6ztjbqcf3qkv27ndo84hprmh6&dl=0)]
+
 ### ICCV 2009
 * **Arridhana Ciptadi**, Cheng Chen, Vitali Zagorodnov, *Component analysis approach to estimation of tissue intensity distributions of 3D images* [[Paper](https://www.dropbox.com/scl/fi/c2jr1qcmrqh3aap2w7knh/Component_analysis_approach_to_estimatio.pdf?rlkey=3hl3svwao8reb5tmnyood0kcm&dl=0)]
 * Amaël Delaunoy, **Ketut Fundana**, Emmanuel Prados, Anders Heyden, *Convex multi-region segmentation on manifolds* [[Paper](https://inria.hal.science/inria-00435133/PDF/Delaunoy-etal-iccv2009.pdf)]
