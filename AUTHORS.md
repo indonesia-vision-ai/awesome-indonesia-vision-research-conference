@@ -20,6 +20,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 - Irwan Prasetya Gunawan [[Profile Page](https://bakrie.ac.id/irwan)] [[Google Scholar](https://scholar.google.com/citations?user=JHCYPcIAAAAJ)] [[DBLP](https://dblp.org/pid/83/4314.html)]
 - Ivan Himawan [[Profile Page](https://research.qut.edu.au/saivt/staff/ivan-himawan/)] [[Google Scholar](https://scholar.google.com.au/citations?user=15v1b9kAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/43/3405.html)]
 - Julius Surya Sumantri [[Profile Page](https://github.com/JuliusSuryaS)] [[DBLP](https://dblp.org/pid/239/4189.html)]
+- Johannes Sasongko [[Profile Page](https://sjohannes.wordpress.com/about/)] [[DBLP](https://dblp.org/pid/12/2298.html)]
 - Joshua Santoso [[Profile Page](https://joshuajano.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=GP2VJk4AAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/286/5533.html)]
 - Ketut Fundana [[Profile Page](https://www.researchgate.net/profile/Ketut-Fundana)] [[Google Scholar](https://scholar.google.com/citations?user=_3zQajsAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/18/40.html)]
 - Marcella Astrid [[Profile Page](https://sites.google.com/view/marcella-astrid)] [[Google Scholar](https://scholar.google.co.kr/citations?user=TXBGJhgAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/194/3058.html)]
