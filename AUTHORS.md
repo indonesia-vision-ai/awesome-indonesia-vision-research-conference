@@ -15,6 +15,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 - Gratianus Wesley Putra Data [[Profile Page](https://github.com/gwesleypdata)] [[DBLP](https://dblp.org/pid/227/6481.html)]
 - Gunawan Herman [[DBLP](https://dblp.org/pid/47/2320.html)]
 - Harashta Tatimma Larasati [[Profile Page](https://www.itb.ac.id/staf/profil/harashta-tatimma-larasati)] [[Google Scholar](https://scholar.google.com/citations?user=S8lwCEUAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/280/6241.html)]
+- Henry Johan [[Google Scholar](https://scholar.google.com/citations?user=HAWI_ogAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/56/5589.html)]
 - Ikhsanul Habibie [[Profile Page](https://www.mpi-inf.mpg.de/~ihabibie/)] [[Google Scholar](https://scholar.google.com/citations?user=RwqryGYAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/159/5555.html)]
 - Indriyati Atmosukarto [[Profile Page](https://sites.google.com/site/indriatmosukarto/)] [[Google Scholar](https://scholar.google.com.sg/citations?user=rnOSpKcAAAAJ)] [[DBLP](https://dblp.org/pid/55/6132.html)]
 - Irwan Prasetya Gunawan [[Profile Page](https://bakrie.ac.id/irwan)] [[Google Scholar](https://scholar.google.com/citations?user=JHCYPcIAAAAJ)] [[DBLP](https://dblp.org/pid/83/4314.html)]
