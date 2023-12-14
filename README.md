@@ -49,6 +49,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Sara Romiti, Christopher Inskip, Viktoriia Sharmanska, **Novi Quadrianto**, *RealPatch: A Statistical Matching Framework for Model Patching with Real Samples* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850144.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850144-supp.pdf)]
 * **Ardian Umam**, Cheng-Kun Yang, Yung-Yu Chuang, Jen-Hui Chuang, Yen-Yu Lin, *Point MixSwap: Attentional Point Cloud Mixing via Swapping Matched Structural Divisions*, [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890587.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890587-supp.zip)]
 * Kien Do, Haripriya Harikumar, Hung Le, Dung Nguyen, Truyen Tran, Santu Rana, Dang Nguyen, **Willy Susilo**, Svetha Venkatesh, *Towards Effective and Robust Neural Trojan Defenses via Input Filtering.* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650277.pdf)]
+* Tan Wang, Qianru Sun, **Sugiri Pranata**, Jayashree Karlekar, Hanwang Zhang, *Equivariance and Invariance Inductive Bias for Learning from Insufficient Data* [[Paper](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=8516&context=sis_research)]
 
 ### BMVC 2022
 * Federico Baldassarre, Quentin Debard, Gonzalo Fiz Pontiveros, **Tri Kurniawan Wijaya**, *Quantitative Metrics for Evaluating Explanations of Video DeepFake Detectors* [[Paper](https://bmvc2022.mpi-inf.mpg.de/0972.pdf)]
@@ -132,6 +133,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### CVPR 2018
 * Rui Qian, **Robby T. Tan**, Wenhan Yang, Jiajun Su, Jiaying Liu, *Attentive Generative Adversarial Network for Raindrop Removal from a Single Image* [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf)]
 * **Muhammad Haris**, Gregory Shakhnarovich, *Norimichi Ukita, Deep Back-Projection Networks for Super-Resolution* [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Haris_Deep_Back-Projection_Networks_CVPR_2018_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2018/Supplemental/3606-supp.pdf)]
+* Jian Zhao, Yu Cheng, Yan Xu, Lin Xiong, Jianshu Li, Fang Zhao, Jayashree Karlekar, **Sugiri Pranata**, Shengmei Shen, Junliang Xing, Shuicheng Yan, Jiashi Feng, *Towards Pose Invariant Face Recognition in the Wild* [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Towards_Pose_Invariant_CVPR_2018_paper.pdf)]
 
 ### WACV 2018
 * **Vanya Valindria**, Nick Pawlowski, Martin Rajchl, Ioannis Lavdas, Eric O. Aboagye, Andrea G. Rockall, Daniel Rueckert, Ben Glocker, *Multi-modal Learning from Unpaired Images: Application to Multi-organ Segmentation in CT and MRI* [[Paper](https://spiral.imperial.ac.uk/bitstream/10044/1/56452/2/multimodal.pdf)]
