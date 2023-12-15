@@ -238,6 +238,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ### ICCV 2007
 * Luc Florack, Hans C. van Assen, **Avan Suinesiaputra**, *Dense Multiscale Motion Extraction from Cardiac Cine MR Tagging using HARP Technology* [[Paper](https://www.dropbox.com/scl/fi/yr052d59lv7fjb31agrvj/Dense_Multiscale_Motion_Extraction_from_Cardiac_Ci.pdf?rlkey=9xkw4k2soojne2c1rokv2byob&dl=0)]
+* **Siska Fitriani**, Wooi-Boon Goh, *Interacting with Projected Media on Deformable Surfaces* [[Paper](https://www3.ntu.edu.sg/home/aswbgoh/publication/icv2007-extended.pdf)]
 
 ### BMVC 2007
 * W. Paul Cockshott, Sumitha L. Balasuriya, **Irwan Prasetya Gunawan**, J. Paul Siebert, *Image Enhancement Using Vector Quantisation Based Interpolation* [[Paper](https://www.dcs.warwick.ac.uk/bmvc2007/proceedings/CD-ROM/papers/254/bmvc07submit.pdf)]
