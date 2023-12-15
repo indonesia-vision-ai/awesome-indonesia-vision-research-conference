@@ -65,7 +65,6 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### BMVC 2021
 * **Marcella Astrid**, Muhammad Zaigham Zaheer, Jae-Yeong Lee, Seung-Ik Lee, *Learning Not to Reconstruct Anomalies* [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0711.pdf)]
 * Yiwen Li, **Gratianus Wesley Putra Data**, Yunguan Fu, Yipeng Hu, Victor Adrian Prisacariu, *Few-shot Semantic Segmentation with Self-supervision from Pseudo-classes* [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0595.pdf)]
-* Arthur Jian Shun Lam, JunYi Lim, **Ricky Sutopo**, Vishnu Monn Baskaran, *Paying Attention to Varying Receptive Fields: Object Detection with Atrous Filters and Vision Transformers* [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0675.pdf)]
 
 ### ICCV 2021
 * Jin Yeying, Aashish Sharma, **Robby T. Tan**, *DC-ShadowNet: Single-Image Hard and Soft Shadow Removal Using Unsupervised Domain-Classifier Guided Network* [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jin_DC-ShadowNet_Single-Image_Hard_and_Soft_Shadow_Removal_Using_Unsupervised_Domain-Classifier_ICCV_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Jin_DC-ShadowNet_Single-Image_Hard_ICCV_2021_supplemental.pdf)]
@@ -226,15 +225,6 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ### CVPR 2009
 * Akshay Asthana, Roland Goecke, **Novi Quadrianto**, Tom Gedeon, *Learning based automatic face annotation for arbitrary poses and expressions from frontal images only* [[Paper](http://sro.sussex.ac.uk/id/eprint/47606/1/AstGoeQuaGed09.pdf)]
-
-### ICCV 2009
-* Bang Zhang, Getian Ye, Yang Wang, Jie Xu, **Gunawan Herman**, *Finding shareable informative patterns and optimal coding matrix for multiclass boosting* [[Paper](http://vigir.missouri.edu/~gdesouza/Research/Conference_CDs/IEEE_ICCV_2009/contents/pdf/iccv2009_008.pdf)]
-
-### WACV 2009
-* **Gunawan Herman**, Getian Ye, Yang Wang, Jie Xu, Bang Zhang, *Multi-instance learning with relational information of instances* [[Paper](https://arxiv.org/pdf/2102.01889.pdf)]
-
-### BMVC 2009
-* **Ray Hidayat**, Richard D. Green, *Real-time Texture Boundary Detection from Ridges in the Standard Deviation Space* [[Paper](https://www.dropbox.com/scl/fi/dw5dyira06ynlmwsmi1by/Real-time_Texture_Boundary_Detection_from_Ridges_i.pdf?rlkey=6ztjbqcf3qkv27ndo84hprmh6&dl=0)]
 
 ### ICCV 2009
 * **Arridhana Ciptadi**, Cheng Chen, Vitali Zagorodnov, *Component analysis approach to estimation of tissue intensity distributions of 3D images* [[Paper](https://www.dropbox.com/scl/fi/c2jr1qcmrqh3aap2w7knh/Component_analysis_approach_to_estimatio.pdf?rlkey=3hl3svwao8reb5tmnyood0kcm&dl=0)]
