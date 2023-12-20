@@ -2,6 +2,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ## List authors sorted by name
 - Agus Gunawan [[Profile Page](https://github.com/agusgun)] [[Google Scholar](https://scholar.google.com/citations?user=WJLA424AAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/311/4599.html)]
+- Ardian Umam [[Profile Page](https://ardianumam.wordpress.com/)] [[Google Scholar](https://scholar.google.com.tw/citations?user=S3W6Q8sAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/226/2751.html)]
 - Arnold Wiliem [[Profile Page](https://sites.google.com/view/arnoldwiliem/home)] [[Google Scholar](https://scholar.google.com/citations?user=plbn8HYAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/94/6882.html)]
 - Arridhana Ciptadi [[Google Scholar](https://scholar.google.com/citations?user=uQefdLAAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/47/849.html)]
 - Avan Suinesiaputra [[Google Scholar](https://scholar.google.com/citations?user=av3jfhgAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/32/6478.html)]
