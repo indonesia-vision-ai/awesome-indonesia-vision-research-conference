@@ -19,8 +19,9 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ## Papers
 
 ### WACV 2024
-* **Joshua Santoso**, **Christian Simon**, **Williem**, *On Manipulating Scene Text in the Wild with Diffusion Models*
-* **Farchan Hakim Raswa**, Chun-Shien Lu, and Jia-Ching Wang, *Attention-Guided Prototype Mixing: Diversifying Minority Context on Imbalanced Whole Slide Images Classification Learning*
+* **Joshua Santoso**, **Christian Simon**, **Williem**, *On Manipulating Scene Text in the Wild with Diffusion Models* [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Santoso_On_Manipulating_Scene_Text_in_the_Wild_With_Diffusion_Models_WACV_2024_paper.pdf)]
+* **Farchan Hakim Raswa**, Chun-Shien Lu, and Jia-Ching Wang, *Attention-Guided Prototype Mixing: Diversifying Minority Context on Imbalanced Whole Slide Images Classification Learning* [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Raswa_Attention-Guided_Prototype_Mixing_Diversifying_Minority_Context_on_Imbalanced_Whole_Slide_WACV_2024_paper.pdf)]
+* **Felix Limanta**, Kuniaki Uto, Koichi Shinoda, *CAMOT: Camera Angle-Aware Multi-Object Tracking*[[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Limanta_CAMOT_Camera_Angle-Aware_Multi-Object_Tracking_WACV_2024_paper.pdf)]
 
 ### ICCV 2023
 * **Naufal Suryanto**, Yongsu Kim, **Harashta Tatimma Larasati**, Hyoeun Kang, Thi-Thu-Huong Le, Yoonyoung Hong, Hunmin Yang, Se-Yoon Oh, Howon Kim, *ACTIVE: Towards Highly Transferable 3D Physical Camouflage for Universal and Robust Vehicle Evasion* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Suryanto_ACTIVE_Towards_Highly_Transferable_3D_Physical_Camouflage_for_Universal_and_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Suryanto_ACTIVE_Towards_Highly_ICCV_2023_supplemental.pdf)]
