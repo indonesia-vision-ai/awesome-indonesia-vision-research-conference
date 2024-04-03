@@ -18,6 +18,12 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ## Papers
 
+### CVPR 2024
+* Mikhail Kennerley, Wang Jian-Gang, Bharadwaj Veeravalli, **Robby T. Tan**,  *CAT: Exploiting Inter-Class Dynamics for Domain Adaptive Object Detection* [[Paper](https://arxiv.org/abs/2403.19278)]
+* Dat Nguyen, Nesryne Mejri, Inder Pal Singh, Polina Kuleshova, **Marcella Astrid**, Anis Kacem, Enjie Ghorbel,  Djamila Aouada, *LAA-Net: Localized Artifact Attention Network for High-Quality Deepfakes Detection* [[Paper](https://arxiv.org/pdf/2401.13856.pdf)]
+* **Ardian Umam**, Cheng-Kun Yang, Min-Hung Chen, Jen-Hui Chuang, Yen-Yu Lin, *PartDistill: 3D Shape Part Segmentation by Vision-Language Model Distillation* [[Paper](https://arxiv.org/pdf/2312.04016.pdf)]
+* Muhammad Hamza Mughal, Rishabh Dabral, **Ikhsanul Habibie**, Lucia Donatelli, Marc Habermann, Christian Theobalt, *ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis* [[Paper](https://arxiv.org/pdf/2403.17936.pdf)]
+
 ### WACV 2024
 * **Joshua Santoso**, **Christian Simon**, **Williem**, *On Manipulating Scene Text in the Wild with Diffusion Models* [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Santoso_On_Manipulating_Scene_Text_in_the_Wild_With_Diffusion_Models_WACV_2024_paper.pdf)]
 * **Farchan Hakim Raswa**, Chun-Shien Lu, and Jia-Ching Wang, *Attention-Guided Prototype Mixing: Diversifying Minority Context on Imbalanced Whole Slide Images Classification Learning* [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Raswa_Attention-Guided_Prototype_Mixing_Diversifying_Minority_Context_on_Imbalanced_Whole_Slide_WACV_2024_paper.pdf)]
