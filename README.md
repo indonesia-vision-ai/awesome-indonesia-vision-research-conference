@@ -23,6 +23,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Dat Nguyen, Nesryne Mejri, Inder Pal Singh, Polina Kuleshova, **Marcella Astrid**, Anis Kacem, Enjie Ghorbel,  Djamila Aouada, *LAA-Net: Localized Artifact Attention Network for High-Quality Deepfakes Detection* [[Paper](https://arxiv.org/pdf/2401.13856.pdf)]
 * **Ardian Umam**, Cheng-Kun Yang, Min-Hung Chen, Jen-Hui Chuang, Yen-Yu Lin, *PartDistill: 3D Shape Part Segmentation by Vision-Language Model Distillation* [[Paper](https://arxiv.org/pdf/2312.04016.pdf)]
 * Muhammad Hamza Mughal, Rishabh Dabral, **Ikhsanul Habibie**, Lucia Donatelli, Marc Habermann, Christian Theobalt, *ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis* [[Paper](https://arxiv.org/pdf/2403.17936.pdf)]
+* Shuwei Li, **Robby T. Tan**, *NightCC: Nighttime Color Constancy via Adaptive Channel Masking*
 
 ### WACV 2024
 * **Joshua Santoso**, **Christian Simon**, **Williem**, *On Manipulating Scene Text in the Wild with Diffusion Models* [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Santoso_On_Manipulating_Scene_Text_in_the_Wild_With_Diffusion_Models_WACV_2024_paper.pdf)]
