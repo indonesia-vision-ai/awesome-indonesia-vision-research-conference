@@ -24,6 +24,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * **Ardian Umam**, Cheng-Kun Yang, Min-Hung Chen, Jen-Hui Chuang, Yen-Yu Lin, *PartDistill: 3D Shape Part Segmentation by Vision-Language Model Distillation* [[Paper](https://arxiv.org/pdf/2312.04016.pdf)]
 * Muhammad Hamza Mughal, Rishabh Dabral, **Ikhsanul Habibie**, Lucia Donatelli, Marc Habermann, Christian Theobalt, *ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis* [[Paper](https://arxiv.org/pdf/2403.17936.pdf)]
 * Shuwei Li, **Robby T. Tan**, *NightCC: Nighttime Color Constancy via Adaptive Channel Masking*
+* Walter Zimmer, **Gerhard Arya Wardana**, Suren Sritharan, Xingcheng Zhou, Rui Song, Alois C. Knoll, *TUMTraf V2X Cooperative Perception Dataset* [[Paper](https://arxiv.org/abs/2403.01316)]
 
 ### WACV 2024
 * **Joshua Santoso**, **Christian Simon**, **Williem**, *On Manipulating Scene Text in the Wild with Diffusion Models* [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Santoso_On_Manipulating_Scene_Text_in_the_Wild_With_Diffusion_Models_WACV_2024_paper.pdf)]
