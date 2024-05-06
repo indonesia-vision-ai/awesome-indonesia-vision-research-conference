@@ -3,7 +3,7 @@
 A curated list of resources dedicated to research papers published by Indonesians at top international conferences. We only select the conferences that have rank A and A* in [CORE Conference Portal](http://portal.core.edu.au/conf-ranks/?search=vision&by=all&source=CORE2023&sort=arank&page=1). Indonesian means a native or inhabitant of Indonesia, or a person of Indonesian descent, or a person that speaks Indonesian as a first or second language. This repository is to promote and support the research of fellow Indonesians at the top conference. It is often for Indonesians attending conferences but have no idea whether there is any Indonesian presenting the paper or not.
 
 ## Contributing
-Please feel free to [pull requests](https://github.com/indonesia-vision-ai/awesome-indonesia-vision-research/pulls) or join our chats ([Discord Chat](https://discord.gg/aTsC6AbVRw)) to add papers or authors. If you have published paper in the selective conferences, we encourage you to update the information here. 
+Please feel free to [pull requests](https://github.com/indonesia-vision-ai/awesome-indonesia-vision-research-conference/pulls) or join our chats ([Discord Chat](https://discord.gg/aTsC6AbVRw)) to add papers or authors. If you have published paper in the selective conferences, we encourage you to update the information here. 
 
 ## Conferences
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
