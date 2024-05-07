@@ -2,8 +2,18 @@
 
 A curated list of resources dedicated to research papers published by Indonesians at top international conferences. We only select the conferences that have rank A and A* in [CORE Conference Portal](http://portal.core.edu.au/conf-ranks/?search=vision&by=all&source=CORE2023&sort=arank&page=1). Indonesian means a native or inhabitant of Indonesia, or a person of Indonesian descent, or a person that speaks Indonesian as a first or second language. This repository is to promote and support the research of fellow Indonesians at the top conference. It is often for Indonesians attending conferences but have no idea whether there is any Indonesian presenting the paper or not.
 
-## Contributing
+*Sebuah daftar yang berisi hasil karya penelitian yang diterbitkan oleh orang Indonesia di konferensi-konferensi internasional terkemuka. Kami hanya memilih konferensi-konferensi yang memiliki peringkat A dan A* di [CORE Conference Portal](http://portal.core.edu.au/conf-ranks/?search=vision&by=all&source=CORE2023&sort=arank&page=1). Orang Indonesia merujuk kepada penduduk asli atau penduduk Indonesia, atau orang keturunan Indonesia, atau orang yang berbicara bahasa Indonesia sebagai bahasa pertama atau kedua. Repositori ini bertujuan untuk mempromosikan dan mendukung penelitian rekan-rekan Indonesia di jurnal-jurnal terkemuka. Repositori ini berguna bagi orang Indonesia yang menghadiri konferensi namun tidak memiliki informasi apakah ada orang Indonesia yang mempresentasikan makalah atau tidak.*
+
+## Contributing / Kontribusi
 Please feel free to [pull requests](https://github.com/indonesia-vision-ai/awesome-indonesia-vision-research-conference/pulls) or join our chats ([Discord Chat](https://discord.gg/aTsC6AbVRw)) to add papers or authors. If you have published paper in the selective conferences, we encourage you to update the information here. 
+
+*Setiap orang dipersilahkan untuk mengajukan [pull requests](https://github.com/indonesia-vision-ai/awesome-indonesia-vision-research-conference/pulls) atau bergabung dengan percakapan kami ([Discord Chat](https://discord.gg/aTsC6AbVRw)) untuk menambahkan makalah atau penulis di daftar ini. Jika Anda telah menerbitkan makalah dalam konferensi-konferensi yang dipilih, kami mendorong Anda untuk memperbarui informasi di sini.*
+
+## Authors / Penulis
+A compilation of Indonesian authors who have published paper(s) in the selected conferences can be found in the file [AUTHORS.md](./AUTHORS.md).
+
+*Kompilasi penulis Indonesia yang telah menerbitkan satu atau lebih makalah di konferensi-konferensi yang dipilih dapat ditemukan dalam file [AUTHORS.md](./AUTHORS.md).*
+
 
 ## Conferences
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
@@ -12,9 +22,6 @@ Please feel free to [pull requests](https://github.com/indonesia-vision-ai/aweso
 - British Machine Vision Conference (BMVC)
 - IEEE Winter Conference on Applications of Computer Vision (WACV)
 
-## Authors
-
-A compilation of Indonesian authors who have published paper(s) in the selected conferences can be found in the file [AUTHORS.md](./AUTHORS.md).
 
 ## Papers
 
