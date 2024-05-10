@@ -44,6 +44,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Chenxin Xu, **Robby T. Tan**, Yuhong Tan, Siheng Chen, Xinchao Wang, Yanfeng Wang, *Auxiliary Tasks Benefit 3D Skeleton-based Human Motion Prediction* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Auxiliary_Tasks_Benefit_3D_Skeleton-based_Human_Motion_Prediction_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Xu_Auxiliary_Tasks_Benefit_ICCV_2023_supplemental.pdf)]
 * Weilong Yan, **Robby T. Tan**, Bing Zeng, Shuaicheng Liu, *Deep Homography Mixture for Single Image Rolling Shutter Correction* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_Deep_Homography_Mixture_for_Single_Image_Rolling_Shutter_Correction_ICCV_2023_paper.pdf)]
 * Balamurugan Thambiraja, **Ikhsanul Habibie**, Sadegh Aliakbarian, Darren Cosker, Christian Theobalt, Justus Thies, *Imitator: Personalized Speech-driven 3D Facial Animation* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Thambiraja_Imitator_Personalized_Speech-driven_3D_Facial_Animation_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Thambiraja_Imitator_Personalized_Speech-driven_ICCV_2023_supplemental.pdf)]
+* **Reza Averly**, Wei-Lun Chao, *Unified out-of-distribution detection: A model-specific perspective* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Averly_Unified_Out-Of-Distribution_Detection_A_Model-Specific_Perspective_ICCV_2023_paper.pdf)] 
 
 
 ### CVPR 2023
@@ -55,7 +56,6 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Nhat Le, Thang Pham, Tuong Do, **Erman Tjiputra**, Quang D. Tran, Anh Nguyen, *Music-Driven Group Choreography*
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Le_Music-Driven_Group_Choreography_CVPR_2023_paper.pdf)]
 * Shen Lin, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, **Willy Susilo**, *ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer.* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_ERM-KTP_Knowledge-Level_Machine_Unlearning_via_Knowledge_Transfer_CVPR_2023_paper.pdf)]
-* **Reza Averly**, Wei-Lun Chao, *Unified out-of-distribution detection: A model-specific perspective* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Averly_Unified_Out-Of-Distribution_Detection_A_Model-Specific_Perspective_ICCV_2023_paper.pdf)] 
 
 ### WACV 2023
 * Sumin Lee, Sangmin Woo, Yeonju Park, **Muhammad Adi Nugroho**, Changick Kim, *Modality Mixer for Multi-Modal Action Recognition* [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Lee_Modality_Mixer_for_Multi-Modal_Action_Recognition_WACV_2023_paper.pdf)]
