@@ -46,6 +46,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 - Stefan Lionar [[Google Scholar](https://scholar.google.com/citations?user=w6RfcvMAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/278/2750.html)]
 - Sugiri Pranata [[Google Scholar](https://scholar.google.com/citations?user=r6b0idoAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/20/388.html)]
 - Susanto Rahardja [[Profile Page](https://www.singaporetech.edu.sg/directory/faculty/susanto-rahardja)] [[Google Scholar](https://scholar.google.com/citations?user=OdkA4jMAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/98/3034.html)]
+- Tri Setiyono [[Google Scholar](https://scholar.google.com/citations?hl=en&user=RBRw_nMAAAAJ)] [[DBLP](https://dblp.org/pid/196/8354.html)]
 - Vanya Valindria [[Profile Page](https://medtech-imeri.id/peneliti/vanya-valindria-s-t-m-sc-ph-d-dic/)] [[Google Scholar](https://scholar.google.com/citations?user=osNyLIoAAAAJ&hl=id)] [[DBLP](https://dblp.org/pid/120/4518.html)]
 - Williem [[Profile Page](https://williem.dev)] [[Google Scholar](https://scholar.google.com/citations?user=XS9FjigAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/146/7535.html)]
 - Willy Susilo [[Profile Page](https://sites.google.com/view/willy-susilo/)] [[Google Scholar](https://scholar.google.com/citations?user=eNOmOvkAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/12/3447.html)]
