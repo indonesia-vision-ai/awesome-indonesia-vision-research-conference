@@ -234,6 +234,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### WACV 2011
 * **Ivan Himawan**, Wei Song, **Dian Tjondronegoro**, *User-driven saliency maps for evaluating Region-of-Interest detection* [[Paper](https://ieeexplore.ieee.org/abstract/document/5711530/)]
 * **Dian Tjondronegoro**, Xiaohui Tao, Johannes Sasongko, Cher Han Lau, *Multi-modal summarization of key events and top players in sports tournament videos* [[Paper](https://eprints.qut.edu.au/43479/1/WACV_266_%281%29.pdf)]
+* Bo Li, **Henry Johan**, *View context based 2D sketch-3D model alignment* [[Paper](https://ieeexplore.ieee.org/document/5711482)]
 
 ### BMVC 2011
 * Ali Borji, **Dicky N. Sihite**, Laurent Itti, *Computational Modeling of Top-down Visual Attention in Interactive Environments* [[Paper](https://projet.liris.cnrs.fr/imagine/pub/proceedings/BMVC-2011/Paper_256/abstract_borji.pdf)]
