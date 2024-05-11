@@ -264,6 +264,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * T. Morimoto, **Robby T. Tan**, R. Kawakami, and K. Ikeuchi, *Estimating Optical Properties of Layered Surfaces Using the Spider Model* [[Paper](https://www.dropbox.com/s/zcarsgvz770gjoz/2010_cvpr_morimoto.pdf?dl=0)]
 * Tat-Jen Cham, **Arridhana Ciptadi**, Wei-Chian Tan, Minh-Tri Pham, Liang-Tien Chia, *Estimating camera pose from a single urban ground-view omnidirectional image and a 2D building outline map* [[Paper](https://www.dropbox.com/scl/fi/xqi3rnsjet2i98j7267xm/Estimating_Camera_Pose_from_a_Single_Urban_Ground.pdf?rlkey=watxcnj1881dh1pfzc931vvir&dl=0)]
 * Alex Y. S. Chia, **Susanto Rahardja**, Deepu Rajan, Maylor K. H. Leung, *Object recognition by discriminative combinations of line segments and ellipses* [[Paper](https://iacl.ece.jhu.edu/proceedings/cvpr2010/papers/0503.pdf)]
+* **Grani Adiwena Hanasusanto**, Zheng Wu, Michael S. Brown, *Ink-bleed reduction using functional minimization* [[Paper](https://ieeexplore.ieee.org/document/5540130)]
 
 ### CVPR 2009
 * Akshay Asthana, Roland Goecke, **Novi Quadrianto**, Tom Gedeon, *Learning based automatic face annotation for arbitrary poses and expressions from frontal images only* [[Paper](http://sro.sussex.ac.uk/id/eprint/47606/1/AstGoeQuaGed09.pdf)]
