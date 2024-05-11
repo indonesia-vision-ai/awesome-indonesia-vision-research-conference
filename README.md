@@ -44,7 +44,8 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Chenxin Xu, **Robby T. Tan**, Yuhong Tan, Siheng Chen, Xinchao Wang, Yanfeng Wang, *Auxiliary Tasks Benefit 3D Skeleton-based Human Motion Prediction* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Auxiliary_Tasks_Benefit_3D_Skeleton-based_Human_Motion_Prediction_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Xu_Auxiliary_Tasks_Benefit_ICCV_2023_supplemental.pdf)]
 * Weilong Yan, **Robby T. Tan**, Bing Zeng, Shuaicheng Liu, *Deep Homography Mixture for Single Image Rolling Shutter Correction* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_Deep_Homography_Mixture_for_Single_Image_Rolling_Shutter_Correction_ICCV_2023_paper.pdf)]
 * Balamurugan Thambiraja, **Ikhsanul Habibie**, Sadegh Aliakbarian, Darren Cosker, Christian Theobalt, Justus Thies, *Imitator: Personalized Speech-driven 3D Facial Animation* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Thambiraja_Imitator_Personalized_Speech-driven_3D_Facial_Animation_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Thambiraja_Imitator_Personalized_Speech-driven_ICCV_2023_supplemental.pdf)]
-* **Reza Averly**, Wei-Lun Chao, *Unified out-of-distribution detection: A model-specific perspective* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Averly_Unified_Out-Of-Distribution_Detection_A_Model-Specific_Perspective_ICCV_2023_paper.pdf)] 
+* **Reza Averly**, Wei-Lun Chao, *Unified out-of-distribution detection: A model-specific perspective* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Averly_Unified_Out-Of-Distribution_Detection_A_Model-Specific_Perspective_ICCV_2023_paper.pdf)]
+* Jiali Ma, Zhongqi Yue, Tomoyuki Kagaya, Tomoki Suzuki, Jayashree Karlekar, **Sugiri Pranata**, Hanwang Zhang, *Invariant Feature Regularization for Fair Face Recognition* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Invariant_Feature_Regularization_for_Fair_Face_Recognition_ICCV_2023_paper.pdf)]
 
 
 ### CVPR 2023
@@ -66,6 +67,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Sara Romiti, Christopher Inskip, Viktoriia Sharmanska, **Novi Quadrianto**, *RealPatch: A Statistical Matching Framework for Model Patching with Real Samples* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850144.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850144-supp.pdf)]
 * **Ardian Umam**, Cheng-Kun Yang, Yung-Yu Chuang, Jen-Hui Chuang, Yen-Yu Lin, *Point MixSwap: Attentional Point Cloud Mixing via Swapping Matched Structural Divisions*, [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890587.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890587-supp.zip)]
 * Kien Do, Haripriya Harikumar, Hung Le, Dung Nguyen, Truyen Tran, Santu Rana, Dang Nguyen, **Willy Susilo**, Svetha Venkatesh, *Towards Effective and Robust Neural Trojan Defenses via Input Filtering.* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650277.pdf)]
+* Tan Wang, Qianru Sun, **Sugiri Pranata**, Jayashree Karlekar, Hanwang Zhang, *Equivariance and Invariance Inductive Bias for Learning from Insufficient Data* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710242.pdf)]
 
 ### BMVC 2022
 * Federico Baldassarre, Quentin Debard, Gonzalo Fiz Pontiveros, **Tri Kurniawan Wijaya**, *Quantitative Metrics for Evaluating Explanations of Video DeepFake Detectors* [[Paper](https://bmvc2022.mpi-inf.mpg.de/0972.pdf)]
@@ -144,6 +146,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Li Ruoteng, **Robby T. Tan**, Cheong Loong Fah, *Robust Optical Flow in Rainy Scenes* [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ruoteng_Li_Robust_Optical_Flow_ECCV_2018_paper.pdf)]
 * Siqi Yang, **Arnold Wiliem**, Shaokang Chen, Brian C Lovell, *Using LIP to Gloss Over Faces in Single-Stage Face Detection Networks* [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Siqi_Yang_Using_LIP_to_ECCV_2018_paper.pdf)]
 * **Gratianus Wesley Putra Data**, Kirjon Ngu, David William Murray, Victor Adrian Prisacariu, *Interpolating Convolutional Neural Networks Using Batch Normalization* [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Gratianus_Wesley_Putra_Data_Interpolating_Convolutional_Neural_ECCV_2018_paper.pdf)]
+* Jian Zhao, Yu Cheng, Yan Xu, Lin Xiong, Jianshu Li, Fang Zhao, Jayashree Karlekar, **Sugiri Pranata**, Shengmei Shen, Junliang Xing, Shuicheng Yan, Jiashi Feng, *Towards Pose Invariant Face Recognition in the Wild* [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Towards_Pose_Invariant_CVPR_2018_paper.pdf)]
 
 ### CVPR 2018
 * Rui Qian, **Robby T. Tan**, Wenhan Yang, Jiajun Su, Jiaying Liu, *Attentive Generative Adversarial Network for Raindrop Removal from a Single Image* [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf)]
