@@ -58,6 +58,10 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Nhat Le, Thang Pham, Tuong Do, **Erman Tjiputra**, Quang D. Tran, Anh Nguyen, *Music-Driven Group Choreography*
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Le_Music-Driven_Group_Choreography_CVPR_2023_paper.pdf)]
 * Shen Lin, Xiaoyu Zhang, Chenyang Chen, Xiaofeng Chen, **Willy Susilo**, *ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer.* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_ERM-KTP_Knowledge-Level_Machine_Unlearning_via_Knowledge_Transfer_CVPR_2023_paper.pdf)]
+* Yonggan Fu, Yuecheng Li, Chenghui Li, **Jason M. Saragih**, Peizhao Zhang, Xiaoliang Dai, Yingyan Celine Lin, *Auto-CARD: Efficient and Robust Codec Avatar Driving for Real-time Mobile Telepresence* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Fu_Auto-CARD_Efficient_and_Robust_Codec_Avatar_Driving_for_Real-Time_Mobile_CVPR_2023_paper.pdf)]
+* Shun Iwase, Shunsuke Saito, Tomas Simon, Stephen Lombardi, Timur M. Bagautdinov, Rohan Joshi, Fabian Prada, Takaaki Shiratori, Yaser Sheikh, **Jason M. Saragih**, *RelightableHands: Efficient Neural Relighting of Articulated Hand Models* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Iwase_RelightableHands_Efficient_Neural_Relighting_of_Articulated_Hand_Models_CVPR_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Iwase_RelightableHands_Efficient_Neural_CVPR_2023_supplemental.pdf)]
+* Junxuan Li, Shunsuke Saito, Tomas Simon, Stephen Lombardi, Hongdong Li, **Jason M. Saragih**, *MEGANE: Morphable Eyeglass and Avatar Network* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_MEGANE_Morphable_Eyeglass_and_Avatar_Network_CVPR_2023_paper.pdf)]
+* Ziyan Wang, Giljoo Nam, Tuur Stuyck, Stephen Lombardi, Chen Cao, **Jason M. Saragih**, Michael Zollhöfer, Jessica K. Hodgins, Christoph Lassner, *NeuWigs: A Neural Dynamic Model for Volumetric Hair Capture and Animation* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_NeuWigs_A_Neural_Dynamic_Model_for_Volumetric_Hair_Capture_and_CVPR_2023_paper.pdf)]
 
 ### WACV 2023
 * Sumin Lee, Sangmin Woo, Yeonju Park, **Muhammad Adi Nugroho**, Changick Kim, *Modality Mixer for Multi-Modal Action Recognition* [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Lee_Modality_Mixer_for_Multi-Modal_Action_Recognition_WACV_2023_paper.pdf)]
@@ -69,6 +73,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * **Ardian Umam**, Cheng-Kun Yang, Yung-Yu Chuang, Jen-Hui Chuang, Yen-Yu Lin, *Point MixSwap: Attentional Point Cloud Mixing via Swapping Matched Structural Divisions*, [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890587.pdf)] [[Supp](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890587-supp.zip)]
 * Kien Do, Haripriya Harikumar, Hung Le, Dung Nguyen, Truyen Tran, Santu Rana, Dang Nguyen, **Willy Susilo**, Svetha Venkatesh, *Towards Effective and Robust Neural Trojan Defenses via Input Filtering.* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650277.pdf)]
 * Tan Wang, Qianru Sun, **Sugiri Pranata**, Jayashree Karlekar, Hanwang Zhang, *Equivariance and Invariance Inductive Bias for Learning from Insufficient Data* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710242.pdf)]
+* Emre Aksan, Shugao Ma, Akin Caliskan, Stanislav Pidhorskyi, Alexander Richard, Shih-En Wei, **Jason M. Saragih**, Otmar Hilliges, *LiP-Flow: Learning Inference-Time Priors for Codec Avatars via Normalizing Flows in Latent Space* [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860091.pdf)]
 
 ### BMVC 2022
 * Federico Baldassarre, Quentin Debard, Gonzalo Fiz Pontiveros, **Tri Kurniawan Wijaya**, *Quantitative Metrics for Evaluating Explanations of Video DeepFake Detectors* [[Paper](https://bmvc2022.mpi-inf.mpg.de/0972.pdf)]
@@ -77,6 +82,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * **Christian Simon**, Masoud Faraki, Yi-Hsuan Tsai, Xiang Yu, Samuel Schulter, Yumin Suh, Mehrtash Harandi, Manmohan Chandraker, *On Generalizing Beyond Domains in Cross-Domain Continual Learning* [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Simon_On_Generalizing_Beyond_Domains_in_Cross-Domain_Continual_Learning_CVPR_2022_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Simon_On_Generalizing_Beyond_CVPR_2022_supplemental.pdf)]
 * **Naufal Suryanto**, Yongsu Kim, Hyoeun Kang, **Harashta Tatimma Larasati**, Youngyeo Yun, Thi-Thu-Huong Le, Hunmin Yang, Se-Yoon Oh, Howon Kim, *DTA: Physical Camouflage Attacks Using Differentiable Transformation Network* [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Suryanto_DTA_Physical_Camouflage_Attacks_Using_Differentiable_Transformation_Network_CVPR_2022_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Suryanto_DTA_Physical_Camouflage_CVPR_2022_supplemental.pdf)]
 * Wenqiao Zhang, Lei Zhu, James Hallinan, Shengyu Zhang, **Andrew Makmur**, Qingpeng Cai, Beng Chin Ooi, *BoostMIS: Boosting Medical Image Semi-supervised Learning with Adaptive Pseudo Labeling and Informative Active Annotation* [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_BoostMIS_Boosting_Medical_Image_Semi-Supervised_Learning_With_Adaptive_Pseudo_Labeling_CVPR_2022_paper.pdf)]
+* Amin Jourabloo, Fernando De la Torre, **Jason M. Saragih**, Shih-En Wei, Stephen Lombardi, Te-Li Wang, Danielle Belko, Autumn Trimble, Hernán Badino, *Robust Egocentric Photo-realistic Facial Expression Transfer for Virtual Reality* [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jourabloo_Robust_Egocentric_Photo-Realistic_Facial_Expression_Transfer_for_Virtual_Reality_CVPR_2022_paper.pdf)]
 
 ### WACV 2022
 * **Christian Simon**, Piotr Koniusz, Mehrtash Harandi, *Meta-Learning for Multi-Label Few-Shot Classification* [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Simon_Meta-Learning_for_Multi-Label_Few-Shot_Classification_WACV_2022_paper.pdf)]
@@ -100,6 +106,11 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Yan Wending, Yang Wenhang, Dai Dengxin, **Robby T. Tan**, *Self-Aligned Video Deraining with Transmission-Depth Consistency* [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Self-Aligned_Video_Deraining_With_Transmission-Depth_Consistency_CVPR_2021_paper.pdf)]
 * Aashish Sharma, **Robby T. Tan**, *Nighttime Visibility Enhancement by Increasing the Dynamic Range and Suppression of Light Effects* [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sharma_Nighttime_Visibility_Enhancement_by_Increasing_the_Dynamic_Range_and_Suppression_CVPR_2021_paper.pdf)]
 * Yuxiao Zhou, Marc Habermann, **Ikhsanul Habibie**, Ayush Tewari, Christian Theobalt, Feng Xu, *Monocular Real-Time Full Body Capture With Inter-Part Correlations* [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Monocular_Real-Time_Full_Body_Capture_With_Inter-Part_Correlations_CVPR_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Zhou_Monocular_Real-Time_Full_CVPR_2021_supplemental.pdf)]
+* Lele Chen, Chen Cao, Fernando De la Torre, **Jason M. Saragih**, Chenliang Xu, Yaser Sheikh, *High-Fidelity Face Tracking for AR/VR via Deep Lighting Adaptation*, [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_High-Fidelity_Face_Tracking_for_ARVR_via_Deep_Lighting_Adaptation_CVPR_2021_paper.pdf)]
+* Amit Raj, Michael Zollhöfer, Tomas Simon, **Jason M. Saragih**, Shunsuke Saito, James Hays, Stephen Lombardi, *Pixel-Aligned Volumetric Avatars* [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Raj_Pixel-Aligned_Volumetric_Avatars_CVPR_2021_paper.pdf)]
+* Ye Yuan, Shih-En Wei, Tomas Simon, Kris Kitani, **Jason M. Saragih**, *SimPoE: Simulated Character Control for 3D Human Pose Estimation* [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yuan_SimPoE_Simulated_Character_Control_for_3D_Human_Pose_Estimation_CVPR_2021_paper.pdf)]
+* Ziyan Wang, Timur M. Bagautdinov, Stephen Lombardi, Tomas Simon, **Jason M. Saragih**, Jessica K. Hodgins, Michael Zollhöfer, *Learning Compositional Radiance Fields of Dynamic Human Heads* [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Learning_Compositional_Radiance_Fields_of_Dynamic_Human_Heads_CVPR_2021_paper.pdf)]
+* Shugao Ma, Tomas Simon, **Jason M. Saragih**, Dawei Wang, Yuecheng Li, Fernando De la Torre, Yaser Sheikh, *Pixel Codec Avatars* [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_Pixel_Codec_Avatars_CVPR_2021_paper.pdf)]
 
 ### WACV 2021
 * **Stefan Lionar**, Daniil Emtsev, Dusan Svilarkovic, Songyou Peng, *Dynamic Plane Convolutional Occupancy Networks*, [[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Lionar_Dynamic_Plane_Convolutional_Occupancy_Networks_WACV_2021_paper.pdf)]
@@ -124,6 +135,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * **Muhammad Haris**, Greg Shakhnarovich, Norimichi Ukita, *Space-Time-Aware Multi-Resolution Video Enhancement* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Haris_Space-Time-Aware_Multi-Resolution_Video_Enhancement_CVPR_2020_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Haris_Space-Time-Aware_Multi-Resolution_Video_CVPR_2020_supplemental.pdf)]
 * Yuxiao Zhou, Marc Habermann, Weipeng Xu, **Ikhsanul Habibie**, Christian Theobalt, Feng Xu, *Monocular Real-Time Hand Shape and Motion Capture Using Multi-Modal Data* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Monocular_Real-Time_Hand_Shape_and_Motion_Capture_Using_Multi-Modal_Data_CVPR_2020_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Zhou_Monocular_Real-Time_Hand_CVPR_2020_supplemental.pdf)]
 * Shichao Li, Lei Ke, **Kevin Pratama**, Yu-Wing Tai, Chi-Keung Tang, Kwang-Ting Cheng, *Cascaded Deep Monocular 3D Human Pose Estimation With Evolutionary Training Data* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Cascaded_Deep_Monocular_3D_Human_Pose_Estimation_With_Evolutionary_Training_CVPR_2020_paper.pdf)]
+* Shunsuke Saito, Tomas Simon, **Jason M. Saragih**, Hanbyul Joo, *PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Saito_PIFuHD_Multi-Level_Pixel-Aligned_Implicit_Function_for_High-Resolution_3D_Human_Digitization_CVPR_2020_paper.pdf)]
   
 ### WACV 2020
 * **Julius Surya Sumantri**, In Kyu Park, *360 Panorama Synthesis from a Sparse Set of Images with Unknown Field of View* [[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Sumantri_360_Panorama_Synthesis_from_a_Sparse_Set_of_Images_with_WACV_2020_paper.pdf)]
@@ -144,6 +156,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * **Muhammad Haris**, Gregory Shakhnarovich, Norimichi Ukita, *Recurrent Back-Projection Network for Video Super-Resolution* [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Haris_Recurrent_Back-Projection_Network_for_Video_Super-Resolution_CVPR_2019_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2019/supplemental/Haris_Recurrent_Back-Projection_Network_CVPR_2019_supplemental.pdf)]
 * **Novi Quadrianto**, Viktoriia Sharmanska, Oliver Thomas, *Discovering Fair Representations in the Data Domain* [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Quadrianto_Discovering_Fair_Representations_in_the_Data_Domain_CVPR_2019_paper.pdf)]
 * **Ikhsanul Habibie**, Weipeng Xu, Dushyant Mehta, Gerard Pons-Moll, Christian Theobalt, *In the Wild Human Pose Estimation Using Explicit 2D Features and Intermediate 3D Representations* [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Habibie_In_the_Wild_Human_Pose_Estimation_Using_Explicit_2D_Features_CVPR_2019_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_CVPR_2019/supplemental/Habibie_In_the_Wild_CVPR_2019_supplemental.pdf)]
+* Chun-Liang Li, Tomas Simon, **Jason M. Saragih**, Barnabás Póczos, Yaser Sheikh, *LBS Autoencoder: Self-Supervised Fitting of Articulated Meshes to Point Clouds* [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_LBS_Autoencoder_Self-Supervised_Fitting_of_Articulated_Meshes_to_Point_Clouds_CVPR_2019_paper.pdf)]
 
 ### ECCV 2018
 * Li Ruoteng, **Robby T. Tan**, Cheong Loong Fah, *Robust Optical Flow in Rainy Scenes* [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ruoteng_Li_Robust_Optical_Flow_ECCV_2018_paper.pdf)]
@@ -154,6 +167,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### CVPR 2018
 * Rui Qian, **Robby T. Tan**, Wenhan Yang, Jiajun Su, Jiaying Liu, *Attentive Generative Adversarial Network for Raindrop Removal from a Single Image* [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf)]
 * **Muhammad Haris**, Gregory Shakhnarovich, *Norimichi Ukita, Deep Back-Projection Networks for Super-Resolution* [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Haris_Deep_Back-Projection_Networks_CVPR_2018_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_cvpr_2018/Supplemental/3606-supp.pdf)]
+* Timur M. Bagautdinov, Chenglei Wu, **Jason M. Saragih**, Pascal Fua, Yaser Sheikh, *Modeling Facial Geometry Using Compositional VAEs*, [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bagautdinov_Modeling_Facial_Geometry_CVPR_2018_paper.pdf)]
 
 ### WACV 2018
 * **Vanya Valindria**, Nick Pawlowski, Martin Rajchl, Ioannis Lavdas, Eric O. Aboagye, Andrea G. Rockall, Daniel Rueckert, Ben Glocker, *Multi-modal Learning from Unpaired Images: Application to Multi-organ Segmentation in CT and MRI* [[Paper](https://spiral.imperial.ac.uk/bitstream/10044/1/56452/2/multimodal.pdf)]
@@ -212,6 +226,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### ICCV 2013
 * Viktoriia Sharmanska, **Novi Quadrianto**, Christoph H. Lampert, *Learning to Rank Using Privileged Information*, [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Sharmanska_Learning_to_Rank_2013_ICCV_paper.pdf)]
 * Ali Borji, Hamed Rezazadegan Tavakoli, **Dicky N. Sihite**, Laurent Itti, *Analysis of Scores, Datasets, and Models in Visual Saliency Prediction* [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Borji_Analysis_of_Scores_2013_ICCV_paper.pdf)]
+* Xin Cheng, Sridha Sridharan, **Jason M. Saragih**, Simon Lucey, *Rank Minimization across Appearance and Shape for AAM Ensemble Fitting* [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Cheng_Rank_Minimization_across_2013_ICCV_paper.pdf)]
 
 ### CVPR 2013
 * Shaodi You, **Robby T. Tan**, Rei Kawakami, Katsushi Ikeuchi, *Adherent Raindrop Detection and Removal in Video* [[Paper](https://www.dropbox.com/s/70zo85zjaaelvdf/2013_cvpr_shaodi.pdf?dl=0)]
@@ -242,6 +257,9 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### BMVC 2011
 * Ali Borji, **Dicky N. Sihite**, Laurent Itti, *Computational Modeling of Top-down Visual Attention in Interactive Environments* [[Paper](https://projet.liris.cnrs.fr/imagine/pub/proceedings/BMVC-2011/Paper_256/abstract_borji.pdf)]
 
+### CVPR 2011
+* **Jason M. Saragih**, *Principal regression analysis*, [[Paper](https://ieeexplore.ieee.org/abstract/document/5995618)]
+
 ### CVPR 2010
 * T. Morimoto, **Robby T. Tan**, R. Kawakami, and K. Ikeuchi, *Estimating Optical Properties of Layered Surfaces Using the Spider Model* [[Paper](https://www.dropbox.com/s/zcarsgvz770gjoz/2010_cvpr_morimoto.pdf?dl=0)]
 * Tat-Jen Cham, **Arridhana Ciptadi**, Wei-Chian Tan, Minh-Tri Pham, Liang-Tien Chia, *Estimating camera pose from a single urban ground-view omnidirectional image and a 2D building outline map* [[Paper](https://www.dropbox.com/scl/fi/xqi3rnsjet2i98j7267xm/Estimating_Camera_Pose_from_a_Single_Urban_Ground.pdf?rlkey=watxcnj1881dh1pfzc931vvir&dl=0)]
@@ -253,6 +271,8 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### ICCV 2009
 * **Arridhana Ciptadi**, Cheng Chen, Vitali Zagorodnov, *Component analysis approach to estimation of tissue intensity distributions of 3D images* [[Paper](https://www.dropbox.com/scl/fi/c2jr1qcmrqh3aap2w7knh/Component_analysis_approach_to_estimatio.pdf?rlkey=3hl3svwao8reb5tmnyood0kcm&dl=0)]
 * Amaël Delaunoy, **Ketut Fundana**, Emmanuel Prados, Anders Heyden, *Convex multi-region segmentation on manifolds* [[Paper](https://inria.hal.science/inria-00435133/PDF/Delaunoy-etal-iccv2009.pdf)]
+* **Jason M. Saragih**, Simon Lucey, Jeffrey F. Cohn, *Face alignment through subspace constrained mean-shifts* [[Paper](https://ieeexplore.ieee.org/document/5459377)]
+* **Jason M. Saragih**, Simon Lucey, Jeffrey F. Cohn, *Deformable model fitting with a mixture of local experts* [[Paper](https://ieeexplore.ieee.org/document/5459461)]
 
 ### CVPR 2008
 * **Robby T. Tan**, *Visibility in Bad Weather from A Single Image* [[Paper](https://www.dropbox.com/s/y0t300rxaim7cnf/2008_cvpr.pdf?dl=0)]
@@ -263,9 +283,13 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### ICCV 2007
 * Luc Florack, Hans C. van Assen, **Avan Suinesiaputra**, *Dense Multiscale Motion Extraction from Cardiac Cine MR Tagging using HARP Technology* [[Paper](https://www.dropbox.com/scl/fi/yr052d59lv7fjb31agrvj/Dense_Multiscale_Motion_Extraction_from_Cardiac_Ci.pdf?rlkey=9xkw4k2soojne2c1rokv2byob&dl=0)]
 * **Siska Fitriani**, Wooi-Boon Goh, *Interacting with Projected Media on Deformable Surfaces* [[Paper](https://www3.ntu.edu.sg/home/aswbgoh/publication/icv2007-extended.pdf)]
+* **Jason M. Saragih**, Roland Göcke, *A Nonlinear Discriminative Approach to AAM Fitting* [[Paper](https://ieeexplore.ieee.org/document/4409106)]
 
 ### BMVC 2007
 * W. Paul Cockshott, Sumitha L. Balasuriya, **Irwan Prasetya Gunawan**, J. Paul Siebert, *Image Enhancement Using Vector Quantisation Based Interpolation* [[Paper](https://www.dcs.warwick.ac.uk/bmvc2007/proceedings/CD-ROM/papers/254/bmvc07submit.pdf)]
+
+### CVPR 2007
+* **Jason M. Saragih**, Roland Göcke, *Monocular and Stereo Methods for AAM Learning from Video* [[Paper](https://ieeexplore.ieee.org/abstract/document/4270083)]
 
 ### ICCV 2005
 * Rei Kawakami, **Robby T. Tan**, Katsushi Ikeuchi, *Consistent Surface Color for Texturing Large Objects in Outdoor Scenes* [[Paper](https://www.dropbox.com/s/99voq8bungyz0gs/2005_iccv_rei.pdf?dl=0)]
