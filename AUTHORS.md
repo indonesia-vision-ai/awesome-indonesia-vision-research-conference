@@ -54,3 +54,11 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 - Vanya Valindria [[Profile Page](https://medtech-imeri.id/peneliti/vanya-valindria-s-t-m-sc-ph-d-dic/)] [[Google Scholar](https://scholar.google.com/citations?user=osNyLIoAAAAJ&hl=id)] [[DBLP](https://dblp.org/pid/120/4518.html)]
 - Williem [[Profile Page](https://williem.dev)] [[Google Scholar](https://scholar.google.com/citations?user=XS9FjigAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/146/7535.html)]
 - Willy Susilo [[Profile Page](https://sites.google.com/view/willy-susilo/)] [[Google Scholar](https://scholar.google.com/citations?user=eNOmOvkAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/12/3447.html)]
+  
+## Authors by Residence
+
+The residences of authors are collected from publicly available sources such as Google Scholar and LinkedIn. You can view the data [here](./data/authors_conferences.json)
+
+<img width="991" alt="image" src="https://github.com/indonesia-vision-ai/awesome-indonesia-vision-research-conference/assets/23333483/718f6ffd-7fd5-4126-8c20-a87295892bea">
+
+
