@@ -1,0 +1,509 @@
+{
+    "Agus Gunawan": {
+        "link": "https://dblp.org/pid/311/4599.html",
+        "publications": [
+            "CVPR_2023"
+        ],
+        "residence": "South Korea"
+    },
+    "Andrew Makmur": {
+        "link": "https://dblp.org/pid/315/4059.html",
+        "publications": [
+            "CVPR_2022"
+        ],
+        "residence": "Singapore"
+    },
+    "Ardian Umam": {
+        "link": "https://dblp.org/pid/226/2751.html",
+        "publications": [
+            "ECCV_2022",
+            "TIP_2021"
+        ],
+        "residence": "Taiwan"
+    },
+    "Arnold Wiliem": {
+        "link": "https://dblp.org/pid/94/6882.html",
+        "publications": [
+            "ECCV_2018",
+            "CVIU_2012",
+            "PR_2014",
+            "PR_2016",
+            "PR_2017",
+            "WACV_2016",
+            "WACV_2014",
+            "WACV_2013",
+            "WACV_2012",
+            "TIP_2018"
+        ],
+        "residence": "Australia"
+    },
+    "Arridhana Ciptadi": {
+        "link": "https://dblp.org/pid/47/849.html",
+        "publications": [
+            "ECCV_2014",
+            "CVPR_2010",
+            "ICCV_2009",
+            "ICCV_2015",
+            "BMVC_2013"
+        ],
+        "residence": "United States"
+    },
+    "Avan Suinesiaputra": {
+        "link": "https://dblp.org/pid/32/6478.html",
+        "publications": [
+            "ICCV_2007"
+        ],
+        "residence": "United Kingdom"
+    },
+    "Christian Siagian": {
+        "link": "https://dblp.org/pid/35/4742.html",
+        "publications": [
+            "PAMI_2007",
+            "CVPR_2015"
+        ],
+        "residence": "United States"
+    },
+    "Christian Simon": {
+        "link": "https://dblp.org/pid/10/3925.html",
+        "publications": [
+            "ECCV_2020",
+            "WACV_2022",
+            "WACV_2024",
+            "TIP_2017",
+            "CVPR_2021",
+            "CVPR_2020",
+            "CVPR_2015",
+            "CVPR_2022",
+            "ICCV_2021"
+        ],
+        "residence": "Japan"
+    },
+    "Derry Wijaya": {
+        "link": "https://dblp.org/pid/43/6731.html",
+        "publications": [
+            "ECCV_2020"
+        ],
+        "residence": "Indonesia"
+    },
+    "Dian Tjondronegoro": {
+        "link": "https://dblp.org/pid/60/2965.html",
+        "publications": [
+            "WACV_2011",
+            "WACV_2014",
+            "WACV_2013"
+        ],
+        "residence": "Australia"
+    },
+    "Dicky Nauli Sihite": {
+        "link": "https://dblp.org/pid/116/6482.html",
+        "publications": [
+            "ECCV_2012",
+            "TIP_2013",
+            "CVPR_2012",
+            "ICCV_2013",
+            "BMVC_2011"
+        ],
+        "residence": "United States"
+    },
+    "Didik Purwanto": {
+        "link": "https://dblp.org/pid/205/4059.html",
+        "publications": [
+            "ICCV_2021"
+        ],
+        "residence": "Taiwan"
+    },
+    "Erman Tjiputra": {
+        "link": "https://dblp.org/pid/249/5414.html",
+        "publications": [
+            "WACV_2023",
+            "CVPR_2023",
+            "ICCV_2019",
+            "ICCV_2023",
+            "BMVC_2020"
+        ],
+        "residence": "Singapore"
+    },
+    "Farchan Hakim Raswa": {
+        "link": "https://dblp.org/pid/313/1266.html",
+        "publications": [
+            "WACV_2024"
+        ],
+        "residence": "Taiwan"
+    },
+    "Felix Limanta": {
+        "link": "https://dblp.org/pid/373/2393.html",
+        "publications": [
+            "WACV_2024"
+        ],
+        "residence": "Japan"
+    },
+    "Gerhard Arya Wardana": {
+        "link": "https://dblp.org/pid/371/8300.html",
+        "publications": [
+            "CVPR_2024"
+        ],
+        "residence": "Germany"
+    },
+    "Gratianus Wesley Putra Data": {
+        "link": "https://dblp.org/pid/227/6481.html",
+        "publications": [
+            "ECCV_2018",
+            "BMVC_2021"
+        ],
+        "residence": "United Kingdom"
+    },
+    "Grani Adiwena Hanasusanto": {
+        "link": "https://dblp.org/pid/37/8653.html",
+        "publications": [
+            "CVPR_2010"
+        ],
+        "residence": "United States"
+    },
+    "Harashta Tatimma Larasati": {
+        "link": "https://dblp.org/pid/280/6241.html",
+        "publications": [
+            "CVPR_2022",
+            "ICCV_2023"
+        ],
+        "residence": "South Korea"
+    },
+    "Henry Johan": {
+        "link": "https://dblp.org/pid/56/5589.html",
+        "publications": [
+            "CVIU_2015",
+            "CVIU_2014",
+            "IJCV_2016",
+            "WACV_2011"
+        ],
+        "residence": "Singapore"
+    },
+    "Ikhsanul Habibie": {
+        "link": "https://dblp.org/pid/159/5555.html",
+        "publications": [
+            "CVPR_2021",
+            "CVPR_2020",
+            "CVPR_2019",
+            "ICCV_2023",
+            "BMVC_2017"
+        ],
+        "residence": "Germany"
+    },
+    "Indriyati Atmosukarto": {
+        "link": "https://dblp.org/pid/55/6132.html",
+        "publications": [
+            "PR_2010",
+            "WACV_2015",
+            "CVPR_2003",
+            "BMVC_2013"
+        ],
+        "residence": "Singapore"
+    },
+    "Irwan Prasetya Gunawan": {
+        "link": "https://dblp.org/pid/83/4314.html",
+        "publications": [
+            "BMVC_2007"
+        ],
+        "residence": "Indonesia"
+    },
+    "Ivan Himawan": {
+        "link": "https://dblp.org/pid/43/3405.html",
+        "publications": [
+            "WACV_2011",
+            "WACV_2013"
+        ],
+        "residence": "Australia"
+    },
+    "Jason M. Saragih": {
+        "link": "https://dblp.org/pid/21/3590.html",
+        "publications": [
+            "ECCV_2022",
+            "PR_2009",
+            "PR_2016",
+            "IJCV_2011",
+            "CVPR_2021",
+            "CVPR_2020",
+            "CVPR_2007",
+            "CVPR_2011",
+            "CVPR_2019",
+            "CVPR_2023",
+            "CVPR_2022",
+            "CVPR_2018",
+            "ICCV_2009",
+            "ICCV_2007"
+        ],
+        "residence": "United States"
+    },
+    "Julius Surya Sumantri": {
+        "link": "https://dblp.org/pid/239/4189.html",
+        "publications": [
+            "WACV_2020"
+        ],
+        "residence": "Indonesia"
+    },
+    "Joshua Santoso": {
+        "link": "https://dblp.org/pid/286/5533.html",
+        "publications": [
+            "WACV_2024"
+        ],
+        "residence": "Indonesia"
+    },
+    "Ketut Fundana": {
+        "link": "https://dblp.org/pid/18/40.html",
+        "publications": [
+            "ECCV_2008",
+            "IJCV_2008",
+            "ICCV_2009"
+        ],
+        "residence": "Switzerland"
+    },
+    "Kevin Pratama": {
+        "link": "https://dblp.org/pid/267/5451.html",
+        "publications": [
+            "CVPR_2020"
+        ],
+        "residence": "United States"
+    },
+    "Marcella Astrid": {
+        "link": "https://dblp.org/pid/194/3058.html",
+        "publications": [
+            "ECCV_2020",
+            "TIP_2022",
+            "CVPR_2020",
+            "BMVC_2021"
+        ],
+        "residence": "Luxembourg"
+    },
+    "Moh Edi Wibowo": {
+        "link": "https://dblp.org/pid/20/10772.html",
+        "publications": [
+            "WACV_2013"
+        ],
+        "residence": "Indonesia"
+    },
+    "Muhamad Risqi U. Saputra": {
+        "link": "https://dblp.org/pid/172/7604.html",
+        "publications": [
+            "ICCV_2019"
+        ],
+        "residence": "Indonesia"
+    },
+    "Muhammad Adi Nugroho": {
+        "link": "https://dblp.org/pid/214/8126.html",
+        "publications": [
+            "CVIU_2023",
+            "WACV_2023",
+            "ICCV_2023"
+        ],
+        "residence": "South Korea"
+    },
+    "Muhammad Ghifary": {
+        "link": "https://dblp.org/pid/140/7996.html",
+        "publications": [
+            "ECCV_2016",
+            "PAMI_2017",
+            "ICCV_2015"
+        ],
+        "residence": "Indonesia"
+    },
+    "Muhammad Haris": {
+        "link": "https://dblp.org/pid/142/1614-2.html",
+        "publications": [
+            "PAMI_2022",
+            "PAMI_2021",
+            "CVPR_2020",
+            "CVPR_2019",
+            "CVPR_2018"
+        ],
+        "residence": "Indonesia"
+    },
+    "Naufal Suryanto": {
+        "link": "https://dblp.org/pid/280/6236.html",
+        "publications": [
+            "CVPR_2022",
+            "ICCV_2023"
+        ],
+        "residence": "South Korea"
+    },
+    "Nolang Fanani": {
+        "link": "https://dblp.org/pid/173/1025.html",
+        "publications": [
+            "WACV_2017"
+        ],
+        "residence": "Germany"
+    },
+    "Novi Patricia": {
+        "link": "https://dblp.org/pid/118/4763.html",
+        "publications": [
+            "CVPR_2014"
+        ],
+        "residence": "Indonesia"
+    },
+    "Novi Quadrianto": {
+        "link": "https://dblp.org/pid/06/580.html",
+        "publications": [
+            "ECCV_2022",
+            "ECCV_2012",
+            "ECCV_2020",
+            "PAMI_2015",
+            "PAMI_2010",
+            "CVPR_2016",
+            "CVPR_2009",
+            "CVPR_2019",
+            "ICCV_2013"
+        ],
+        "residence": "United Kingdom"
+    },
+    "Rasyid Aqmar": {
+        "link": "https://dblp.org/pid/90/8617.html",
+        "publications": [
+            "CVIU_2014",
+            "CVPR_2014"
+        ],
+        "residence": "Indonesia"
+    },
+    "Rey Reza Wiyatno": {
+        "link": "https://dblp.org/pid/217/1828.html",
+        "publications": [
+            "ICCV_2019"
+        ],
+        "residence": "Canada"
+    },
+    "Reza Averly": {
+        "link": "https://dblp.org/pid/288/4475.html",
+        "publications": [
+            "ICCV_2023"
+        ],
+        "residence": "United States"
+    },
+    "Ricky Sutopo": {
+        "link": "https://dblp.org/pid/260/4768.html",
+        "publications": [
+            "BMVC_2021"
+        ],
+        "residence": "Malaysia"
+    },
+    "Rizard Renanda Adhi Pramono": {
+        "link": "https://dblp.org/pid/245/8789.html",
+        "publications": [
+            "ECCV_2020",
+            "TIP_2021",
+            "ICCV_2019"
+        ],
+        "residence": "Taiwan"
+    },
+    "Robby T. Tan": {
+        "link": "https://dblp.org/pid/t/RobbyTTan.html",
+        "publications": [
+            "ECCV_2014",
+            "ECCV_2022",
+            "ECCV_2018",
+            "ECCV_2020",
+            "CVIU_2017",
+            "PAMI_2023",
+            "PAMI_2022",
+            "PAMI_2005",
+            "PAMI_2024",
+            "PAMI_2004",
+            "PAMI_2021",
+            "PAMI_2016",
+            "PAMI_2020",
+            "PR_2022",
+            "PR_2023",
+            "PR_2016",
+            "PR_2021",
+            "IJCV_2013",
+            "IJCV_2021",
+            "TIP_2017",
+            "TIP_2022",
+            "CVPR_2017",
+            "CVPR_2021",
+            "CVPR_2020",
+            "CVPR_2016",
+            "CVPR_2010",
+            "CVPR_2013",
+            "CVPR_2005",
+            "CVPR_2008",
+            "CVPR_2015",
+            "CVPR_2003",
+            "CVPR_2019",
+            "CVPR_2023",
+            "CVPR_2018",
+            "ICCV_2005",
+            "ICCV_2003",
+            "ICCV_2015",
+            "ICCV_2019",
+            "ICCV_2023",
+            "ICCV_2021"
+        ],
+        "residence": "Singapore"
+    },
+    "Siska Fitriani": {
+        "link": "https://dblp.org/pid/10/43.html",
+        "publications": [
+            "ICCV_2007"
+        ],
+        "residence": "Singapore"
+    },
+    "Stefan Lionar": {
+        "link": "https://dblp.org/pid/278/2750.html",
+        "publications": [
+            "WACV_2021"
+        ],
+        "residence": "Singapore"
+    },
+    "Sugiri Pranata": {
+        "link": "https://dblp.org/pid/20/388.html",
+        "publications": [
+            "ECCV_2022",
+            "CVPR_2018",
+            "ICCV_2023"
+        ],
+        "residence": "Singapore"
+    },
+    "Susanto Rahardja": {
+        "link": "https://dblp.org/pid/98/3034.html",
+        "publications": [
+            "PAMI_2012",
+            "PR_2021",
+            "TIP_2020",
+            "TIP_2011",
+            "TIP_2012",
+            "TIP_2009",
+            "TIP_2013",
+            "CVPR_2010"
+        ],
+        "residence": "Singapore"
+    },
+    "Tri Setiyono": {
+        "link": "https://dblp.org/pid/196/8354.html",
+        "publications": [
+            "ICCV_2023"
+        ],
+        "residence": "United States"
+    },
+    "Vanya Valindria": {
+        "link": "https://dblp.org/pid/120/4518.html",
+        "publications": [
+            "WACV_2018"
+        ],
+        "residence": "United Kingdom"
+    },
+    "Williem": {
+        "link": "https://dblp.org/pid/146/7535.html",
+        "publications": [
+            "PAMI_2018",
+            "WACV_2024",
+            "CVPR_2016",
+            "ICCV_2015"
+        ],
+        "residence": "Indonesia"
+    },
+    "Willy Susilo": {
+        "link": "https://dblp.org/pid/12/3447.html",
+        "publications": [
+            "ECCV_2022",
+            "CVPR_2023"
+        ],
+        "residence": "Australia"
+    }
+}
