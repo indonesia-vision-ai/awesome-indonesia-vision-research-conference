@@ -137,6 +137,14 @@
         ],
         "residence": "Japan"
     },
+    "Fernando Julio Cendra": {
+        "link": "https://dblp.org/pid/332/1120.html",
+        "publications": [
+            "ECCV_2024",
+            "CVPR_2023"
+        ],
+        "residence": "Hong Kong"
+    },
     "Gerhard Arya Wardana": {
         "link": "https://dblp.org/pid/371/8300.html",
         "publications": [
