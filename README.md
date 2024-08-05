@@ -25,6 +25,9 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ## Papers
 
+### ECCV 2024
+* **Fernando Julio Cendra**, Bingchen Zhao, Kai Han, *PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery* [[Paper](https://arxiv.org/pdf/2407.19001)] [[Project page](https://visual-ai.github.io/promptccd/)]
+
 ### CVPR 2024
 * Mikhail Kennerley, Wang Jian-Gang, Bharadwaj Veeravalli, **Robby T. Tan**,  *CAT: Exploiting Inter-Class Dynamics for Domain Adaptive Object Detection* [[Paper](https://arxiv.org/abs/2403.19278)]
 * Dat Nguyen, Nesryne Mejri, Inder Pal Singh, Polina Kuleshova, **Marcella Astrid**, Anis Kacem, Enjie Ghorbel,  Djamila Aouada, *LAA-Net: Localized Artifact Attention Network for High-Quality Deepfakes Detection* [[Paper](https://arxiv.org/pdf/2401.13856.pdf)]
@@ -62,6 +65,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Shun Iwase, Shunsuke Saito, Tomas Simon, Stephen Lombardi, Timur M. Bagautdinov, Rohan Joshi, Fabian Prada, Takaaki Shiratori, Yaser Sheikh, **Jason M. Saragih**, *RelightableHands: Efficient Neural Relighting of Articulated Hand Models* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Iwase_RelightableHands_Efficient_Neural_Relighting_of_Articulated_Hand_Models_CVPR_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Iwase_RelightableHands_Efficient_Neural_CVPR_2023_supplemental.pdf)]
 * Junxuan Li, Shunsuke Saito, Tomas Simon, Stephen Lombardi, Hongdong Li, **Jason M. Saragih**, *MEGANE: Morphable Eyeglass and Avatar Network* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_MEGANE_Morphable_Eyeglass_and_Avatar_Network_CVPR_2023_paper.pdf)]
 * Ziyan Wang, Giljoo Nam, Tuur Stuyck, Stephen Lombardi, Chen Cao, **Jason M. Saragih**, Michael Zollhöfer, Jessica K. Hodgins, Christoph Lassner, *NeuWigs: A Neural Dynamic Model for Volumetric Hair Capture and Animation* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_NeuWigs_A_Neural_Dynamic_Model_for_Volumetric_Hair_Capture_and_CVPR_2023_paper.pdf)]
+* Tsai Hor Chan, **Fernando Julio Cendra**, Lan Ma, Guosheng Yin, Lequan Yu, *Histopathology Whole Slide Image Analysis with Heterogeneous Graph Representation Learning* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chan_Histopathology_Whole_Slide_Image_Analysis_With_Heterogeneous_Graph_Representation_Learning_CVPR_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Chan_Histopathology_Whole_Slide_CVPR_2023_supplemental.pdf)]
 
 ### WACV 2023
 * Sumin Lee, Sangmin Woo, Yeonju Park, **Muhammad Adi Nugroho**, Changick Kim, *Modality Mixer for Multi-Modal Action Recognition* [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Lee_Modality_Mixer_for_Multi-Modal_Action_Recognition_WACV_2023_paper.pdf)]
