@@ -358,6 +358,14 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
             <sub><b>Naufal Suryanto</b></sub>
         </a>
     </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/fcendra">
+            <img src="https://avatars.githubusercontent.com/u/55789008?v=4" width="100;" alt="fcendra"/>
+            <br />
+            <sub><b>Fernando Julio Cendra</b></sub>
+        </a>
+    </td></tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
 
