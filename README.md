@@ -28,6 +28,9 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### ECCV 2024
 * **Fernando Julio Cendra**, Bingchen Zhao, Kai Han, *PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery* [[Paper](https://arxiv.org/pdf/2407.19001)] [[Project page](https://visual-ai.github.io/promptccd/)]
 
+### ICLR 2024
+* Yuren Cong, Mengmeng Xu, **Christian Simon**, Shoufa Chen, Jiawei Ren, Yanping Xie, Juan-Manuel Perez-Rua, Bodo Rosenhahn, Tao Xiang, Sen He, *FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing* [[Paper](https://arxiv.org/abs/2310.05922)] [[Project page](https://flatten-video-editing.github.io/)]
+
 ### CVPR 2024
 * Mikhail Kennerley, Wang Jian-Gang, Bharadwaj Veeravalli, **Robby T. Tan**,  *CAT: Exploiting Inter-Class Dynamics for Domain Adaptive Object Detection* [[Paper](https://arxiv.org/abs/2403.19278)]
 * Dat Nguyen, Nesryne Mejri, Inder Pal Singh, Polina Kuleshova, **Marcella Astrid**, Anis Kacem, Enjie Ghorbel,  Djamila Aouada, *LAA-Net: Localized Artifact Attention Network for High-Quality Deepfakes Detection* [[Paper](https://arxiv.org/pdf/2401.13856.pdf)]
