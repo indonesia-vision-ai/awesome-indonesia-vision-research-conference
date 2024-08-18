@@ -1,8 +1,8 @@
 # Awesome Indonesia Computer Vision Research - Conference Publication
 
-A curated list of resources dedicated to research papers published by Indonesians at top international conferences. We only select the conferences that have rank A and A* in [CORE Conference Portal](http://portal.core.edu.au/conf-ranks/?search=vision&by=all&source=CORE2023&sort=arank&page=1). Indonesian means a native or inhabitant of Indonesia, or a person of Indonesian descent, or a person that speaks Indonesian as a first or second language. This repository is to promote and support the research of fellow Indonesians at the top conference. It is often for Indonesians attending conferences but have no idea whether there is any Indonesian presenting the paper or not.
+A curated list of resources dedicated to research papers published by Indonesians at top international conferences. We only select the conferences that have rank A and A* in [CORE Conference Portal](http://portal.core.edu.au/conf-ranks/?search=vision&by=all&source=CORE2023&sort=arank&page=1). Computer vision researches that are published in non computer vision conferences are also welcome as long as they have images or videos in the experiments. Indonesian means a native or inhabitant of Indonesia, or a person of Indonesian descent, or a person that speaks Indonesian as a first or second language. This repository is to promote and support the research of fellow Indonesians at the top conference. It is often for Indonesians attending conferences but have no idea whether there is any Indonesian presenting the paper or not.
 
-*Sebuah daftar yang berisi hasil karya penelitian yang diterbitkan oleh orang Indonesia di konferensi-konferensi internasional terkemuka. Kami hanya memilih konferensi-konferensi yang memiliki peringkat A dan A\* di [CORE Conference Portal](http://portal.core.edu.au/conf-ranks/?search=vision&by=all&source=CORE2023&sort=arank&page=1). Orang Indonesia merujuk kepada penduduk asli atau penduduk Indonesia, atau orang keturunan Indonesia, atau orang yang berbicara bahasa Indonesia sebagai bahasa pertama atau kedua. Repositori ini bertujuan untuk mempromosikan dan mendukung penelitian rekan-rekan Indonesia di jurnal-jurnal terkemuka. Repositori ini berguna bagi orang Indonesia yang menghadiri konferensi namun tidak memiliki informasi apakah ada orang Indonesia yang mempresentasikan makalah atau tidak.*
+*Sebuah daftar yang berisi hasil karya penelitian yang diterbitkan oleh orang Indonesia di konferensi-konferensi internasional terkemuka. Kami hanya memilih konferensi-konferensi yang memiliki peringkat A dan A\* di [CORE Conference Portal](http://portal.core.edu.au/conf-ranks/?search=vision&by=all&source=CORE2023&sort=arank&page=1). Penelitian computer vision yang dipublikasi di konferensi di luar computer vision dapat dimasukkan apabila terdapat eksperimen yang menggunakan gambar / video. Orang Indonesia merujuk kepada penduduk asli atau penduduk Indonesia, atau orang keturunan Indonesia, atau orang yang berbicara bahasa Indonesia sebagai bahasa pertama atau kedua. Repositori ini bertujuan untuk mempromosikan dan mendukung penelitian rekan-rekan Indonesia di jurnal-jurnal terkemuka. Repositori ini berguna bagi orang Indonesia yang menghadiri konferensi namun tidak memiliki informasi apakah ada orang Indonesia yang mempresentasikan makalah atau tidak.*
 
 ## Contributing / Kontribusi
 Please feel free to [pull requests](https://github.com/indonesia-vision-ai/awesome-indonesia-vision-research-conference/pulls) or join our chats ([Discord Chat](https://discord.gg/aTsC6AbVRw)) to add papers or authors. If you have published paper in the selective conferences, we encourage you to update the information here. 
@@ -21,6 +21,11 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 - IEEE International Conference on Computer Vision (ICCV)
 - British Machine Vision Conference (BMVC)
 - IEEE Winter Conference on Applications of Computer Vision (WACV)
+- International Conference on Learning Representations (ICLR)
+- International Conference on Machine Learning (ICML)
+- National Conference of the American Association for Artificial Intelligence (AAAI)
+- International Joint Conference on Artificial Intelligence (IJCAI)
+- Advances in Neural Information Processing Systems (NIPS)
 
 
 ## Papers
