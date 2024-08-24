@@ -89,15 +89,15 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ### BMVC 2022
 * Federico Baldassarre, Quentin Debard, Gonzalo Fiz Pontiveros, **Tri Kurniawan Wijaya**, *Quantitative Metrics for Evaluating Explanations of Video DeepFake Detectors* [[Paper](https://bmvc2022.mpi-inf.mpg.de/0972.pdf)]
-
-### ICLR 2022
-* Afra Feyza Akyürek, Ekin Akyürek, **Derry Wijaya**, Jacob Andreas, *Subspace Regularizers for Few-Shot Class Incremental Learning* [[Paper](https://arxiv.org/abs/2110.07059)]
   
 ### CVPR 2022
 * **Christian Simon**, Masoud Faraki, Yi-Hsuan Tsai, Xiang Yu, Samuel Schulter, Yumin Suh, Mehrtash Harandi, Manmohan Chandraker, *On Generalizing Beyond Domains in Cross-Domain Continual Learning* [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Simon_On_Generalizing_Beyond_Domains_in_Cross-Domain_Continual_Learning_CVPR_2022_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Simon_On_Generalizing_Beyond_CVPR_2022_supplemental.pdf)]
 * **Naufal Suryanto**, Yongsu Kim, Hyoeun Kang, **Harashta Tatimma Larasati**, Youngyeo Yun, Thi-Thu-Huong Le, Hunmin Yang, Se-Yoon Oh, Howon Kim, *DTA: Physical Camouflage Attacks Using Differentiable Transformation Network* [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Suryanto_DTA_Physical_Camouflage_Attacks_Using_Differentiable_Transformation_Network_CVPR_2022_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Suryanto_DTA_Physical_Camouflage_CVPR_2022_supplemental.pdf)]
 * Wenqiao Zhang, Lei Zhu, James Hallinan, Shengyu Zhang, **Andrew Makmur**, Qingpeng Cai, Beng Chin Ooi, *BoostMIS: Boosting Medical Image Semi-supervised Learning with Adaptive Pseudo Labeling and Informative Active Annotation* [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_BoostMIS_Boosting_Medical_Image_Semi-Supervised_Learning_With_Adaptive_Pseudo_Labeling_CVPR_2022_paper.pdf)]
 * Amin Jourabloo, Fernando De la Torre, **Jason M. Saragih**, Shih-En Wei, Stephen Lombardi, Te-Li Wang, Danielle Belko, Autumn Trimble, Hernán Badino, *Robust Egocentric Photo-realistic Facial Expression Transfer for Virtual Reality* [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jourabloo_Robust_Egocentric_Photo-Realistic_Facial_Expression_Transfer_for_Virtual_Reality_CVPR_2022_paper.pdf)]
+
+### ICLR 2022
+* Afra Feyza Akyürek, Ekin Akyürek, **Derry Wijaya**, Jacob Andreas, *Subspace Regularizers for Few-Shot Class Incremental Learning* [[Paper](https://arxiv.org/abs/2110.07059)]
 
 ### WACV 2022
 * **Christian Simon**, Piotr Koniusz, Mehrtash Harandi, *Meta-Learning for Multi-Label Few-Shot Classification* [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Simon_Meta-Learning_for_Multi-Label_Few-Shot_Classification_WACV_2022_paper.pdf)]
@@ -257,6 +257,9 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### ECCV 2012
 * Viktoriia Sharmanska, **Novi Quadrianto**, Christoph H. Lampert, *Augmented Attribute Representations* [[Paper](https://link.springer.com/content/pdf/10.1007/978-3-642-33715-4_18)]
 * Ali Borji, **Dicky N. Sihite**, Laurent Itti, *Salient Object Detection: A Benchmark* [[Paper](https://www.dropbox.com/scl/fi/o3gc6qze7cegz6kh4jevd/Salient-Object-Detection-A-Benchmark.pdf?rlkey=0kf5cruic5rj6bvzf6pfxmt58&dl=0)]
+
+### AAAI 2012
+* Ali Borji, **Dicky N. Sihite**, Laurent Itti, *An Object-Based Bayesian Framework for Top-Down Visual Attention* [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/8334)]
 
 ### CVPR 2012
 * Ali Borji, **Dicky N. Sihite**, Laurent Itti, *Probabilistic learning of task-specific visual attention* [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6666ffdc35f3b80f291b63e62fdcc29462662c47)]
