@@ -130,6 +130,9 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### WACV 2021
 * **Stefan Lionar**, Daniil Emtsev, Dusan Svilarkovic, Songyou Peng, *Dynamic Plane Convolutional Occupancy Networks*, [[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Lionar_Dynamic_Plane_Convolutional_Occupancy_Networks_WACV_2021_paper.pdf)]
 * Jerry W. Wei, **Arief A. Suriawinata**, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Louis J. Vaickus, Charles Brown, Michael Baker, Mustafa Nasir-Moin, Naofumi Tomita, Lorenzo Torresani, Jason Wei, Saeed Hassanpour, *Learn like a Pathologist: Curriculum Learning by Annotator Agreement for Histopathology Image Classification* [[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Wei_Learn_Like_a_Pathologist_Curriculum_Learning_by_Annotator_Agreement_for_WACV_2021_paper.pdf)]
+
+### NeurIPS 2020
+* Yi Zhou, Chenglei Wu, Zimo Li, Chen Cao, Yuting Ye, **Jason M. Saragih**, Hao Li, Yaser Sheikh, *Fully Convolutional Mesh Autoencoder using Efficient Spatially Varying Kernels* [[Paper](https://arxiv.org/abs/2006.04325)]
    
 ### ECCV 2020
 * **Christian Simon**, Piotr Koniusz, Richard Nock, Mehrtash Harandi, *On Modulating the Gradient for Meta-Learning* [[Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545.pdf)] [[Supp](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545-supp.pdf)]
