@@ -44,6 +44,9 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Shuwei Li, **Robby T. Tan**, *NightCC: Nighttime Color Constancy via Adaptive Channel Masking*
 * Walter Zimmer, **Gerhard Arya Wardana**, Suren Sritharan, Xingcheng Zhou, Rui Song, Alois C. Knoll, *TUMTraf V2X Cooperative Perception Dataset* [[Paper](https://arxiv.org/abs/2403.01316)]
 
+### AAAI 2024
+* Wei Zong, Yang-Wai Chow, **Willy Susilo**, Joonsang Baek, Jongkil Kim, Seyit Camtepe, *IPRemover: A Generative Model Inversion Attack against Deep Neural Network Fingerprinting and Watermarking* [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28619)]
+
 ### WACV 2024
 * **Joshua Santoso**, **Christian Simon**, **Williem**, *On Manipulating Scene Text in the Wild with Diffusion Models* [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Santoso_On_Manipulating_Scene_Text_in_the_Wild_With_Diffusion_Models_WACV_2024_paper.pdf)]
 * **Farchan Hakim Raswa**, Chun-Shien Lu, and Jia-Ching Wang, *Attention-Guided Prototype Mixing: Diversifying Minority Context on Imbalanced Whole Slide Images Classification Learning* [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Raswa_Attention-Guided_Prototype_Mixing_Diversifying_Minority_Context_on_Imbalanced_Whole_Slide_WACV_2024_paper.pdf)]
