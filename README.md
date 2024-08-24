@@ -243,6 +243,9 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Zhuwen Li, Ping Tan, **Robby T. Tan**, Danping Zhou, Steven Zhiying Zhou and Cheong Loong Fah, *Simultaneous Video Defogging and Stereo Reconstruction* [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Li_Simultaneous_Video_Defogging_2015_CVPR_paper.pdf)]
 * Jiaping Zhao, **Christian Siagian**, Laurent Itti, *Fixation bank: Learning to reweight fixation candidates* [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Zhao_Fixation_Bank_Learning_2015_CVPR_paper.pdf)]
 
+### AAAI 2015
+*	GeunSik Jo, Kee-Sung Lee, **Devy Chandra**, Chol-Hee Jang, Myung-Hyun Ga, *RANSAC versus CS-RANSAC* [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/9379)]
+
 ### WACV 2015
 * **Indriyati Atmosukarto**, Narendra Ahuja, Bernard Ghanem, *Action Recognition Using Discriminative Structured Trajectory Groups* [[Paper](https://vision.ai.illinois.edu/html-files-to-import/publications/atmosukartocvpr2015.pdf)]
 
