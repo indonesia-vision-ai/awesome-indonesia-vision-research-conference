@@ -127,6 +127,9 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Ziyan Wang, Timur M. Bagautdinov, Stephen Lombardi, Tomas Simon, **Jason M. Saragih**, Jessica K. Hodgins, Michael Zollhöfer, *Learning Compositional Radiance Fields of Dynamic Human Heads* [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Learning_Compositional_Radiance_Fields_of_Dynamic_Human_Heads_CVPR_2021_paper.pdf)]
 * Shugao Ma, Tomas Simon, **Jason M. Saragih**, Dawei Wang, Yuecheng Li, Fernando De la Torre, Yaser Sheikh, *Pixel Codec Avatars* [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_Pixel_Codec_Avatars_CVPR_2021_paper.pdf)]
 
+### AAAI 2021
+* Kaichen Zhou, Changhao Chen, Bing Wang, **Muhamad Risqi Utama Saputra**, Niki Trigoni, Andrew Markham, *VMLoc: Variational Fusion For Learning-Based Multimodal Camera Localization* [[Paper](https://arxiv.org/abs/2003.07289)]
+
 ### WACV 2021
 * **Stefan Lionar**, Daniil Emtsev, Dusan Svilarkovic, Songyou Peng, *Dynamic Plane Convolutional Occupancy Networks*, [[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Lionar_Dynamic_Plane_Convolutional_Occupancy_Networks_WACV_2021_paper.pdf)]
 * Jerry W. Wei, **Arief A. Suriawinata**, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Louis J. Vaickus, Charles Brown, Michael Baker, Mustafa Nasir-Moin, Naofumi Tomita, Lorenzo Torresani, Jason Wei, Saeed Hassanpour, *Learn like a Pathologist: Curriculum Learning by Annotator Agreement for Histopathology Image Classification* [[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Wei_Learn_Like_a_Pathologist_Curriculum_Learning_by_Annotator_Agreement_for_WACV_2021_paper.pdf)]
