@@ -10,7 +10,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 - Christian Siagian [[Profile Page](http://ilab.usc.edu/siagian/)] [[Google Scholar](https://scholar.google.com/citations?user=HPbXCwIAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/35/4742.html)]
 - Christian Simon [[Profile Page](https://chrysts.github.io/)] [[Google Scholar](https://scholar.google.com/citations?user=eZrRbp4AAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/10/3925.html)]
 - Derry Wijaya [[Profile Page](https://derrywijaya.github.io/web/)] [[Google Scholar](https://scholar.google.com/citations?user=8lmWWD0AAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/43/6731.html)]
-- Devy Chandra
+- Devy Chandra [[DBLP](https://dblp.org/pid/161/0004.html)]
 - Dian Tjondronegoro [[Profile Page](https://experts.griffith.edu.au/7144-dian-tjondronegoro)] [[Google Scholar](https://scholar.google.com/citations?user=_OblDDgAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/60/2965.html)]
 - Dicky Nauli Sihite [[Google Scholar](https://scholar.google.com/citations?user=h-OIAIAAAAAJ&hl=en)] [[DBLP](https://dblp.org/pid/116/6482.html)]
 - Didik Purwanto [[Profile Page](https://www.didpurwanto.com/)] [[Google Scholar](https://scholar.google.com/citations?hl=en&user=nQsP3hYAAAAJ&view_op=list_works&sortby=pubdate)] [[DBLP](https://dblp.org/pid/205/4059.html)]
