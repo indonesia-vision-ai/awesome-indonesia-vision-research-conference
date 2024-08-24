@@ -75,6 +75,9 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Ziyan Wang, Giljoo Nam, Tuur Stuyck, Stephen Lombardi, Chen Cao, **Jason M. Saragih**, Michael Zollhöfer, Jessica K. Hodgins, Christoph Lassner, *NeuWigs: A Neural Dynamic Model for Volumetric Hair Capture and Animation* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_NeuWigs_A_Neural_Dynamic_Model_for_Volumetric_Hair_Capture_and_CVPR_2023_paper.pdf)]
 * Tsai Hor Chan, **Fernando Julio Cendra**, Lan Ma, Guosheng Yin, Lequan Yu, *Histopathology Whole Slide Image Analysis with Heterogeneous Graph Representation Learning* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chan_Histopathology_Whole_Slide_Image_Analysis_With_Heterogeneous_Graph_Representation_Learning_CVPR_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Chan_Histopathology_Whole_Slide_CVPR_2023_supplemental.pdf)]
 
+### AAAI 2023
+* Sangmin Woo, Sumin Lee, Yeonju Park, **Muhammad Adi Nugroho**, Changick Kim, *Towards Good Practices for Missing Modality Robust Action Recognition* [[Paper](https://arxiv.org/abs/2211.13916)]
+
 ### WACV 2023
 * Sumin Lee, Sangmin Woo, Yeonju Park, **Muhammad Adi Nugroho**, Changick Kim, *Modality Mixer for Multi-Modal Action Recognition* [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Lee_Modality_Mixer_for_Multi-Modal_Action_Recognition_WACV_2023_paper.pdf)]
 * Nhat Le, Khanh Nguyen, Quang D. Tran, **Erman Tjiputra**, Bac Le, Anh Nguyen, *Uncertainty-aware Label Distribution Learning for Facial Expression Recognition* [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Le_Uncertainty-Aware_Label_Distribution_Learning_for_Facial_Expression_Recognition_WACV_2023_paper.pdf)]
