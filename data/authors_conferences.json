@@ -74,14 +74,23 @@
             "CVPR_2020",
             "CVPR_2015",
             "CVPR_2022",
-            "ICCV_2021"
+            "ICCV_2021",
+            "ICLR_2024"
         ],
         "residence": "Japan"
     },
     "Derry Wijaya": {
         "link": "https://dblp.org/pid/43/6731.html",
         "publications": [
-            "ECCV_2020"
+            "ECCV_2020",
+            "ICLR_2022"
+        ],
+        "residence": "Indonesia"
+    },
+    "Devy Chandra": {
+        "link": "https://dblp.org/pid/161/0004.html",
+        "publications": [
+            "AAAI_2015"
         ],
         "residence": "Indonesia"
     },
@@ -101,7 +110,8 @@
             "TIP_2013",
             "CVPR_2012",
             "ICCV_2013",
-            "BMVC_2011"
+            "BMVC_2011",
+            "AAAI_2012"
         ],
         "residence": "United States"
     },
@@ -237,7 +247,8 @@
             "CVPR_2022",
             "CVPR_2018",
             "ICCV_2009",
-            "ICCV_2007"
+            "ICCV_2007",
+            "NeurIPS_2020"
         ],
         "residence": "United States"
     },
@@ -291,7 +302,9 @@
     "Muhamad Risqi U. Saputra": {
         "link": "https://dblp.org/pid/172/7604.html",
         "publications": [
-            "ICCV_2019"
+            "ICCV_2019",
+            "AAAI_2021"
+
         ],
         "residence": "Indonesia"
     },
@@ -300,7 +313,8 @@
         "publications": [
             "CVIU_2023",
             "WACV_2023",
-            "ICCV_2023"
+            "ICCV_2023",
+            "AAAI_2023"
         ],
         "residence": "South Korea"
     },
@@ -455,7 +469,8 @@
     "Stefan Lionar": {
         "link": "https://dblp.org/pid/278/2750.html",
         "publications": [
-            "WACV_2021"
+            "WACV_2021",
+            "NeurIPS_2023"
         ],
         "residence": "Singapore"
     },
@@ -464,7 +479,9 @@
         "publications": [
             "ECCV_2022",
             "CVPR_2018",
-            "ICCV_2023"
+            "ICCV_2023",
+            "NeurIPS_2017",
+            "IJCAI_2018"
         ],
         "residence": "Singapore"
     },
@@ -510,7 +527,8 @@
         "link": "https://dblp.org/pid/12/3447.html",
         "publications": [
             "ECCV_2022",
-            "CVPR_2023"
+            "CVPR_2023",
+            "AAAI_2024"
         ],
         "residence": "Australia"
     }
