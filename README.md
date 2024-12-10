@@ -30,6 +30,9 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ## Papers
 
+### BMVC 2024
+* **Marcella Astrid**, Enjie Ghorbel, Djamila Aouada, *Detecting Audio-Visual Deepfakes with Fine-Grained Inconsistencies* [[Paper](https://www.arxiv.org/abs/2408.06753)]
+  
 ### ECCV 2024
 * **Fernando Julio Cendra**, Bingchen Zhao, Kai Han, *PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery* [[Paper](https://arxiv.org/pdf/2407.19001)] [[Project page](https://visual-ai.github.io/promptccd/)]
 
