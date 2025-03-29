@@ -30,6 +30,9 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ## Papers
 
+### CVPR 2025
+* **Fernando Julio Cendra**, Kai Han, *ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models* [[Paper](https://arxiv.org/pdf/2503.19902)] [[Project page](https://visual-ai.github.io/ice/)] 
+
 ### ECCV 2024
 * **Fernando Julio Cendra**, Bingchen Zhao, Kai Han, *PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery* [[Paper](https://arxiv.org/pdf/2407.19001)] [[Project page](https://visual-ai.github.io/promptccd/)]
 
