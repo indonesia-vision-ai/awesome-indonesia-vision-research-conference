@@ -30,10 +30,17 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ## Papers
 
+ 
+
+=======
 ### CVPR 2025
 * **Fernando Julio Cendra** and Kai Han, *ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models* [[Paper](https://arxiv.org/pdf/2503.19902)] [[Project page](https://visual-ai.github.io/ice/)]
 * **Farchan Hakim Raswa**, Chun-Shien Lu, Jia-Ching Wang, *HistoFS: Non-IID Histopathologic Whole Slide Image Classification via Federated Style Transfer with RoI-Preserving*, [[Project page](https://lalakitchen.github.io/HistoFS/)]
 
+ 
+### BMVC 2024
+* **Marcella Astrid**, Enjie Ghorbel, Djamila Aouada, *Detecting Audio-Visual Deepfakes with Fine-Grained Inconsistencies* [[Paper](https://www.arxiv.org/abs/2408.06753)]
+  
 ### ECCV 2024
 * **Fernando Julio Cendra**, Bingchen Zhao,  Kai Han, *PromptCCD: Learning Gaussian Mixture Prompt Pool for Continual Category Discovery* [[Paper](https://arxiv.org/pdf/2407.19001)] [[Project page](https://visual-ai.github.io/promptccd/)]
 
