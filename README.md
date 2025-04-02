@@ -414,6 +414,13 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
             <br />
             <sub><b>Fernando Julio Cendra</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/aseuteurideu">
+            <img src="https://avatars.githubusercontent.com/u/15900258?v=4" width="100;" alt="aseuteurideu"/>
+            <br />
+            <sub><b>Marcella Astrid</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
