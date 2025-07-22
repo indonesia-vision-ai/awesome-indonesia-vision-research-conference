@@ -70,6 +70,12 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ### AAAI 2024
 * Wei Zong, Yang-Wai Chow, **Willy Susilo**, Joonsang Baek, Jongkil Kim, Seyit Camtepe, *IPRemover: A Generative Model Inversion Attack against Deep Neural Network Fingerprinting and Watermarking* [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28619)]
+* Jiadong Wang, Zexu Pan, Malu Zhang, **Robby T. Tan**, Haizhou Li, *Restoring Speaking Lips from Occlusion for Audio-Visual Speech Recognition* [[Paper](https://underline.io/lecture/92736-restoring-speaking-lips-from-occlusion-for-audio-visual-speech-recognition)]
+* Jin Yeying, Wenhan Yan, Yuan Yuan, Wei Ye, **Robby T. Tan**, *DeS3: Adaptive Attention-driven Self and Soft Shadow Removal using ViT Similarity* [[Paper](https://arxiv.org/abs/2211.08089)]
+* Beibei Lin, Yeying Jin, Wending Yan, Wei Ye, Yuan Yuan, Shunli Zhang, **Robby T. Tan**, *NightRain: Nighttime Video Deraining via Self-Rain-Removal and Self-Correction* [[Paper](https://arxiv.org/abs/2401.00729)]
+* Xin Yang, Wending Yan, Yuan Yuan, Michael Bi Mi, **Robby T. Tan**, *Semantic Segmentation in Multiple Adverse Weather Conditions with Domain Knowledge Retention* [[Paper](https://arxiv.org/abs/2401.07459)]
+* Xin Zhang, Jinheng Xie, Yuan Yuan, Michael Bi Mi, **Robby T. Tan**, *HEAP: Unsupervised Object Discovery and Localization with Contrastive Grouping* [[Paper](https://arxiv.org/pdf/2312.17492)]
+* Qinqian Lei, Bo Wang, **Robby T. Tan**, *Few-Shot Learning from Augmented Label-uncertain Queries in Bongard-HOI* [[Paper](https://arxiv.org/pdf/2312.10586)]
 
 ### WACV 2024
 * **Joshua Santoso**, **Christian Simon**, **Williem**, *On Manipulating Scene Text in the Wild with Diffusion Models* [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Santoso_On_Manipulating_Scene_Text_in_the_Wild_With_Diffusion_Models_WACV_2024_paper.pdf)]
@@ -107,6 +113,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ### AAAI 2023
 * Sangmin Woo, Sumin Lee, Yeonju Park, **Muhammad Adi Nugroho**, Changick Kim, *Towards Good Practices for Missing Modality Robust Action Recognition* [[Paper](https://arxiv.org/abs/2211.13916)]
+* Yeying Jin, Ruoteng Li, Wenhan Yang, **Robby T. Tan**, *Estimating Reflectance Layer from A Single Image: Integrating Reflectance Guidance and Shadow/Specular Aware Learning* [[Paper](https://arxiv.org/abs/2211.14751)]
 
 ### WACV 2023
 * Sumin Lee, Sangmin Woo, Yeonju Park, **Muhammad Adi Nugroho**, Changick Kim, *Modality Mixer for Multi-Modal Action Recognition* [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Lee_Modality_Mixer_for_Multi-Modal_Action_Recognition_WACV_2023_paper.pdf)]
@@ -136,6 +143,8 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * **Christian Simon**, Piotr Koniusz, Mehrtash Harandi, *Meta-Learning for Multi-Label Few-Shot Classification* [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Simon_Meta-Learning_for_Multi-Label_Few-Shot_Classification_WACV_2022_paper.pdf)]
 * **Christian Simon**, Piotr Koniusz, Mehrtash Harandi, *Towards a Robust Differentiable Architecture Search under Label Noise* [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Simon_Towards_a_Robust_Differentiable_Architecture_Search_Under_Label_Noise_WACV_2022_paper.pdf)]
 
+### NIPS 2022
+* Myles Bartlett, Sara Romiti, Viktoriia Sharmanska, **Novi Quadrianto**, *Okapi: generalising better by making statistical matches match* [[Paper](https://openreview.net/pdf?id=3wg-rYuo5AN)]
 
 ### BMVC 2021
 * **Marcella Astrid**, Muhammad Zaigham Zaheer, Jae-Yeong Lee, Seung-Ik Lee, *Learning Not to Reconstruct Anomalies* [[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0711.pdf)]
@@ -169,7 +178,8 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 
 ### NeurIPS 2020
 * Yi Zhou, Chenglei Wu, Zimo Li, Chen Cao, Yuting Ye, **Jason M. Saragih**, Hao Li, Yaser Sheikh, *Fully Convolutional Mesh Autoencoder using Efficient Spatially Varying Kernels* [[Paper](https://arxiv.org/abs/2006.04325)]
-   
+* Cheng Yu, Bo Wang, Bo Yang, **Robby T. Tan**, *Graph and Temporal Convolutional Networks for 3D Multi-person Pose Estimation in Monocular Videos*, [[Paper](https://arxiv.org/abs/2012.11806v1)]
+
 ### ECCV 2020
 * **Christian Simon**, Piotr Koniusz, Richard Nock, Mehrtash Harandi, *On Modulating the Gradient for Meta-Learning* [[Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545.pdf)] [[Supp](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545-supp.pdf)]
 * Yuan Liu, Ruoteng Li, Yu Cheng, **Robby T. Tan**, X. Sui, *Object Tracking using Spatio-Temporal Networks for Future Prediction Location* [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670001.pdf)]
@@ -197,13 +207,15 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### BMVC 2020
 * Binh X. Nguyen, Binh D. Nguyen, Gustavo Carneiro, **Erman Tjiputra**, Quang D. Tran, Thanh-Toan Do, *Deep Metric Learning Meets Deep Clustering: An Novel Unsupervised Approach for Feature Embedding.* [[Paper](https://researchmgt.monash.edu/ws/portalfiles/portal/330167689/330167514_oa.pdf)]
 
+### AAAI 2020
+* Yu Cheng, Bo Yang, Bo Wang, **Robby T. Tan**, *3D Human Pose Estimation using Spatio-Temporal Networks with Explicit Occlusion Training.* [[Paper](https://arxiv.org/abs/2004.11822)]
+
 ### ICCV 2019
 * **Muhamad Risqi U. Saputra**, Pedro P. B. de Gusmao, Yasin Almalioglu, Andrew Markham, Niki Trigoni, *Distilling Knowledge From a Deep Pose Regressor Network* [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Saputra_Distilling_Knowledge_From_a_Deep_Pose_Regressor_Network_ICCV_2019_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Saputra_Distilling_Knowledge_From_ICCV_2019_supplemental.pdf)]
 * Li Ruoteng, **Robby T. Tan**, A. Aviles-Rivero, Q. Fan, C. Schoenlieb, L.F. Cheong, *RainFlow: Optical Flow under Rain Streaks and Rain Veiling Effect* [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_RainFlow_Optical_Flow_Under_Rain_Streaks_and_Rain_Veiling_Effect_ICCV_2019_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Li_RainFlow_Optical_Flow_ICCV_2019_supplemental.pdf)]
 * Cheng Yu, Bo Yang, Bo Wang, Wending Yan, **Robby T. Tan**, *Occlusion-Aware Networks for 3D Human Pose Estimation in Video* [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cheng_Occlusion-Aware_Networks_for_3D_Human_Pose_Estimation_in_Video_ICCV_2019_paper.pdf)]
 * **Rey Reza Wiyatno**, Anqi Xu, *Physical Adversarial Textures That Fool Visual Object Tracking* [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wiyatno_Physical_Adversarial_Textures_That_Fool_Visual_Object_Tracking_ICCV_2019_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Wiyatno_Physical_Adversarial_Textures_ICCV_2019_supplemental.zip)]
 * Tuong Do, Huy Tran, Thanh-Toan Do, **Erman Tjiputra**, Quang D. Tran, *Compact Trilinear Interaction for Visual Question Answering.* [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Do_Compact_Trilinear_Interaction_for_Visual_Question_Answering_ICCV_2019_paper.pdf)]
-*
 
 ### CVPR 2019
 * Li Ruoteng, Cheong Loong Fah, **Robby T. Tan**, *Heavy Rain Image Restoration: Integrating Physics Model and Conditional Adversarial Learning* [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Heavy_Rain_Image_Restoration_Integrating_Physics_Model_and_Conditional_Adversarial_CVPR_2019_paper.pdf)]
@@ -286,6 +298,12 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * Shaokang Chen, **Arnold Wiliem**, Conrad Sanderson, Brian C Lovell, *Matching image sets via adaptive multi convex hull* [[Paper](http://arxiv.org/pdf/1403.0320v1)]
 * **Arnold Wiliem**, Peter Hobson, Brian C. Lovell, *Discovering Discriminative Cell Attributes for HEp-2 Specimen Image Classification* [[Paper](https://www.uq.id.au/a.wiliem/papers/wiliem_wacv2014.pdf)]
 
+### ICML 2014
+* Sébastien Bratières, **Novi Quadrianto**, Sebastian Nowozin, Zoubin Ghahramani, *Scalable Gaussian Process Structured Prediction for Grid Factor Graph Applications* [[Paper](https://proceedings.mlr.press/v32/bratieres14.pdf)]
+
+### NIPS 2014
+* Daniel Hernández-Lobato, Viktoriia Sharmanska, Kristian Kersting, Christoph H. Lampert, **Novi Quadrianto**, *Mind the Nuisance: Gaussian Process Classification using Privileged Noise* [[Paper](https://proceedings.neurips.cc/paper_files/paper/2014/file/6e2713a6efee97bacb63e52c54f0ada0-Paper.pdf)]
+
 ### ICCV 2013
 * Viktoriia Sharmanska, **Novi Quadrianto**, Christoph H. Lampert, *Learning to Rank Using Privileged Information*, [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Sharmanska_Learning_to_Rank_2013_ICCV_paper.pdf)]
 * Ali Borji, Hamed Rezazadegan Tavakoli, **Dicky N. Sihite**, Laurent Itti, *Analysis of Scores, Datasets, and Models in Visual Saliency Prediction* [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Borji_Analysis_of_Scores_2013_ICCV_paper.pdf)]
@@ -326,12 +344,18 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### CVPR 2011
 * **Jason M. Saragih**, *Principal regression analysis*, [[Paper](https://ieeexplore.ieee.org/abstract/document/5995618)]
 
+### ICML 2011
+* **Novi Quadrianto**, Christoph H. Lampert, *Learning Multi-View Neighborhood Preserving Projections* [[Paper](https://users.sussex.ac.uk/~nq28/pubs/QuaLam11.pdf)]
+
 ### CVPR 2010
 * T. Morimoto, **Robby T. Tan**, R. Kawakami, and K. Ikeuchi, *Estimating Optical Properties of Layered Surfaces Using the Spider Model* [[Paper](https://www.dropbox.com/s/zcarsgvz770gjoz/2010_cvpr_morimoto.pdf?dl=0)]
 * Tat-Jen Cham, **Arridhana Ciptadi**, Wei-Chian Tan, Minh-Tri Pham, Liang-Tien Chia, *Estimating camera pose from a single urban ground-view omnidirectional image and a 2D building outline map* [[Paper](https://www.dropbox.com/scl/fi/xqi3rnsjet2i98j7267xm/Estimating_Camera_Pose_from_a_Single_Urban_Ground.pdf?rlkey=watxcnj1881dh1pfzc931vvir&dl=0)]
 * Alex Y. S. Chia, **Susanto Rahardja**, Deepu Rajan, Maylor K. H. Leung, *Object recognition by discriminative combinations of line segments and ellipses* [[Paper](https://iacl.ece.jhu.edu/proceedings/cvpr2010/papers/0503.pdf)]
 * **Grani Adiwena Hanasusanto**, Zheng Wu, Michael S. Brown, *Ink-bleed reduction using functional minimization* [[Paper](https://ieeexplore.ieee.org/document/5540130)]
 
+### NIPS 2010
+* **Novi Quadrianto**, Alexander J. Smola, Tibério S. Caetano, S. V. N. Vishwanathan, James Petterson, *Multitask Learning without Label Correspondences* [[Paper](https://papers.nips.cc/paper_files/paper/2010/file/aff1621254f7c1be92f64550478c56e6-Paper.pdf)]
+  
 ### CVPR 2009
 * Akshay Asthana, Roland Goecke, **Novi Quadrianto**, Tom Gedeon, *Learning based automatic face annotation for arbitrary poses and expressions from frontal images only* [[Paper](http://sro.sussex.ac.uk/id/eprint/47606/1/AstGoeQuaGed09.pdf)]
 
@@ -341,11 +365,17 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * **Jason M. Saragih**, Simon Lucey, Jeffrey F. Cohn, *Face alignment through subspace constrained mean-shifts* [[Paper](https://ieeexplore.ieee.org/document/5459377)]
 * **Jason M. Saragih**, Simon Lucey, Jeffrey F. Cohn, *Deformable model fitting with a mixture of local experts* [[Paper](https://ieeexplore.ieee.org/document/5459461)]
 
+### NIPS 2009
+* **Novi Quadrianto**, Tibério S. Caetano, John Lim, Dale Schuurmans, *Convex Relaxation of Mixture Regression with Efficient Algorithms* [[Paper](https://papers.nips.cc/paper_files/paper/2009/file/7250eb93b3c18cc9daa29cf58af7a004-Paper.pdf)]
+
 ### CVPR 2008
 * **Robby T. Tan**, *Visibility in Bad Weather from A Single Image* [[Paper](https://www.dropbox.com/s/y0t300rxaim7cnf/2008_cvpr.pdf?dl=0)]
 
 ### ECCV 2008
 * Christian Gosch, **Ketut Fundana**, Anders Heyden, Christoph Schnörr, *View Point Tracking of Rigid Objects Based on Shape Sub-manifolds* [[Paper](https://ipa.iwr.uni-heidelberg.de/dokuwiki/Papers/Gosch-Fundana-Heyden-Schnoerr-2008.pdf)]
+
+### NIPS 2008
+* **Novi Quadrianto**, Le Song, Alex J. Smola, *Kernelized sorting* [[Paper](https://papers.nips.cc/paper_files/paper/2008/file/94c7bb58efc3b337800875b5d382a072-Paper.pdf)]
 
 ### ICCV 2007
 * Luc Florack, Hans C. van Assen, **Avan Suinesiaputra**, *Dense Multiscale Motion Extraction from Cardiac Cine MR Tagging using HARP Technology* [[Paper](https://www.dropbox.com/scl/fi/yr052d59lv7fjb31agrvj/Dense_Multiscale_Motion_Extraction_from_Cardiac_Ci.pdf?rlkey=9xkw4k2soojne2c1rokv2byob&dl=0)]
