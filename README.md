@@ -33,14 +33,24 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
  
 
 =======
+### AAAI 2025
+* Beibei Lin, Yeying Jin, Yan Wending, Wei Yi, Yuan Yuan, **Robby T. Tan**, *NightHaze: Nighttime Image Dehazing via Self-Prior Learning* [[Paper](https://arxiv.org/abs/2403.07408)]
+* Xin Yang, Wending Yan, Yuan Yuan, Michael Bi Mi, **Robby T. Tan**, *Semantic Segmentation on Raindrop Degraded Images using Two-Stage Dual Teacher-Student Learning* [[Paper](https://tanrobby.github.io/pub.html)]
+
 ### CVPR 2025
 * **Fernando Julio Cendra** and Kai Han, *ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models* [[Paper](https://arxiv.org/pdf/2503.19902)] [[Project page](https://visual-ai.github.io/ice/)]
 * **Farchan Hakim Raswa**, Chun-Shien Lu, Jia-Ching Wang, *HistoFS: Non-IID Histopathologic Whole Slide Image Classification via Federated Style Transfer with RoI-Preserving*, [[Project page](https://lalakitchen.github.io/HistoFS/)]
 * **Stefan Lionar**, Jiabin Liang, Gim Hee Lee, *TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing* [[Paper](https://arxiv.org/pdf/2503.11629)] [[Project page](https://github.com/sail-sg/TreeMeshGPT)]
+* Zhang Xin, **Robby T. Tan**, *Mamba as a Bridge: Where VFM Meets VLM for Domain-Generalized Semantic Segmentation* [[Paper](https://tanrobby.github.io/pub.html)]
+* Weilong Yan, M. Li, H. Li, S. Shao, **Robby T. Tan**, *Synthetic-to-Real Self-supervised Robust Depth Estimation via Learning with Motion and Structure Priors* [[Paper](https://tanrobby.github.io/pub.html)]
+
+### NIPS 2024
+* Qinqian Lei, Bo Wang, **Robby T. Tan**, *EZ-HOI: VLM Adaptation via Guided Prompt Learning for Zero-Shot HOI Detection* [[Paper](https://openreview.net/pdf?id=paobkszgIA)] [[Project page](https://chelsielei.github.io/EZHOI_ProjPage/)]
+* Xin Yang, W. Yan, M. Bi Mi, Y. Yuan, **Robby T. Tan**, *End-to-End Video Semantic Segmentation in Adverse Weather using Fusion Blocks and Temporal-Spatial Teacher-Student Learning* [[Paper](https://openreview.net/pdf?id=R1Rrb2d5BH)]
 
 ### WACV 2025
 * **Daniel Panangian** and Ksenia Bittner, *Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?* [[Paper](https://arxiv.org/abs/2501.15847)]
- 
+
 ### BMVC 2024
 * **Marcella Astrid**, Enjie Ghorbel, Djamila Aouada, *Detecting Audio-Visual Deepfakes with Fine-Grained Inconsistencies* [[Paper](https://www.arxiv.org/abs/2408.06753)]
   
