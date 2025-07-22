@@ -38,7 +38,8 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 * **Farchan Hakim Raswa**, Chun-Shien Lu, Jia-Ching Wang, *HistoFS: Non-IID Histopathologic Whole Slide Image Classification via Federated Style Transfer with RoI-Preserving*, [[Project page](https://lalakitchen.github.io/HistoFS/)]
 * **Stefan Lionar**, Jiabin Liang, Gim Hee Lee, *TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing* [[Paper](https://arxiv.org/pdf/2503.11629)] [[Project page](https://github.com/sail-sg/TreeMeshGPT)]
 
-
+### WACV 2025
+* **Daniel Panangian** and Ksenia Bittner, *Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?* [[Paper](https://arxiv.org/abs/2501.15847)]
  
 ### BMVC 2024
 * **Marcella Astrid**, Enjie Ghorbel, Djamila Aouada, *Detecting Audio-Visual Deepfakes with Fine-Grained Inconsistencies* [[Paper](https://www.arxiv.org/abs/2408.06753)]
