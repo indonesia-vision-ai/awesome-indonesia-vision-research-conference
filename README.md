@@ -47,7 +47,10 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 ### NIPS 2024
 * Qinqian Lei, Bo Wang, **Robby T. Tan**, *EZ-HOI: VLM Adaptation via Guided Prompt Learning for Zero-Shot HOI Detection* [[Paper](https://openreview.net/pdf?id=paobkszgIA)] [[Project page](https://chelsielei.github.io/EZHOI_ProjPage/)]
 * Xin Yang, W. Yan, M. Bi Mi, Y. Yuan, **Robby T. Tan**, *End-to-End Video Semantic Segmentation in Adverse Weather using Fusion Blocks and Temporal-Spatial Teacher-Student Learning* [[Paper](https://openreview.net/pdf?id=R1Rrb2d5BH)]
- 
+
+### WACV 2025
+* **Daniel Panangian** and Ksenia Bittner, *Can Location Embeddings Enhance Super-Resolution of Satellite Imagery?* [[Paper](https://arxiv.org/abs/2501.15847)]
+
 ### BMVC 2024
 * **Marcella Astrid**, Enjie Ghorbel, Djamila Aouada, *Detecting Audio-Visual Deepfakes with Fine-Grained Inconsistencies* [[Paper](https://www.arxiv.org/abs/2408.06753)]
   
