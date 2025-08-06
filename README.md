@@ -35,6 +35,7 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
 =======
 ### ICCV 2025
 * **Christian Simon**, Masato Ishii, Akio Hayakawa, Zhi Zhong, Shusuke Takahashi, Takashi Shibuya, and Yuki Mitsufuji , *TITAN-Guide: Taming Inference-Time AligNment for Guided Text-to-Video Diffusion Models* [[Paper](https://arxiv.org/abs/2508.00289)] [[Project page](https://titanguide.github.io/)]
+* Dat Nguyen, **Marcella Astrid**, Anis Kacem, Enjie Ghorbel, and Djamila Aouada, *Vulnerability-Aware Spatio-Temporal Learning for Generalizable Deepfake Video Detection* [[Paper](https://arxiv.org/abs/2501.01184)]
 
 ### AAAI 2025
 * Beibei Lin, Yeying Jin, Yan Wending, Wei Yi, Yuan Yuan, **Robby T. Tan**, *NightHaze: Nighttime Image Dehazing via Self-Prior Learning* [[Paper](https://arxiv.org/abs/2403.07408)]
