@@ -448,18 +448,46 @@ A compilation of Indonesian authors who have published paper(s) in the selected 
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/aseuteurideu">
+            <img src="https://avatars.githubusercontent.com/u/15900258?v=4" width="100;" alt="aseuteurideu"/>
+            <br />
+            <sub><b>Marcella Astrid</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/naufalso">
             <img src="https://avatars.githubusercontent.com/u/51362638?v=4" width="100;" alt="naufalso"/>
             <br />
             <sub><b>Naufal Suryanto</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/fcendra">
             <img src="https://avatars.githubusercontent.com/u/55789008?v=4" width="100;" alt="fcendra"/>
             <br />
             <sub><b>Fernando Julio Cendra</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/dpanangian">
+            <img src="https://avatars.githubusercontent.com/u/100955258?v=4" width="100;" alt="dpanangian"/>
+            <br />
+            <sub><b>Daniel Panangian</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/splionar">
+            <img src="https://avatars.githubusercontent.com/u/31429575?v=4" width="100;" alt="splionar"/>
+            <br />
+            <sub><b>Stefan Lionar</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/jano-cc">
+            <img src="https://avatars.githubusercontent.com/u/152584627?v=4" width="100;" alt="jano-cc"/>
+            <br />
+            <sub><b>Null</b></sub>
         </a>
     </td></tr>
 </table>
